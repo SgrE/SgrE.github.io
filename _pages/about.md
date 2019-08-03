@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year Ph.D. student in [Institute of Image Processing Pattern Recognition](http://www.pami.sjtu.edu.cn) at
+I'm currently a postdoctoral researcher in ESAT-STADIUS, KU Leuven, Belgium, supervised by [Johan A.K. Suykens](https://www.esat.kuleuven.be/sista/members/suykens.html).
+Before, in 2019.06, I recieved the Ph.D degree in [Institute of Image Processing Pattern Recognition](http://www.pami.sjtu.edu.cn) at
 [Shanghai Jiao Tong University](http://www.sjtu.edu.cn).
 My advisor is Prof. [Jie Yang](http://www.pami.sjtu.edu.cn/jieyang).
-Before coming to SJTU, I received the B.S. degree in control science and engineering from 
+Before coming to SJTU, I received the B.E. degree in control science and engineering from 
 [Harbin Institute of Technology](http://www.hit.edu.cn) in 2014.
 
 I’m generally interested in statistical machine learning, mainly on [kernel methods](https://en.wikipedia.org/wiki/Kernel_method) regarding to data-adaptive
@@ -25,12 +26,17 @@ topics including [bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inf
 Here is my [CV](http://sgre.github.io/files/SgrE_CV.pdf).
 
 The homepage is under construction and more information will be presented.
+Papers can be found in [Goole scholar]{http://scholar.google.com.hk/citations?user=AKxBgssAAAAJ&hl=zh-CN&oi=ao}.
+
+If the source code cannot be downloaded, please contact me and I will directly release it. 
 
 此外，博士期间承担若干项目，作为主要完成人，已申报国防专利三项。
 
 News
 ----
-It will be regularly updated.
+Sometimes it could not be updated in time.
+
+2019-08 One paper was accepted by IEEE Transactions on Neural Networks and Learning Systems.
 
 2018-09 I was honored the National Scholarship awarded by Ministry of Education of China.
 
