@@ -26,7 +26,7 @@ topics including [bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inf
 Here is my [CV](http://sgre.github.io/files/SgrE_CV.pdf).
 
 The homepage is under construction and more information will be presented.
-Papers can be found in [Goole scholar]{http://scholar.google.com.hk/citations?user=AKxBgssAAAAJ&hl=zh-CN&oi=ao}.
+Papers can be found in [Goole scholar](http://scholar.google.com.hk/citations?user=AKxBgssAAAAJ&hl=zh-CN&oi=ao).
 
 If the source code cannot be downloaded, please contact me and I will directly release it. 
 
