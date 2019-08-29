@@ -48,7 +48,7 @@ Preprints
 
 * **Fanghui Liu**, Tao Zhou, Keren Fu, Irene Yu-Hua Gu, and Jie Yang. *Robust visual tracking via inverse nonnegative matrix factorization*, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP-2016). [**paper**](http://sgre.github.io/files/NMF_ICASSP.pdf), [**code**](http://sgre.github.io/files/INCLF_code.zip).
 
-* Tao Zhou, H. Bhaskar, **Fanghui Liu** and Jie Yang. *Graph regularized and locality-constrained coding for robust visual tracking*. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2016. [**paper**](https://ieeexplore.ieee.org/abstract/document/7484722)
+* Tao Zhou, H. Bhaskar, **Fanghui Liu** and Jie Yang. *Graph regularized and locality-constrained coding for robust visual tracking*. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). [**paper**](https://ieeexplore.ieee.org/abstract/document/7484722)
 
 
 2015
