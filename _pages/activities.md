@@ -27,10 +27,10 @@ Reviewing
 * IEEE Transactions on Cybenetics
 * IEEE Transactions on Multimedia
 * IEEE Transactions on Circuits and Systems for Video Technology
-* Pattern Recognition (Outstanding Reviewer Award)
+* Pattern Recognition (**Outstanding Reviewer Award**)
 * IEEE Signal Processing Letters
-* Neurocomputing (Outstanding Reviewer Award)
-* Pattern Recognition Letters (<font color=#FF0000 >Outstanding Reviewer Award</font>)
+* Neurocomputing (**Outstanding Reviewer Award**)
+* Pattern Recognition Letters (**Outstanding Reviewer Award**)
 
 * AAAI-2020: the Thirty-fourth AAAI Conference on Artificial Intelligence
 * ICDM2017: IEEE International Conference on Data Mining

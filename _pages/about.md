@@ -24,9 +24,6 @@ topics including [bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inf
 Here is my [CV](http://sgre.github.io/files/SgrE_CV.pdf).
 
 The homepage is under construction and more information will be presented.
-#Papers can be found in [Goole scholar](http://scholar.google.com.hk/citations?user=AKxBgssAAAAJ&hl=zh-CN&oi=ao).
-
-If the source code cannot be downloaded, please contact me. 
 
 此外，博士期间承担若干项目，涉及红外弱小目标检测、识别、跟踪、抗干扰等。作为主要完成人，已申报专利多项。
 
