@@ -15,7 +15,7 @@ redirect_from:
 
 2018
 ======
-* **Fanghui Liu**, Xiaolin Huang, Chen Gong, Jie Yang, and Johan A.K. Suykens. Indefinite Kernel Logistic Regression With Concave-Inexact-Convex Procedure, IEEE Transactions on Neural Networks and Learning Systems. [LINK](https://ieeexplore.ieee.org/abstract/document/8421036/), [CODE](http://sgre.github.io/files/IKLR_code.zip).
+* **Fanghui Liu**, Xiaolin Huang, Chen Gong, Jie Yang, and Johan A.K. Suykens. Indefinite Kernel Logistic Regression With Concave-Inexact-Convex Procedure, IEEE Transactions on Neural Networks and Learning Systems. [<font color=Blue>LINK</font>](https://ieeexplore.ieee.org/abstract/document/8421036/), [<font color=Blue>CODE</font>](http://sgre.github.io/files/IKLR_code.zip).
 
 2017
 ======
