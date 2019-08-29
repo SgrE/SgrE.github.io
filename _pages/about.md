@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a postdoctoral researcher in ESAT-STADIUS, KU Leuven, Belgium, supervised by [Johan A.K. Suykens](https://www.esat.kuleuven.be/sista/members/suykens.html).
-Before that, I recieved the Ph.D degree in [Institute of Image Processing Pattern Recognition](http://www.pami.sjtu.edu.cn) at
+I'm currently a postdoctoral researcher in [ESAT-STADIUS](https://www.esat.kuleuven.be/stadius/), [KU Leuven](https://www.kuleuven.be/english/), Belgium, supervised by [Johan A.K. Suykens](https://www.esat.kuleuven.be/sista/members/suykens.html).
+Before that, I recieved the Ph.D degree from [Institute of Image Processing Pattern Recognition](http://www.pami.sjtu.edu.cn),
 [Shanghai Jiao Tong University](http://www.sjtu.edu.cn) in June, 2019.
 My advisor is Prof. [Jie Yang](http://www.pami.sjtu.edu.cn/jieyang).
 Before coming to SJTU, I received the B.E. degree in control science and engineering from 
@@ -24,11 +24,11 @@ topics including [bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inf
 Here is my [CV](http://sgre.github.io/files/SgrE_CV.pdf).
 
 The homepage is under construction and more information will be presented.
-Papers can be found in [Goole scholar](http://scholar.google.com.hk/citations?user=AKxBgssAAAAJ&hl=zh-CN&oi=ao).
+#Papers can be found in [Goole scholar](http://scholar.google.com.hk/citations?user=AKxBgssAAAAJ&hl=zh-CN&oi=ao).
 
-If the source code cannot be downloaded, please contact me and I will directly release it. 
+If the source code cannot be downloaded, please contact me. 
 
-此外，博士期间承担若干项目，作为主要完成人，已申报国防专利三项。
+此外，博士期间承担若干项目，涉及红外弱小目标检测、识别、跟踪、抗干扰等。作为主要完成人，已申报专利多项。
 
 News
 ----

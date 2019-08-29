@@ -3,10 +3,11 @@ main:
   #- title: "Publications"
   #  url: /publications/
     
- #   - title: "Selected Publications"
- #   url: /publications/
   - title: "Selected Publications"
     url: /selected publications/
+    
+      - title: "Activities"
+    url: /activities/
     
   - title: "People"
     url: /people/

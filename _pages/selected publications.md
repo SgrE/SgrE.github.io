@@ -42,7 +42,7 @@ Preprints
 
 2016
 ======
-* **Fanghui Liu**, Tao Zhou, Keren Fu and Jie Yang. *Robust visual tracking via constrained correlation filter coding*, Pattern Recognition Letters. [**paper**](http://sgre.github.io/files/OTSDF.pdf), [**paper**](http://sgre.github.io/files/OTSDF.pdf), [**code**](http://sgre.github.io/files/OTSDF_code.zip), [**results**](http://sgre.github.io/files/OTSDF_OTB100.zip).
+* **Fanghui Liu**, Tao Zhou, Keren Fu and Jie Yang. *Robust visual tracking via constrained correlation filter coding*, Pattern Recognition Letters. [**paper**](http://sgre.github.io/files/OTSDF.pdf), [**code**](http://sgre.github.io/files/OTSDF_code.zip), [**results**](http://sgre.github.io/files/OTSDF_OTB100.zip).
 
 * **Fanghui Liu**, Tao Zhou, Keren Fu and Jie Yang. *Geometric affine transformation estimation via correlation filter for visual tracking*, Neurocomputing. [**paper**](http://sgre.github.io/files/GACF.pdf), [**results**](http://sgre.github.io/files/GACF_OTB50.zip).
 
