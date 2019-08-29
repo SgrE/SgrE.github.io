@@ -5,8 +5,8 @@ main:
     
  #   - title: "Selected Publications"
  #   url: /publications/
-  - title: "Codes"
-    url: /codes/
+  - title: "Selected Publications"
+    url: /selected publications/
     
   - title: "People"
     url: /people/
