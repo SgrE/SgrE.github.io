@@ -22,9 +22,16 @@ Reviewing
 
 **Reviewer for:**
 
-* [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
-* [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)
-* [IEEE Transactions on Cybenetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036)
+* IEEE Transactions on Neural Networks and Learning Systems
+* IEEE Transactions on Image Processing
+* IEEE Transactions on Cybenetics
+* IEEE Transactions on Multimedia
+* IEEE Transactions on Circuits and Systems for Video Technology
+* Pattern Recognition (Outstanding Reviewer Award)
+* IEEE Signal Processing Letters
+* Neurocomputing (Outstanding Reviewer Award)
+* Pattern Recognition Letters (<font color=#FF0000 >Outstanding Reviewer Award</font>)
 
-* [IEEE Transactions on Cybenetics]
+* AAAI-2020: the Thirty-fourth AAAI Conference on Artificial Intelligence
+* ICDM2017: IEEE International Conference on Data Mining
 
