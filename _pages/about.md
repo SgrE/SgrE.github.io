@@ -25,11 +25,12 @@ Here is my [CV](http://sgre.github.io/files/SgrE_CV.pdf).
 
 The homepage is under construction and more information will be presented.
 
-此外，博士期间承担若干项目，涉及红外弱小目标检测、识别、跟踪、抗干扰等。作为主要完成人，已申报专利多项。
 
 News
 ----
 Sometimes it could not be updated in time.
+
+2019-11 One paper was accepted by AAAI-20.
 
 2019-08 One paper was accepted by IEEE Transactions on Neural Networks and Learning Systems.
 
