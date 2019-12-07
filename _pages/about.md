@@ -24,11 +24,12 @@ topics including [bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inf
 Here is my [CV](http://sgre.github.io/files/SgrE_CV.pdf).
 
 The homepage is under construction and more information will be presented.
+Sometimes it could not be updated in time.
 
 
 News
 ----
-Sometimes it could not be updated in time.
+2019-11 Excellent Doctoral Dissertation Award from China Society of Image and Graphics (CSIG)
 
 2019-11 One paper was accepted by AAAI-20.
 
