@@ -17,6 +17,8 @@ Preprints
 
 2019
 ======
+* **Fanghui Liu**, Xiaolin Huang, Yudong Chen, Jie Yang, and Johan A.K. Suykens. *Random Fourier features via fast surrogate leverage weighted sampling*, The Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI-20). [**paper**](http://sgre.github.io/files/AAAI20-arxiv.pdf), [**code**](http://sgre.github.io/files/AAAI20_code.zip).
+
 * **Fanghui Liu**, Xiaolin Huang, Lei Shi, Jie Yang, and Johan A.K. Suykens. *A double-variational Bayesian framework in random Fourier features for indefinite kernels*, IEEE Transactions on Neural Networks and Learning Systems (TNNLS). [**paper**](http://sgre.github.io/files/RFFVB_TNNLS.pdf)
 
 2018
