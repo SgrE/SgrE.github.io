@@ -11,15 +11,15 @@ redirect_from:
 
 Preprints
 ======
-* **Fanghui Liu**, **Lei Shi**, Xiaolin Huang, Jie Yang, and Johan A.K. Suykens. *Regularized regression problem in hyper-RKHS for learning kernels*, submitted to Journal of Machine Learning Research. [**paper**](http://sgre.github.io/files/hyperRKHS-2018.pdf)
+* **Fanghui Liu**, **Lei Shi**, Xiaolin Huang, Jie Yang, and Johan A.K. Suykens. *Regularized regression problem in hyper-RKHS for learning kernels*. [**paper**](https://arxiv.org/pdf/1809.09910.pdf)
 
-* **Fanghui Liu**, Xiaolin Huang, Chen Gong, Jie Yang, and Li Li. *Learning data-adaptive nonparametric kernels*, submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). [**paper**](http://sgre.github.io/files/DANK-2018.pdf)
+* **Fanghui Liu**, Xiaolin Huang, Chen Gong, Jie Yang, and Li Li. *Learning data-adaptive nonparametric kernels*. [**paper**](https://arxiv.org/pdf/1808.10724.pdf)
 
 2019
 ======
-* **Fanghui Liu**, Xiaolin Huang, Yudong Chen, Jie Yang, and Johan A.K. Suykens. *Random Fourier features via fast surrogate leverage weighted sampling*, The Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI-20). [**paper**](http://sgre.github.io/files/AAAI20-arxiv.pdf), [**code**](http://sgre.github.io/files/AAAI20_code.zip).
+* **Fanghui Liu**, Xiaolin Huang, Yudong Chen, Jie Yang, and Johan A.K. Suykens. *Random Fourier features via fast surrogate leverage weighted sampling*, The Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI-20). [**paper**](https://arxiv.org/pdf/1911.09158.pdf), [**code**](http://sgre.github.io/files/AAAI20_code.zip).
 
-* **Fanghui Liu**, Xiaolin Huang, Lei Shi, Jie Yang, and Johan A.K. Suykens. *A double-variational Bayesian framework in random Fourier features for indefinite kernels*, IEEE Transactions on Neural Networks and Learning Systems (TNNLS). [**paper**](http://sgre.github.io/files/RFFVB_TNNLS.pdf)
+* **Fanghui Liu**, Xiaolin Huang, Lei Shi, Jie Yang, and Johan A.K. Suykens. *A double-variational Bayesian framework in random Fourier features for indefinite kernels*, IEEE Transactions on Neural Networks and Learning Systems (TNNLS). [**paper**](http://sgre.github.io/files/RFFVB_TNNLS.pdf), [**code**](http://sgre.github.io/files/RFF-DIGMM_code.zip).
 
 2018
 ======
