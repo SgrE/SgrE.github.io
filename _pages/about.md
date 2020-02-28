@@ -8,18 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a postdoctoral researcher in [ESAT-STADIUS](https://www.esat.kuleuven.be/stadius/), [KU Leuven](https://www.kuleuven.be/english/), Belgium, supervised by [Johan A.K. Suykens](https://www.esat.kuleuven.be/sista/members/suykens.html).
+I'm currently a postdoc researcher in [ESAT-STADIUS](https://www.esat.kuleuven.be/stadius/), [KU Leuven](https://www.kuleuven.be/english/), Belgium, supervised by [Johan A.K. Suykens](https://www.esat.kuleuven.be/sista/members/suykens.html).
 Before that, I recieved the Ph.D degree from [Institute of Image Processing Pattern Recognition](http://www.pami.sjtu.edu.cn),
 [Shanghai Jiao Tong University](http://www.sjtu.edu.cn) in June, 2019.
-My advisor is Prof. [Jie Yang](http://www.pami.sjtu.edu.cn/jieyang).
+My PhD supervisor is Prof. [Jie Yang](http://www.pami.sjtu.edu.cn/jieyang).
 Before coming to SJTU, I received the B.E. degree in control science and engineering from 
 [Harbin Institute of Technology](http://www.hit.edu.cn) in 2014.
 
-I’m generally interested in statistical machine learning, mainly on [kernel methods](https://en.wikipedia.org/wiki/Kernel_method) regarding to data-adaptive nonparametric kernel learning, 
-indefinite kernel (real, symmetric, but not positive definite) learning, and kernel approximation in large scale situations.
-Previously I worked on [visual tracking](https://en.wikipedia.org/wiki/Video_tracking) and I will follow up its progress. Besides, I’m interested in some
-topics including [bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference), [approximation theory](https://en.wikipedia.org/wiki/Approximation_theory), and [stochastic optimization](https://en.wikipedia.org/wiki/Stochastic_optimization).
-
+I’m generally interested in statistical machine learning, mainly on [kernel methods](https://en.wikipedia.org/wiki/Kernel_method) regarding to kernel methods (kernel learning and random features), approximation theory, and learning theory.
+Previously I worked on [visual tracking](https://en.wikipedia.org/wiki/Video_tracking) and some related topics in computer vision.
 
 Here is my [CV](http://sgre.github.io/files/SgrE_CV.pdf).
 
@@ -29,7 +26,7 @@ Sometimes it could not be updated in time.
 
 News
 ----
-2019-11 Excellent Doctoral Dissertation Award from China Society of Image and Graphics (CSIG)
+2019-11 I was honored the Excellent Doctoral Dissertation Award from China Society of Image and Graphics (CSIG)
 
 2019-11 One paper was accepted by AAAI-20.
 
