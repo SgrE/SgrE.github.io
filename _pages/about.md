@@ -11,11 +11,12 @@ redirect_from:
 I'm currently a postdoc researcher in [ESAT-STADIUS](https://www.esat.kuleuven.be/stadius/), [KU Leuven](https://www.kuleuven.be/english/), Belgium, supervised by [Johan A.K. Suykens](https://www.esat.kuleuven.be/sista/members/suykens.html).
 Before that, I recieved the Ph.D degree from [Institute of Image Processing Pattern Recognition](http://www.pami.sjtu.edu.cn),
 [Shanghai Jiao Tong University](http://www.sjtu.edu.cn) in June, 2019.
-My PhD supervisor is Prof. [Jie Yang](http://www.pami.sjtu.edu.cn/jieyang).
+My Ph.D. supervisor is Prof. [Jie Yang](http://www.pami.sjtu.edu.cn/jieyang).
 Before coming to SJTU, I received the B.E. degree in control science and engineering from 
 [Harbin Institute of Technology](http://www.hit.edu.cn) in 2014.
 
-I’m generally interested in statistical machine learning, mainly on [kernel methods](https://en.wikipedia.org/wiki/Kernel_method) regarding to kernel methods (kernel learning and random features), approximation theory, and learning theory.
+I’m generally interested in statistical machine learning, mainly on [kernel methods](https://en.wikipedia.org/wiki/Kernel_method) regarding to kernel learning and random features.
+Besides, I also focus on approximation theory, learning theory, and optimization (semi-definite programming and stochastic optimization).
 Previously I worked on [visual tracking](https://en.wikipedia.org/wiki/Video_tracking) and some related topics in computer vision.
 
 Here is my [CV](http://sgre.github.io/files/SgrE_CV.pdf).
