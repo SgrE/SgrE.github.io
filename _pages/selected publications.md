@@ -11,6 +11,10 @@ redirect_from:
 
 Preprints
 ======
+* **Fanghui Liu**, **Lei Shi**, Xiaolin Huang, Jie Yang, and Johan A.K. Suykens. *Analysis of least squares regularized regression in reproducing kernel Krein spaces*. [**paper**](https://arxiv.org/pdf/2006.01073.pdf)
+
+* **Fanghui Liu**, Xiaolin Huang, Yingyi Chen, and Johan A.K. Suykens. *Generalizing random Fourier features via generalized measures*. [**paper**](https://arxiv.org/pdf/2006.00247.pdf)
+
 * **Fanghui Liu**, **Lei Shi**, Xiaolin Huang, Jie Yang, and Johan A.K. Suykens. *Regularized regression problem in hyper-RKHS for learning kernels*. [**paper**](https://arxiv.org/pdf/1809.09910.pdf)
 
 * **Fanghui Liu**, Xiaolin Huang, Chen Gong, Jie Yang, and Li Li. *Learning data-adaptive nonparametric kernels*. [**paper**](https://arxiv.org/pdf/1808.10724.pdf)
@@ -38,16 +42,10 @@ Preprints
 
 * **Fanghui Liu**, Tao Zhou, Chen Gong, Keren Fu, Li Bai and Jie Yang. *Inverse nonnegative local coordinate factorization for visual tracking*, IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). [**paper**](http://sgre.github.io/files/NCLF.pdf), [**code**](http://sgre.github.io/files/INCLF_code.zip).
 
-* **Fanghui Liu**, Tao Zhou, Keren Fu and Jie Yang. *Kernelized temporal locality learning for real-time visual tracking*, Pattern Recognition Letters. [**paper**](http://sgre.github.io/files/KTLL.pdf)
-
 * **Fanghui Liu**, Xiaolin Huang and Jie Yang: *Indefinite kernel logistic regression*, ACM Multimedia (MM-2017). [**paper**](http://sgre.github.io/files/IKLR-MM2017.pdf), [**code**](http://sgre.github.io/files/IKLR_code.zip).
 
 2016
 ======
-* **Fanghui Liu**, Tao Zhou, Keren Fu and Jie Yang. *Robust visual tracking via constrained correlation filter coding*, Pattern Recognition Letters. [**paper**](http://sgre.github.io/files/OTSDF.pdf), [**code**](http://sgre.github.io/files/OTSDF_code.zip), [**results**](http://sgre.github.io/files/OTSDF_OTB100.zip).
-
-* **Fanghui Liu**, Tao Zhou, Keren Fu and Jie Yang. *Geometric affine transformation estimation via correlation filter for visual tracking*, Neurocomputing. [**paper**](http://sgre.github.io/files/GACF.pdf), [**results**](http://sgre.github.io/files/GACF_OTB50.zip).
-
 * **Fanghui Liu**, Tao Zhou, Keren Fu, Irene Yu-Hua Gu, and Jie Yang. *Robust visual tracking via inverse nonnegative matrix factorization*, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP-2016). [**paper**](http://sgre.github.io/files/NMF_ICASSP.pdf), [**code**](http://sgre.github.io/files/INCLF_code.zip).
 
 * Tao Zhou, H. Bhaskar, **Fanghui Liu** and Jie Yang. *Graph regularized and locality-constrained coding for robust visual tracking*. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). [**paper**](https://ieeexplore.ieee.org/abstract/document/7484722)
@@ -55,4 +53,4 @@ Preprints
 
 2015
 ======
-* **Fanghui Liu**, Tao Zhou, Irene Yu-Hua Gu, and Jie Yang. *Visual tracking via nonnegative regularization multiple locality coding*, IEEE International Conference on Computer Vision Workshops (ICCVW-2015). [**paper**](http://sgre.github.io/files/NMC_ICCVW.pdf), [**results**](http://sgre.github.io/files/ICCVW_OTB50.zip).
+* **Fanghui Liu**, Tao Zhou, Irene Yu-Hua Gu, and Jie Yang. *Visual tracking via nonnegative regularization multiple locality coding*, IEEE International Conference on Computer Vision Workshops (ICCVW-2015). [**paper**](http://sgre.github.io/files/NMC_ICCVW.pdf)
