@@ -32,6 +32,8 @@ Reviewing
 * Neurocomputing (**Outstanding Reviewer Award**)
 * Pattern Recognition Letters (**Outstanding Reviewer Award**)
 
-* AAAI-2020: the Thirty-fourth AAAI Conference on Artificial Intelligence
+* AAAI-2021: Thirty-fifth AAAI Conference on Artificial Intelligence
+* NeurIPS2020: Thirty-fourth Conference on Neural Information Processing Systems
+* AAAI-2020: Thirty-fourth AAAI Conference on Artificial Intelligence
 * ICDM2017: IEEE International Conference on Data Mining
 

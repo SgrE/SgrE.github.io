@@ -16,7 +16,7 @@ Before coming to SJTU, I received the B.E. degree in control science and enginee
 [Harbin Institute of Technology](http://www.hit.edu.cn) in 2014.
 
 I’m generally interested in statistical machine learning, mainly on [kernel methods](https://en.wikipedia.org/wiki/Kernel_method) regarding to kernel learning and random features.
-Besides, I also focus on approximation theory, learning theory, and optimization (semi-definite programming and stochastic optimization).
+Besides, I also focus on approximation theory and learning theory (semi-definite programming and stochastic optimization).
 Previously I worked on [visual tracking](https://en.wikipedia.org/wiki/Video_tracking) and some related topics in computer vision.
 
 Here is my [CV](http://sgre.github.io/files/SgrE_CV.pdf).

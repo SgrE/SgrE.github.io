@@ -15,7 +15,7 @@ Preprints
 
 * **Fanghui Liu**, **Lei Shi**, Xiaolin Huang, Jie Yang, and Johan A.K. Suykens. *Analysis of least squares regularized regression in reproducing kernel Krein spaces*. [**paper**](https://arxiv.org/pdf/2006.01073.pdf)
 
-* **Fanghui Liu**, Xiaolin Huang, Yingyi Chen, and Johan A.K. Suykens. *Generalizing random Fourier features via generalized measures*. [**paper**](https://arxiv.org/pdf/2006.00247.pdf)
+* **Fanghui Liu**, Xiaolin Huang, Yingyi Chen, and Johan A.K. Suykens. *Generalizing random Fourier features via generalized measures*. [**paper**](https://arxiv.org/pdf/2006.00247.pdf), [**code**](http://sgre.github.io/files/code-RFF-indifnite kernels.zip).
 
 * **Fanghui Liu**, **Lei Shi**, Xiaolin Huang, Jie Yang, and Johan A.K. Suykens. *Regularized regression problem in hyper-RKHS for learning kernels*. [**paper**](https://arxiv.org/pdf/1809.09910.pdf)
 
