@@ -24,7 +24,7 @@ Preprints
 
 2020
 ======
-* **Fanghui Liu**, Xiaolin Huang, Chen Gong, Jie Yang, and Li Li. *Learning data-adaptive nonparametric kernels*, Journal of Machine Learning Research (JMLR). [**paper**](https://arxiv.org/pdf/1808.10724.pdf), [**code**](http://sgre.github.io/files/NesterovAcc.m).
+* **Fanghui Liu**, Xiaolin Huang, Chen Gong, Jie Yang, and Li Li. *Learning data-adaptive nonparametric kernels*, Journal of Machine Learning Research (JMLR). [**paper**](https://arxiv.org/pdf/1808.10724v3.pdf), [**code**](http://sgre.github.io/files/NesterovAcc.m).
 
 2019
 ======
@@ -34,9 +34,9 @@ Preprints
 
 2018
 ======
-* **Fanghui Liu**, Xiaolin Huang, Chen Gong, Jie Yang, and Johan A.K. Suykens. *Indefinite kernel logistic regression with Concave-inexact-convex procedure*, IEEE Transactions on Neural Networks and Learning Systems (TNNLS). [**paper**](http://sgre.github.io/files/IKLR_TNNLS.pdf), [**code**](http://sgre.github.io/files/IKLR_code.zip).
+* **Fanghui Liu**, Xiaolin Huang, Chen Gong, Jie Yang, and Johan A.K. Suykens. *Indefinite kernel logistic regression with Concave-inexact-convex procedure*, IEEE Transactions on Neural Networks and Learning Systems (TNNLS). [**paper**](https://arxiv.org/pdf/1707.01826v2.pdf), [**code**](http://sgre.github.io/files/IKLR_code.zip).
 
-* **Fanghui Liu**, Chen Gong, Xiaolin Huang, Tao Zhou, Jie Yang, and Dacheng Tao. *Robust visual tracking revisited: from correlation filter to template matching*, IEEE Transactions on Image Processing (TIP). [**paper**](http://sgre.github.io/files/TM3-TIP2018.pdf)
+* **Fanghui Liu**, Chen Gong, Xiaolin Huang, Tao Zhou, Jie Yang, and Dacheng Tao. *Robust visual tracking revisited: from correlation filter to template matching*, IEEE Transactions on Image Processing (TIP). [**paper**](https://arxiv.org/pdf/1904.06842.pdf)
 
 * **Fanghui Liu**, Xiaolin Huang, Chen Gong, Jie Yang, and Li Li: *Nonlinear pairwise layer and Its training for kernel learning*, The Thirty-Second AAAI Conference on Artificial Intelligence (AAAI-18). [**paper**](http://sgre.github.io/files/KNPL-AAAI.pdf), [**code**](http://sgre.github.io/files/KNPLcode-FLW.zip).
 
