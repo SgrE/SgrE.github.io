@@ -24,7 +24,7 @@ Preprints
 
 2020
 ======
-* **Fanghui Liu**, Xiaolin Huang, Chen Gong, Jie Yang, and Li Li. *Learning data-adaptive nonparametric kernels*, Journal of Machine Learning Research (JMLR). [**paper**](https://arxiv.org/pdf/1808.10724.pdf).
+* **Fanghui Liu**, Xiaolin Huang, Chen Gong, Jie Yang, and Li Li. *Learning data-adaptive nonparametric kernels*, Journal of Machine Learning Research (JMLR). [**paper**](https://arxiv.org/pdf/1808.10724.pdf), [**code**](http://sgre.github.io/files/NesterovAcc.m).
 
 2019
 ======
