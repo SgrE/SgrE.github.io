@@ -15,7 +15,7 @@ Preprints
 
 * **Fanghui Liu**, Xiaolin Huang, Yudong Chen, and Johan A.K. Suykens. *Random features for kernel approximation: A Survey on algorithms, theory, and beyond*. [**paper**](https://arxiv.org/pdf/2004.11154.pdf)
 
-* **Fanghui Liu**, Xiaolin Huang, Yudong Chen, and Johan A.K. Suykens. *Towards a unified quadrature framework for large scale kernel methods,*. [**paper**](hhttps://arxiv.org/pdf/2011.01668.pdf)
+* **Fanghui Liu**, Xiaolin Huang, Yudong Chen, and Johan A.K. Suykens. *Towards a unified quadrature framework for large scale kernel methods,*. [**paper**](https://arxiv.org/pdf/2011.01668.pdf)
 
 * **Fanghui Liu**, **Lei Shi**, Xiaolin Huang, Jie Yang, and Johan A.K. Suykens. *Analysis of least squares regularized regression in reproducing kernel Krein spaces*. [**paper**](https://arxiv.org/pdf/2006.01073.pdf)
 
