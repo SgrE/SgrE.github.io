@@ -13,7 +13,9 @@ Preprints
 ======
 * **Fanghui Liu**, Zhenyu Liao, and Johan A.K. Suykens. *Kernel regression in high dimension: Refined analysis beyond double descent*. [**paper**](https://arxiv.org/pdf/2010.02681.pdf)
 
-* **Fanghui Liu**, Xiaolin Huang, Yudong Chen, and Johan A.K. Suykens. *Random Features for Kernel Approximation: A Survey on Algorithms, Theory, and Beyond*. [**paper**](https://arxiv.org/pdf/2004.11154.pdf)
+* **Fanghui Liu**, Xiaolin Huang, Yudong Chen, and Johan A.K. Suykens. *Random features for kernel approximation: A Survey on algorithms, theory, and beyond*. [**paper**](https://arxiv.org/pdf/2004.11154.pdf)
+
+* **Fanghui Liu**, Xiaolin Huang, Yudong Chen, and Johan A.K. Suykens. *Towards a unified quadrature framework for large scale kernel methods,*. [**paper**](hhttps://arxiv.org/pdf/2011.01668.pdf)
 
 * **Fanghui Liu**, **Lei Shi**, Xiaolin Huang, Jie Yang, and Johan A.K. Suykens. *Analysis of least squares regularized regression in reproducing kernel Krein spaces*. [**paper**](https://arxiv.org/pdf/2006.01073.pdf)
 
@@ -24,7 +26,7 @@ Preprints
 
 2020
 ======
-* **Fanghui Liu**, Xiaolin Huang, Chen Gong, Jie Yang, and Li Li. *Learning data-adaptive nonparametric kernels*, Journal of Machine Learning Research (JMLR). [**paper**](https://arxiv.org/pdf/1808.10724v3.pdf), [**code**](http://sgre.github.io/files/NesterovAcc.m).
+* **Fanghui Liu**, Xiaolin Huang, Chen Gong, Jie Yang, and Li Li. *Learning data-adaptive nonparametric kernels*, Journal of Machine Learning Research (JMLR). [**paper**](https://www.jmlr.org/papers/volume21/19-900/19-900.pdf), [**code**](http://sgre.github.io/files/NesterovAcc.m).
 
 2019
 ======

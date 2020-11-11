@@ -19,7 +19,7 @@ I’m generally interested in statistical machine learning, mainly on [kernel me
 Besides, I also focus on approximation theory and learning theory.
 Previously I worked on [visual tracking](https://en.wikipedia.org/wiki/Video_tracking) and some related topics in computer vision.
 
-Here is my [CV](http://sgre.github.io/files/SgrE_CV.pdf).
+Here is my [CV](http://sgre.github.io/files/CV_lfh.pdf).
 
 The homepage is under construction and more information will be presented.
 Sometimes it could not be updated in time.
