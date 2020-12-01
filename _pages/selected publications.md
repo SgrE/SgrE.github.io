@@ -11,7 +11,7 @@ redirect_from:
 
 Preprints
 ======
-* **Fanghui Liu**, Zhenyu Liao, and Johan A.K. Suykens. *Kernel regression in high dimension: Refined analysis beyond double descent*. [**paper**](https://arxiv.org/pdf/2010.02681.pdf)
+* **Fanghui Liu**, Zhenyu Liao, and Johan A.K. Suykens. [*Kernel regression in high dimensions: Refined analysis beyond double descent*](https://arxiv.org/pdf/2010.02681.pdf).
 
 * **Fanghui Liu**, Xiaolin Huang, Yudong Chen, and Johan A.K. Suykens. *Random features for kernel approximation: A Survey on algorithms, theory, and beyond*. [**paper**](https://arxiv.org/pdf/2004.11154.pdf)
 
