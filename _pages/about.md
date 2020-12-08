@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a postdoc researcher in [ESAT-STADIUS](https://www.esat.kuleuven.be/stadius/), [KU Leuven](https://www.kuleuven.be/english/), Belgium, supervised by [Johan A.K. Suykens](https://www.esat.kuleuven.be/sista/members/suykens.html).
+I'm currently a postdoc researcher in [ESAT-STADIUS](https://www.esat.kuleuven.be/stadius/), [KU Leuven](https://www.kuleuven.be/english/), Belgium, hosted by [Johan A.K. Suykens](https://www.esat.kuleuven.be/sista/members/suykens.html).
 Before that, I recieved the Ph.D degree from [Institute of Image Processing Pattern Recognition](http://www.pami.sjtu.edu.cn),
 [Shanghai Jiao Tong University](http://www.sjtu.edu.cn) in June 2019, under the supervision of Prof. [Jie Yang](http://www.pami.sjtu.edu.cn/jieyang).
 Before coming to Shanghai Jiao Tong University, I received the B.E. degree in control science and engineering from 
