@@ -26,11 +26,14 @@ Sometimes it could not be updated in time.
 
 News
 ----
+
+2021-01 Two papers were accepted by AISTATS-2021.
+
 2020-10 One paper was accepted by Journal of Machine Learning Research (JMLR).
 
 2019-11 I was honored the Excellent Doctoral Dissertation Award from China Society of Image and Graphics (CSIG)
 
-2019-11 One paper was accepted by AAAI-20.
+2019-11 One paper was accepted by AAAI-2020.
 
 2019-08 One paper was accepted by IEEE Transactions on Neural Networks and Learning Systems.
 
