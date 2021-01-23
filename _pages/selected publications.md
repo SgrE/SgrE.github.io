@@ -11,7 +11,6 @@ redirect_from:
 
 Preprints
 ======
-* **Fanghui Liu**, Zhenyu Liao, and Johan A.K. Suykens. *Kernel regression in high dimensions: Refined analysis beyond double descent*. [**paper**](https://arxiv.org/pdf/2010.02681.pdf)
 
 * **Fanghui Liu**, Xiaolin Huang, Yudong Chen, and Johan A.K. Suykens. *Random features for kernel approximation: A Survey on algorithms, theory, and beyond*. [**paper**](https://arxiv.org/pdf/2004.11154.pdf)
 
@@ -19,10 +18,13 @@ Preprints
 
 * **Fanghui Liu**, **Lei Shi**, Xiaolin Huang, Jie Yang, and Johan A.K. Suykens. *Analysis of least squares regularized regression in reproducing kernel Krein spaces*. [**paper**](https://arxiv.org/pdf/2006.01073.pdf)
 
-* **Fanghui Liu**, Xiaolin Huang, Yingyi Chen, and Johan A.K. Suykens. *Fast Learning in Reproducing Kernel Krein Spaces via Generalized Measures*. [**paper**](https://arxiv.org/pdf/2006.00247.pdf), [**code**](http://sgre.github.io/files/code-RFF_RKKS.zip).
-
 * **Fanghui Liu**, **Lei Shi**, Xiaolin Huang, Jie Yang, and Johan A.K. Suykens. *Regularized regression problem in hyper-RKHS for learning kernels*. [**paper**](https://arxiv.org/pdf/1809.09910.pdf)
 
+2021
+======
+* **Fanghui Liu**, Zhenyu Liao, and Johan A.K. Suykens. *Kernel regression in high dimensions: Refined analysis beyond double descent*, AISTATS-2021. [**paper**](https://arxiv.org/pdf/2010.02681.pdf)
+
+* **Fanghui Liu**, Xiaolin Huang, Yingyi Chen, and Johan A.K. Suykens. *Fast Learning in Reproducing Kernel Krein Spaces via Generalized Measures*, AISTATS-2021. [**paper**](https://arxiv.org/pdf/2006.00247.pdf), [**code**](http://sgre.github.io/files/code-RFF_RKKS.zip).
 
 2020
 ======
