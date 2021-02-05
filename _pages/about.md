@@ -18,7 +18,7 @@ I’m generally interested in statistical machine learning, mainly on [kernel me
 Besides, I also focus on learning theory in an approximation theory view.
 Previously I worked on [visual tracking](https://en.wikipedia.org/wiki/Video_tracking) and some related topics in computer vision.
 
-Here is my [CV](http://sgre.github.io/files/CV_lfh.pdf).
+Here is my [CV](http://sgre.github.io/files/CV_Fanghui.pdf).
 
 The homepage is under construction and more information will be presented.
 Sometimes it could not be updated in time.
@@ -26,6 +26,7 @@ Sometimes it could not be updated in time.
 
 News
 ----
+2021-02 One paper was accepted by Machine Learning.
 
 2021-01 Two papers were accepted by AISTATS-2021.
 
