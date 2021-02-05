@@ -16,12 +16,13 @@ Preprints
 
 * **Fanghui Liu**, Xiaolin Huang, Yudong Chen, and Johan A.K. Suykens. *Towards a unified quadrature framework for large scale kernel methods,*. [**paper**](https://arxiv.org/pdf/2011.01668.pdf)
 
-* **Fanghui Liu**, **Lei Shi**, Xiaolin Huang, Jie Yang, and Johan A.K. Suykens. *Analysis of least squares regularized regression in reproducing kernel Krein spaces*. [**paper**](https://arxiv.org/pdf/2006.01073.pdf)
-
 * **Fanghui Liu**, **Lei Shi**, Xiaolin Huang, Jie Yang, and Johan A.K. Suykens. *Regularized regression problem in hyper-RKHS for learning kernels*. [**paper**](https://arxiv.org/pdf/1809.09910.pdf)
 
 2021
 ======
+
+* **Fanghui Liu**, **Lei Shi**, Xiaolin Huang, Jie Yang, and Johan A.K. Suykens. *Analysis of least squares regularized regression in reproducing kernel Krein spaces*, Machine Learning. [**paper**](https://arxiv.org/pdf/2006.01073.pdf)
+
 * **Fanghui Liu**, Zhenyu Liao, and Johan A.K. Suykens. *Kernel regression in high dimensions: Refined analysis beyond double descent*, AISTATS-2021. [**paper**](https://arxiv.org/pdf/2010.02681.pdf), [**code**](http://sgre.github.io/files/demo_KRRhigh.m).
 
 * **Fanghui Liu**, Xiaolin Huang, Yingyi Chen, and Johan A.K. Suykens. *Fast Learning in Reproducing Kernel Krein Spaces via Generalized Measures*, AISTATS-2021. [**paper**](https://arxiv.org/pdf/2006.00247.pdf), [**code**](http://sgre.github.io/files/code-RFF_RKKS.zip).
