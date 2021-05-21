@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a postdoc researcher in [ESAT-STADIUS](https://www.esat.kuleuven.be/stadius/), [KU Leuven](https://www.kuleuven.be/english/), Belgium, hosted by [Johan A.K. Suykens](https://www.esat.kuleuven.be/sista/members/suykens.html).
+I'm currently a postdoc researcher in [ESAT-STADIUS](https://www.esat.kuleuven.be/stadius/), [KU Leuven](https://www.kuleuven.be/english/), Belgium, hosted by [**<font color=blue size=3>Prof. Johan A.K. Suykens</font>**](https://www.esat.kuleuven.be/sista/members/suykens.html).
 Before that, I recieved the Ph.D degree from [Institute of Image Processing Pattern Recognition](http://www.pami.sjtu.edu.cn),
 [Shanghai Jiao Tong University](http://www.sjtu.edu.cn) in June 2019, under the supervision of Prof. [Jie Yang](http://www.pami.sjtu.edu.cn/jieyang).
 Before coming to Shanghai Jiao Tong University, I received the B.E. degree in control science and engineering from 
@@ -18,7 +18,7 @@ I’m generally interested in statistical machine learning, mainly on [kernel me
 Besides, I also focus on learning theory in an approximation theory view.
 Previously I worked on [visual tracking](https://en.wikipedia.org/wiki/Video_tracking) and some related topics in computer vision.
 
-Here is my [CV](http://sgre.github.io/files/CV_Fanghui.pdf).
+Here is my [**<font color=magenta size=3>CV</font>**](http://sgre.github.io/files/CV_Fanghui.pdf).
 
 The homepage is under construction and more information will be presented.
 Sometimes it could not be updated in time.
