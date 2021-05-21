@@ -10,7 +10,7 @@ redirect_from:
 
 I'm currently a postdoc researcher in the Department of Electrical Engineering ([ESAT-STADIUS](https://www.esat.kuleuven.be/stadius/)), [KU Leuven](https://www.kuleuven.be/english/), Belgium, hosted by [**<font color=blue size=3>Prof. Johan A.K. Suykens</font>**](https://www.esat.kuleuven.be/sista/members/suykens.html).
 Before that, I recieved the Ph.D degree from [Institute of Image Processing Pattern Recognition](http://www.pami.sjtu.edu.cn/En/Home),
-[Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in June 2019, supervised by [**<font color=blue size=3>Prof. Jie Yang</font>**](http://www.pami.sjtu.edu.cn/jieyang), and the B.E. degree in Automation from 
+[Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in June 2019, supervised by [**<font color=blue size=3>Prof. Jie Yang</font>**](http://www.pami.sjtu.edu.cn/En/jieyang), and the B.E. degree in Automation from 
 [Harbin Institute of Technology](http://en.hit.edu.cn/) in 2014.
 
 I’m generally interested in statistical machine learning, mainly on [kernel methods](https://en.wikipedia.org/wiki/Kernel_method) regarding to kernel learning, indefinite kernels, and large-scale kernel approximation.
