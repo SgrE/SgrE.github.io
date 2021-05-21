@@ -14,15 +14,15 @@ Reviewing
 
 **Reviewer for:**
 
-* IEEE Transactions on Neural Networks and Learning Systems
-* IEEE Transactions on Image Processing
-* IEEE Transactions on Cybenetics
-* IEEE Transactions on Multimedia
-* IEEE Transactions on Circuits and Systems for Video Technology
-* Pattern Recognition ([<font color=blue size=3>Outstanding Reviewer Award</font>])
-* IEEE Signal Processing Letters
-* Neurocomputing ([<font color=blue size=3>Outstanding Reviewer Award</font>])
-* Pattern Recognition Letters ([<font color=blue size=3>Outstanding Reviewer Award</font>])
+* IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
+* IEEE Transactions on Image Processing (IEEE TIP)
+* IEEE Transactions on Cybenetics (IEEE TCYB)
+* IEEE Transactions on Multimedia (IEEE TMM)
+* IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)
+* Pattern Recognition (PR)
+* IEEE Signal Processing Letters (IEEE SPL)
+* Neurocomputing
+* Pattern Recognition Letters
 
 * International Conference on Machine Learning (ICML) 2021
 * International Conference on Artificial Intelligence and Statistics (AISTATS) 2021

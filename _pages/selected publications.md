@@ -12,7 +12,7 @@ redirect_from:
 Preprints
 ======
 
-* **Fanghui Liu**, Xiaolin Huang, Yudong Chen, and Johan A.K. Suykens. [*<font color=blue size=3>Towards a unified quadrature framework for large scale kernel methods</font>*](https://arxiv.org/pdf/2011.01668.pdf), [**<font color=blue size=3>[code]</font>**](http://sgre.github.io/files/Quadrature_demo.zip)
+* **Fanghui Liu**, Xiaolin Huang, Yudong Chen, and Johan A.K. Suykens. [*<font color=blue size=3>Towards a unified quadrature framework for large scale kernel methods</font>*](https://arxiv.org/pdf/2011.01668.pdf). [**<font color=magenta size=3>[code]</font>**](http://sgre.github.io/files/Quadrature_demo.zip)
 
 * **Fanghui Liu**, Xiaolin Huang, Yudong Chen, and Johan A.K. Suykens. *Towards a unified quadrature framework for large scale kernel methods,*. [**<font color=blue size=3>[paper]</font>**](https://arxiv.org/pdf/2011.01668.pdf), [**<font color=blue size=3>[code]</font>**](http://sgre.github.io/files/Quadrature_demo.zip)
 
