@@ -9,11 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Talks
-======
- 
- * Invited talk on *Analysis of data-adative kernel learning*, Sichuan University, November, 2018. 
-
 Reviewing
 ======
 
@@ -24,14 +19,14 @@ Reviewing
 * IEEE Transactions on Cybenetics
 * IEEE Transactions on Multimedia
 * IEEE Transactions on Circuits and Systems for Video Technology
-* Pattern Recognition (**Outstanding Reviewer Award**)
+* Pattern Recognition ([<font color=blue size=3>Outstanding Reviewer Award</font>])
 * IEEE Signal Processing Letters
-* Neurocomputing (**Outstanding Reviewer Award**)
-* Pattern Recognition Letters (**Outstanding Reviewer Award**)
+* Neurocomputing ([<font color=blue size=3>Outstanding Reviewer Award</font>])
+* Pattern Recognition Letters ([<font color=blue size=3>Outstanding Reviewer Award</font>])
 
-* The International Conference on Machine Learning (ICML) 2021
-* The International Conference on Artificial Intelligence and Statistics (AISTATS) 2021
-* The Conference on Neural Information Processing Systems (NeurIPS) 2020, 2021
-* The AAAI Conference on Artificial Intelligence (AAAI) 2020, 2021
+* International Conference on Machine Learning (ICML) 2021
+* International Conference on Artificial Intelligence and Statistics (AISTATS) 2021
+* Neural Information Processing Systems (NeurIPS) 2020, 2021
+* AAAI Conference on Artificial Intelligence (AAAI) 2020, 2021
 * IEEE International Conference on Data Mining (ICDM) 2017
 
