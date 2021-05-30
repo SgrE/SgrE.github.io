@@ -14,9 +14,11 @@ Preprints
 
 * **Fanghui Liu**, Xiaolin Huang, Yudong Chen, and Johan A.K. Suykens. [*<font color=blue size=3>Towards a unified quadrature framework for large scale kernel methods</font>*](https://arxiv.org/pdf/2011.01668.pdf). [**<font color=magenta size=3>[code]</font>**](http://sgre.github.io/files/Quadrature_demo.zip)
 
-* **Fanghui Liu**, **Lei Shi**, Xiaolin Huang, Jie Yang, and Johan A.K. Suykens. [*<font color=blue size=3>Regularized regression problem in hyper-RKHS for learning kernels</font>*](https://arxiv.org/pdf/1809.09910.pdf)
+* **Fanghui Liu**, **Lei Shi**, Xiaolin Huang, Jie Yang, and Johan A.K. Suykens. [*<font color=blue size=3>Regularized regression problem in hyper-RKHS for learning kernels</font>*](https://arxiv.org/pdf/1809.09910.pdf).
 
 * **Fanghui Liu**, Xiaolin Huang, Yudong Chen, and Johan A.K. Suykens. [*<font color=blue size=3>Random features for kernel approximation: A Survey on algorithms, theory, and beyond</font>*](https://arxiv.org/pdf/2004.11154.pdf). [**<font color=magenta size=3>[code]</font>**](http://sgre.github.io/files/RFFsurvey_demo.zip)
+
+([*<font color=red size=3>This survey is still work in process. If you have any suggestions or some references are missing, please be free to contact me. </font>*])
 
 
 2021

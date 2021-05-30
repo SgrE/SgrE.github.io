@@ -13,8 +13,7 @@ Before that, I recieved the Ph.D degree from [Institute of Image Processing Patt
 [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in June 2019, supervised by [**<font color=blue size=3>Prof. Jie Yang</font>**](http://www.pami.sjtu.edu.cn/En/jieyang), and the B.E. degree in Automation from 
 [Harbin Institute of Technology](http://en.hit.edu.cn/) in 2014.
 
-I’m generally interested in statistical machine learning, mainly on [kernel methods](https://en.wikipedia.org/wiki/Kernel_method) regarding to kernel learning, indefinite kernels, and large-scale kernel approximation.
-Besides, I also focus on learning theory in an approximation theory view.
+I’m generally interested in statistical machine learning, mainly on [kernel methods](https://en.wikipedia.org/wiki/Kernel_method) and learning theory in an approximation theory view.
 Previously I worked on [visual tracking](https://en.wikipedia.org/wiki/Video_tracking) and some related topics in computer vision.
 
 Here is my [**<font color=magenta size=3>CV</font>**](http://sgre.github.io/files/CV_Fanghui.pdf).
