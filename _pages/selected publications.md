@@ -18,7 +18,7 @@ Preprints
 
 * **Fanghui Liu**, Xiaolin Huang, Yudong Chen, and Johan A.K. Suykens. [*<font color=blue size=3>Random features for kernel approximation: A Survey on algorithms, theory, and beyond</font>*](https://arxiv.org/pdf/2004.11154.pdf). [**<font color=magenta size=3>[code]</font>**](http://sgre.github.io/files/RFFsurvey_demo.zip)
 
-(*<font color=red size=3>This survey is still work in process. If you have any suggestions or some references are missing, please be free to contact me. </font>*)
+  (*<font color=red size=3>This survey is still work in process. If you have any suggestions or some references are missing, please be free to contact me. </font>*)
 
 
 2021

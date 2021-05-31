@@ -20,6 +20,7 @@ Reviewing
 * IEEE Transactions on Multimedia (IEEE TMM)
 * IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)
 * Pattern Recognition (PR)
+* Advances in Data Analysis and Classification
 * IEEE Signal Processing Letters (IEEE SPL)
 * Neurocomputing
 * Pattern Recognition Letters
