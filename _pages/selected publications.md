@@ -12,9 +12,11 @@ redirect_from:
 Preprints
 ======
 
+(# denotes equal contributions and \* indicates the corresponding author)
+
 * **Fanghui Liu**, Xiaolin Huang, Yudong Chen, and Johan A.K. Suykens. [*<font color=blue size=3>Towards a unified quadrature framework for large scale kernel methods</font>*](https://arxiv.org/pdf/2011.01668.pdf). [**<font color=magenta size=3>[code]</font>**](http://sgre.github.io/files/Quadrature_demo.zip)
 
-* **Fanghui Liu**, **Lei Shi**, Xiaolin Huang, Jie Yang, and Johan A.K. Suykens. [*<font color=blue size=3>Regularized regression problem in hyper-RKHS for learning kernels</font>*](https://arxiv.org/pdf/1809.09910.pdf).
+* **Fanghui Liu**<sup>#</sup>, **Lei Shi**<sup>#</sup>, Xiaolin Huang, Jie Yang, and Johan A.K. Suykens. [*<font color=blue size=3>Regularized regression problem in hyper-RKHS for learning kernels</font>*](https://arxiv.org/pdf/1809.09910.pdf).
 
 * **Fanghui Liu**, Xiaolin Huang, Yudong Chen, and Johan A.K. Suykens. [*<font color=blue size=3>Random features for kernel approximation: A Survey on algorithms, theory, and beyond</font>*](https://arxiv.org/pdf/2004.11154.pdf). [**<font color=magenta size=3>[code]</font>**](http://sgre.github.io/files/RFFsurvey_demo.zip)
 
@@ -24,23 +26,20 @@ Preprints
 2021
 ======
 
-* **Fanghui Liu**, **Lei Shi**, Xiaolin Huang, Jie Yang, and Johan A.K. Suykens. [*<font color=blue size=3>Analysis of least squares regularized regression in reproducing kernel Krein spaces</font>*](https://arxiv.org/pdf/2006.01073.pdf), **Machine Learning**.
+* **Fanghui Liu**<sup>#\*</sup>, **Lei Shi**<sup>#</sup>, Xiaolin Huang, Jie Yang, and Johan A.K. Suykens. [*<font color=blue size=3>Analysis of least squares regularized regression in reproducing kernel Krein spaces</font>*](https://arxiv.org/pdf/2006.01073.pdf), **Machine Learning**.
 
 
-* **Fanghui Liu**, Zhenyu Liao, and Johan A.K. Suykens. [*<font color=blue size=3>Kernel regression in high dimensions: Refined analysis beyond double descent</font>*](http://proceedings.mlr.press/v130/liu21b.html), the 24th International Conference on
-Artificial Intelligence and Statistics (**AISTATS 2021**). [**<font color=magenta size=3>[code]</font>**](http://sgre.github.io/files/demo_KRRhigh.m).
+* **Fanghui Liu**, Zhenyu Liao, and Johan A.K. Suykens. [*<font color=blue size=3>Kernel regression in high dimensions: Refined analysis beyond double descent</font>*](http://proceedings.mlr.press/v130/liu21b.html), the 24th International Conference on Artificial Intelligence and Statistics (**AISTATS 2021**). [**<font color=magenta size=3>[code]</font>**](http://sgre.github.io/files/demo_KRRhigh.m).
 
-* **Fanghui Liu**, Xiaolin Huang, Yingyi Chen, and Johan A.K. Suykens. [*<font color=blue size=3>Fast learning in reproducing kernel Krein spaces via signed measures</font>*](http://proceedings.mlr.press/v130/liu21a.html), the 24th International Conference on
-Artificial Intelligence and Statistics (**AISTATS 2021**). [**<font color=magenta size=3>[code]</font>**](http://sgre.github.io/files/code-RFF_RKKS.zip).
+* **Fanghui Liu**, Xiaolin Huang, Yingyi Chen, and Johan A.K. Suykens. [*<font color=blue size=3>Fast learning in reproducing kernel Krein spaces via signed measures</font>*](http://proceedings.mlr.press/v130/liu21a.html), the 24th International Conference on Artificial Intelligence and Statistics (**AISTATS 2021**). [**<font color=magenta size=3>[code]</font>**](http://sgre.github.io/files/code-RFF_RKKS.zip).
 
 2020
 ======
 * **Fanghui Liu**, Xiaolin Huang, Chen Gong, Jie Yang, and Li Li. [*<font color=blue size=3>Learning data-adaptive nonparametric kernels</font>*](https://www.jmlr.org/papers/volume21/19-900/19-900.pdf), Journal of Machine Learning Research (**JMLR**). [**<font color=magenta size=3>[code]</font>**](http://sgre.github.io/files/NesterovAcc.m).
+* **Fanghui Liu**, Xiaolin Huang, Yudong Chen, Jie Yang, and Johan A.K. Suykens. [*<font color=blue size=3>Random Fourier features via fast surrogate leverage weighted sampling</font>*](https://arxiv.org/pdf/1911.09158.pdf), the Thirty-Fourth AAAI Conference on Artificial Intelligence (**AAAI-20**). [**<font color=magenta size=3>[code]</font>**](http://sgre.github.io/files/AAAI20_code.zip).
 
 2019
 ======
-* **Fanghui Liu**, Xiaolin Huang, Yudong Chen, Jie Yang, and Johan A.K. Suykens. [*<font color=blue size=3>Random Fourier features via fast surrogate leverage weighted sampling</font>*](https://arxiv.org/pdf/1911.09158.pdf), the Thirty-Fourth AAAI Conference on Artificial Intelligence (**AAAI-20**). [**<font color=magenta size=3>[code]</font>**](http://sgre.github.io/files/AAAI20_code.zip).
-
 * **Fanghui Liu**, Xiaolin Huang, Lei Shi, Jie Yang, and Johan A.K. Suykens. [*<font color=blue size=3>A double-variational Bayesian framework in random Fourier features for indefinite kernels</font>*](https://lirias.kuleuven.be/retrieve/554716), IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**). [**<font color=magenta size=3>[code]</font>**](http://sgre.github.io/files/RFF-DIGMM_code.zip).
 
 2018
