@@ -67,6 +67,6 @@ Shanghai Jiao Tong University.
 
 <body>
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=fff1f1&w=a&t=tt&d=CSj_lwkJPnjLuoGvBe6VD-xJaql8MX8sFoN-GPUfX38"></script>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=CSj_lwkJPnjLuoGvBe6VD-xJaql8MX8sFoN-GPUfX38"></script>
 
 </body>
