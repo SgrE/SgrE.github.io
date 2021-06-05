@@ -115,6 +115,9 @@ author:
   wikipedia        :
  
 
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=CSj_lwkJPnjLuoGvBe6VD-xJaql8MX8sFoN-GPUfX38"></script>
+
 # Reading Files
 include:
   - .htaccess
