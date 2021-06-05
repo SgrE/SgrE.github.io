@@ -65,10 +65,3 @@ Shanghai Jiao Tong University.
 
 2017-09 One paper was accepted by IEEE Transctions on Cybernetics.
 
-<body>
-
-```javascript
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=CSj_lwkJPnjLuoGvBe6VD-xJaql8MX8sFoN-GPUfX38"></script>
-```
-
-</body>
