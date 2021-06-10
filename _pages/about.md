@@ -24,6 +24,8 @@ Sometimes it could not be updated in time.
 
 News
 ----
+2021-06 One paper was accepted by Journal of Machine Learning Research.
+
 2021-02 One paper was accepted by Machine Learning.
 
 2021-01 Two papers were accepted by AISTATS-2021.
