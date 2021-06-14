@@ -12,7 +12,15 @@ redirect_from:
 Reviewing
 ======
 
-**Reviewer for:**
+**Program Committee/Conference Reviewers**
+
+*  International Conference on Learning Representations (ICLR) 2022
+* International Conference on Machine Learning (ICML) 2021
+* International Conference on Artificial Intelligence and Statistics (AISTATS) 2021
+* Neural Information Processing Systems (NeurIPS) 2020, 2021
+* AAAI Conference on Artificial Intelligence (AAAI) 2020, 2021
+
+**Journal Reviewers**
 
 * IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
 * IEEE Transactions on Image Processing (IEEE TIP)
@@ -24,10 +32,4 @@ Reviewing
 * IEEE Signal Processing Letters (IEEE SPL)
 * Neurocomputing
 * Pattern Recognition Letters
-
-* International Conference on Machine Learning (ICML) 2021
-* International Conference on Artificial Intelligence and Statistics (AISTATS) 2021
-* Neural Information Processing Systems (NeurIPS) 2020, 2021
-* AAAI Conference on Artificial Intelligence (AAAI) 2020, 2021
-* IEEE International Conference on Data Mining (ICDM) 2017
 

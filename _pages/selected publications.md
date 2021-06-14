@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-(# denotes equal contributions and \* indicates the corresponding author)
+(xxx\* denotes equal contributions and <u>xxx</u> indicates the corresponding author)
 
 Preprints
 ======
@@ -24,9 +24,9 @@ Preprints
 
 2021
 ======
-* **Fanghui Liu**<sup>#\*</sup>, **Lei Shi**<sup>#</sup>, Xiaolin Huang, Jie Yang\*, and Johan A.K. Suykens. [*<font color=blue size=3>Generalization properties of hyper-RKHS and its applications</font>*](https://arxiv.org/pdf/1809.09910.pdf), Journal of Machine Learning Research (**JMLR**).
+* **<u>Fanghui Liu</u>**<sup>\*</sup>, **Lei Shi**<sup>\*</sup>, Xiaolin Huang, <u>Jie Yang</u>, and Johan A.K. Suykens. [*<font color=blue size=3>Generalization properties of hyper-RKHS and its applications</font>*](https://arxiv.org/pdf/1809.09910.pdf), Journal of Machine Learning Research (**JMLR**).
 
-* **Fanghui Liu**<sup>#\*</sup>, **Lei Shi**<sup>#</sup>, Xiaolin Huang, Jie Yang, and Johan A.K. Suykens. [*<font color=blue size=3>Analysis of least squares regularized regression in reproducing kernel Krein spaces</font>*](https://arxiv.org/pdf/2006.01073.pdf), **Machine Learning**.
+* **<u>Fanghui Liu</u>**<sup>\*</sup>, **Lei Shi**<sup>\*</sup>, Xiaolin Huang, Jie Yang, and Johan A.K. Suykens. [*<font color=blue size=3>Analysis of least squares regularized regression in reproducing kernel Krein spaces</font>*](https://arxiv.org/pdf/2006.01073.pdf), **Machine Learning**.
 
 
 * **Fanghui Liu**, Zhenyu Liao, and Johan A.K. Suykens. [*<font color=blue size=3>Kernel regression in high dimensions: Refined analysis beyond double descent</font>*](http://proceedings.mlr.press/v130/liu21b.html), the 24th International Conference on Artificial Intelligence and Statistics (**AISTATS 2021**). [**<font color=magenta size=3>[code]</font>**](http://sgre.github.io/files/demo_KRRhigh.m).
