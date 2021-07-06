@@ -21,9 +21,11 @@ Here is my [**<font color=magenta size=3>CV</font>**](http://sgre.github.io/file
 The homepage is under construction and more information will be presented.
 Sometimes it could not be updated in time.
 
-
 News
 ----
+
+2021-07 One paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence.
+
 2021-06 One paper was accepted by Journal of Machine Learning Research.
 
 2021-02 One paper was accepted by Machine Learning.
