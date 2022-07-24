@@ -1,9 +1,9 @@
 # jemdoc: menu{MENU}{talk.html}, nofooter
 == Talks
 
-- [./files/Fanghui_quad.pdf Kenrel approximation via random features and quadrature]
+- [files/Fanghui_quad.pdf Kenrel approximation via random features and quadrature]
 
-- [./files/Fanghui_KRR.pdf High-dimensional kernel ridge regression beyond double descent]
+- [files/Fanghui_KRR.pdf High-dimensional kernel ridge regression beyond double descent]
 
-- [./files/Fanghui_DD.pdf Double descent of random features models trained with SGD]
+- [files/Fanghui_DD.pdf Double descent of random features models trained with SGD]
 
