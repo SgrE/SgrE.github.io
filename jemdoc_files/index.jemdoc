@@ -44,8 +44,8 @@ over-parameterized models (motivated by neural networks).
 \[[https://arxiv.org/abs/1707.01826 TNNLS18],[https://lirias.kuleuven.be/retrieve/554716 TNNLS19],
 [http://proceedings.mlr.press/v130/liu21a.html AISTATS21]\].
 
-- kernel approximation via quadrature \[[https://arxiv.org/abs/2011.01668 TPAMI21]\] and 
-random features: refer to a {{<font color="DarkMagenta">survey</font>}} \[[https://arxiv.org/abs/2004.11154 TPAMI21]\]!
+- kernel approximation via random features and quadrature \[[https://arxiv.org/abs/2011.01668 TPAMI21]\]:
+refer to a *{{<font color="DarkMagenta">survey</font>}}* \[[https://arxiv.org/abs/2004.11154 TPAMI21]\]!
 
 - learning theory in under-parameterized models \[[https://jmlr.org/papers/v22/19-482.html JMLR21],
 [https://arxiv.org/abs/2006.01073 ML21]\] and over-parameterized models on double descent 
