@@ -1,4 +1,4 @@
-This homepage follows the new design as below.
+This homepage (www.lfhsgre.org) follows the new design as below.
 
 <a href="https://github.com/szl2/jemdoc-new-design"><img src="README.assets/banner.png" alt="banner" style="zoom:100%;" /></a>
 
