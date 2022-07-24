@@ -8,9 +8,7 @@ This homepage uses a new design based on [jemdoc](https://jemdoc.jaboc.net/), fo
 
 Assuming you have already install the  `jemdoc+MathJax`, notice that
 
-in `./jemdoc_files/`, we store `.jemdoc` files and `mysite.conf`
-
-in `./www/`, we store the output `.html` / `.css` / `.js` files and website assets.
+in `./jemdoc_files/`, we store `.jemdoc` files and `mysite.conf`.
 
 Suppose you are currently in `./jemdoc_files/`, we use the following to compile
 
