@@ -1,0 +1,67 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+== Publications 
+
+For the complete list, please refer to my [https://scholar.google.com/citations?user=AKxBgssAAAAJ Google Scholar Profile].
+
+\* indicates equal contribution
+
+=== Preprints
+- /On the double descent of random features models trained by SGD/. 
+\[[https://arxiv.org/abs/2110.06910 arXiv]\],
+\[[./files/code_DD_RFF.zip code]\] \n
+*Fanghui Liu*, Johan A.K. Suykens, Volkan Cevher. \n
+Presented at [https://topml.rice.edu/ Workshop on the Theory of Overparameterized Machine Learning (TOPML) 2022].
+
+== Selected Papers
+
+- /Random features for kernel approximation: A Survey on algorithms, theory, and beyond/.
+\[[https://arxiv.org/abs/2004.11154 arXiv]\], \[[./files/RFFsurvey_demo.zip code]\]. \n
+*Fanghui Liu*, Xiaolin Huang, Yudong Chen, and Johan A.K. Suykens. \n
+IEEE Transactions on Pattern Analysis and Machine Intelligence (*TPAMI*), 2021.
+
+- /Generalization properties of hyper-RKHS and its applications/.
+\[[https://jmlr.org/papers/v22/19-482.html link]\], \[[./files/demo-hyperRKHS.zip code]\]. \n
+*Fanghui Liu*\*, Lei Shi\*, Xiaolin Huang, Jie Yang, and Johan A.K. Suykens. \n
+Journal of Machine Learning Research (*JMLR*), 2021.
+
+- /Towards a unified quadrature framework for large scale kernel methods/.
+\[[https://arxiv.org/abs/2011.01668 arXiv]\], \[[./files/Quadrature_demo.zip code]\]. \n
+*Fanghui Liu*, Xiaolin Huang, Yudong Chen, and Johan A.K. Suykens.\n
+IEEE Transactions on Pattern Analysis and Machine Intelligence (*TPAMI*), 2021.
+
+- /Kernel regression in high dimensions: Refined analysis beyond double descent/.
+\[[http://proceedings.mlr.press/v130/liu21b.html link]\], \[[./files/demo_KRRhigh.m code]\]. \n
+*Fanghui Liu*, Zhenyu Liao, and Johan A.K. Suykens.\n 
+in the 24th International Conference on Artificial Intelligence and Statistics (*AISTATS*), 2021.
+
+- /Fast learning in reproducing kernel Krein spaces via signed measures/.
+\[[http://proceedings.mlr.press/v130/liu21a.html link]\], \[[./files/RFF_RKKS_poster.pdf poster]\],
+ \[[files/code-RFF_RKKS.zip code]\]. \n
+*Fanghui Liu*, Xiaolin Huang, Yingyi Chen, and Johan A.K. Suykens. \n
+in the 24th International Conference on Artificial Intelligence and Statistics (*AISTATS*), 2021.
+
+- /Analysis of least squares regularized regression in reproducing kernel Krein spaces/.
+\[[https://arxiv.org/abs/2006.01073 arXiv]\]. \n
+*Fanghui Liu*\*, Lei Shi\*, Xiaolin Huang, Jie Yang, and Johan A.K. Suykens. \n
+*Machine Learning*, 2021.
+
+- /Learning data-adaptive nonparametric kernels/.
+\[[https://jmlr.org/papers/v21/19-900.html link]\] \[[./files/NesterovAcc.m code]\]. \n
+*Fanghui Liu*, Xiaolin Huang, Chen Gong, Jie Yang, and Li Li. \n
+Journal of Machine Learning Research (*JMLR*), 2020.
+
+- /Random Fourier features via fast surrogate leverage weighted sampling/.
+\[[https://arxiv.org/abs/1911.09158 arXiv]\], \[[./files/AAAI20_code.zip code]\].\n 
+*Fanghui Liu*, Xiaolin Huang, Yudong Chen, Jie Yang, and Johan A.K. Suykens. \n
+in the Thirty-Fourth AAAI Conference on Artificial Intelligence (*AAAI*), 2020.
+
+- /A double-variational Bayesian framework in random Fourier features 
+ for indefinite kernels/.
+\[[https://lirias.kuleuven.be/retrieve/554716 link]\], \[[./files/RFF-DIGMM_code.zip code]\].\n
+*Fanghui Liu*, Xiaolin Huang, Lei Shi, Jie Yang, and Johan A.K. Suykens.\n 
+IEEE Transactions on Neural Networks and Learning Systems (*TNNLS*), 2019.
+
+- /Indefinite kernel logistic regression with Concave-inexact-convex procedure/.
+\[[https://arxiv.org/abs/1707.01826 arXiv]\], \[[./IKLR_code.zip code]\]. \n
+*Fanghui Liu*, Xiaolin Huang, Chen Gong, Jie Yang, and Johan A.K. Suykens. \n
+IEEE Transactions on Neural Networks and Learning Systems (*TNNLS*), 2018.

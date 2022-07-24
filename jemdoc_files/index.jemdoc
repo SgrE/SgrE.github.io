@@ -1,0 +1,78 @@
+# jemdoc: menu{MENU}{index.html}
+== Welcome to Fanghui Liu (刘方辉)'s Homepage!
+
+~~~
+{}{img_left}{./images/me.jpg}{alt text}{300px}{280px}
+= Fanghui Liu \n
+=== Postdoc researcher at [https://www.epfl.ch/labs/lions/ EPFL], Switzerland \n
+Email: firstname.lastname@epfl.ch \n
+\[[https://scholar.google.com/citations?user=AKxBgssAAAAJ Google Scholar]\]\[[./files/Fanghui_CV.pdf Curriculem Vitae]\] \n
+~~~
+
+at Belfry of Bruges, Belgium (July 3, 2021).
+
+
+== About me
+
+I'm currently a postdoc researcher in the Laboratory for Information and Inference Systems 
+(LIONS), École Polytechnique Fédérale de Lausanne (EPFL), Switzerland, 
+working with [https://www.epfl.ch/labs/lions/people/volkan-cevher/ Prof. Volkan Cevher]. 
+Before that, I spent two years in Department of Electrical Engineering (ESAT-STADIUS), 
+KU Leuven, Belgium, as a postdoc researcher from 2019 to 2021, 
+hosted by [https://www.esat.kuleuven.be/sista/members/suykens.html Prof. Johan A.K. Suykens].
+
+I obtained the Ph.D degree from Institute of Image Processing Pattern Recognition in Department of Automation, Shanghai Jiao Tong University (SJTU) in 
+June 2019, supervised by [http://www.pami.sjtu.edu.cn/En/jieyang Prof. Jie Yang], 
+and the B.E. degree in Automation, School of Astronautics, Harbin Institute of Technology (HIT) in 2014.
+
+#== Education
+#- Ph.D. in Department of Automation (Pattern Recognition and Intelligent Systems), Shanghai Jiao Tong University, Sep. 2014 - Jun. 2019
+#- B.S. in Department of Automation, Harbin Institute of Technology, Sep. 2010 - Jun. 2014
+
+== Research Interests 
+#- Statistical machine learning, kernel methods, learning theory
+#- Computer Vision
+
+I’m generally interested in statistical machine learning, 
+centered around *kernel methods* and *learning theory*. 
+Currently, my main attention focuses on theoretically understanding generalization properties of machine learning 
+based algorithms, especially on 
+over-parameterized models (motivated by neural networks).
+
+- kernel learning \[[https://jmlr.org/papers/v21/19-900.html JMLR20],
+[https://jmlr.org/papers/v22/19-482.html JMLR21]\] and indefinite kernels 
+\[[https://arxiv.org/abs/1707.01826 TNNLS18],[https://lirias.kuleuven.be/retrieve/554716 TNNLS19],
+[http://proceedings.mlr.press/v130/liu21a.html AISTATS21]\].
+
+- kernel approximation via quadrature \[[https://arxiv.org/abs/2011.01668 TPAMI21]\] and 
+random features: refer to a survey \[[https://arxiv.org/abs/2004.11154 TPAMI21]\]!
+
+- learning theory in under-parameterized models \[[https://jmlr.org/papers/v22/19-482.html JMLR21],
+[https://arxiv.org/abs/2006.01073 ML21]\] and over-parameterized models on double descent 
+\[[http://proceedings.mlr.press/v130/liu21b.html AISTATS21],[https://arxiv.org/abs/2110.06910 arXiv21]\].
+
+
+
+
+
+== News
+- \[2021-10\] One paper on double descent of RFF with SGD was posted on 
+[https://arxiv.org/abs/2110.06910 arXiv].
+
+- \[2021-10\] One paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence.
+
+- \[2021-07\] One paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence.
+
+- \[2021-06\] One paper was accepted by Journal of Machine Learning Research.
+
+- \[2021-02\] One paper was accepted by Machine Learning.
+
+- \[2021-01\] Two papers were accepted by AISTATS-2021.
+
+- \[2020-10\] One paper was accepted by Journal of Machine Learning Research.
+
+== Visitors
+~~~
+{}{raw}
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=400&t=tt&d=CSj_lwkJPnjLuoGvBe6VD-xJaql8MX8sFoN-GPUfX38&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353'></script>
+~~~
