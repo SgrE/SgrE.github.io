@@ -1,3 +1,5 @@
+This homepage follows the new design as below.
+
 <a href="https://github.com/szl2/jemdoc-new-design"><img src="README.assets/banner.png" alt="banner" style="zoom:100%;" /></a>
 
 [jemdoc](https://jemdoc.jaboc.net/) (or [jemdoc+MathJax](http://www.mit.edu/~wsshin/jemdoc+mathjax.html)) has always been a good choice for light static website generating.
