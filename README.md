@@ -1,4 +1,3 @@
-# SgrE.github.io
 
 This homepage follows a new design, refer to
 
