@@ -32,11 +32,9 @@ and the B.E. degree in Automation, School of Astronautics, Harbin Institute of T
 #- Statistical machine learning, kernel methods, learning theory
 #- Computer Vision
 
-I’m generally interested in statistical machine learning, 
-centered around *kernel methods* and *learning theory*. 
+I’m generally interested in statistical machine learning, centered around *kernel methods* and *learning theory*. 
 Currently, my main attention focuses on theoretically understanding generalization properties of machine learning 
-based algorithms, especially on 
-over-parameterized models (motivated by neural networks).
+based algorithms, especially on over-parameterized models (motivated by neural networks).
 
 - kernel learning \[[https://jmlr.org/papers/v21/19-900.html JMLR20],
 [https://jmlr.org/papers/v22/19-482.html JMLR21]\] and indefinite kernels 
