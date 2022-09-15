@@ -33,26 +33,31 @@ and the B.E. degree in Automation, School of Astronautics, Harbin Institute of T
 #- Computer Vision
 
 I’m generally interested in statistical machine learning, centered around *kernel methods* and *learning theory*. 
-Currently, my main attention focuses on theoretically understanding generalization properties of machine learning 
+My main attention focuses on theoretically understanding generalization properties of machine learning 
 based algorithms, especially on over-parameterized models (motivated by neural networks).
 
-- kernel learning \[[https://jmlr.org/papers/v21/19-900.html JMLR20],
+- kernel learning and theory \[[https://jmlr.org/papers/v21/19-900.html JMLR20],
 [https://jmlr.org/papers/v22/19-482.html JMLR21]\] and indefinite kernels 
 \[[https://arxiv.org/abs/1707.01826 TNNLS18],[https://lirias.kuleuven.be/retrieve/554716 TNNLS19],
-[http://proceedings.mlr.press/v130/liu21a.html AISTATS21]\].
+[http://proceedings.mlr.press/v130/liu21a.html AISTATS21], [https://arxiv.org/abs/2006.01073 ML21] \].
 
 - kernel approximation via random features and quadrature \[[https://arxiv.org/abs/2011.01668 TPAMI21]\]:
 refer to a *{{<font color="DarkMagenta">survey</font>}}* \[[https://arxiv.org/abs/2004.11154 TPAMI21]\]!
 
-- learning theory in under-parameterized models \[[https://jmlr.org/papers/v22/19-482.html JMLR21],
-[https://arxiv.org/abs/2006.01073 ML21]\] and over-parameterized models on double descent 
-\[[http://proceedings.mlr.press/v130/liu21b.html AISTATS21],[https://arxiv.org/abs/2110.06910 arXiv21]\].
+- generalization of over-parameterized models 
+\[[http://proceedings.mlr.press/v130/liu21b.html AISTATS21],[https://arxiv.org/abs/2110.06910 NeurPS22]\].
 
+Currently I'm also interested in reinforcement learning theory, especially from the perspective of 
+function approximation. Besides, I also take time on some student projects in theoretical-oriented application topics,
+e.g., robustness, NAS, and OOD.   
 
 
 
 
 == News
+
+- \[2022-09\] Six papers were accepted by NeurIPS 2022.
+
 - \[2021-10\] One paper on double descent of RFF with SGD was posted on 
 [https://arxiv.org/abs/2110.06910 arXiv].
 
