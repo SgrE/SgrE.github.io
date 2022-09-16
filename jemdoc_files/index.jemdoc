@@ -36,10 +36,9 @@ I’m generally interested in statistical machine learning, centered around *ker
 My main attention focuses on theoretically understanding generalization properties of machine learning 
 based algorithms, especially on over-parameterized models (motivated by neural networks).
 
-- kernel learning and theory \[[https://jmlr.org/papers/v21/19-900.html JMLR20],
+- kernel methods in theory \[[https://jmlr.org/papers/v21/19-900.html JMLR20],
 [https://jmlr.org/papers/v22/19-482.html JMLR21]\] and indefinite kernels 
-\[[https://arxiv.org/abs/1707.01826 TNNLS18],[https://lirias.kuleuven.be/retrieve/554716 TNNLS19],
-[http://proceedings.mlr.press/v130/liu21a.html AISTATS21], [https://arxiv.org/abs/2006.01073 ML21] \].
+\[[http://proceedings.mlr.press/v130/liu21a.html AISTATS21], [https://arxiv.org/abs/2006.01073 ML21] \].
 
 - kernel approximation via random features and quadrature \[[https://arxiv.org/abs/2011.01668 TPAMI21]\]:
 refer to a *{{<font color="DarkMagenta">survey</font>}}* \[[https://arxiv.org/abs/2004.11154 TPAMI21]\]!
@@ -47,7 +46,7 @@ refer to a *{{<font color="DarkMagenta">survey</font>}}* \[[https://arxiv.org/ab
 - generalization of over-parameterized models 
 \[[http://proceedings.mlr.press/v130/liu21b.html AISTATS21],[https://arxiv.org/abs/2110.06910 NeurPS22]\].
 
-Currently I'm also interested in reinforcement learning theory \[[https://arxiv.org/abs/2209.07376 NeurIPS22], especially from the perspective of 
+Currently I'm also interested in reinforcement learning theory \[[https://arxiv.org/abs/2209.07376 NeurIPS22]\], especially from the perspective of 
 function approximation. 
 
 Besides, I also take time on some student projects in theoretical-oriented application topics,
