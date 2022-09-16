@@ -48,8 +48,11 @@ refer to a *{{<font color="DarkMagenta">survey</font>}}* \[[https://arxiv.org/ab
 \[[http://proceedings.mlr.press/v130/liu21b.html AISTATS21],[https://arxiv.org/abs/2110.06910 NeurPS22]\].
 
 Currently I'm also interested in reinforcement learning theory \[[https://arxiv.org/abs/2209.07376 NeurIPS22], especially from the perspective of 
-function approximation. Besides, I also take time on some student projects in theoretical-oriented application topics,
-e.g., robustness \[ [https://arxiv.org/abs/2209.07263 arXiv] \], NAS \[ [https://arxiv.org/abs/2209.07238 arXiv] \], and OOD.   
+function approximation. 
+
+Besides, I also take time on some student projects in theoretical-oriented application topics,
+e.g., robustness \[[https://arxiv.org/abs/2209.07263 NeurIPS22]\], NAS \[[https://arxiv.org/abs/2209.07238 NeurIPS22]\], OOD, 
+and verification \[[https://arxiv.org/abs/2209.07235 NeurIPS22]\].   
 
 
 
