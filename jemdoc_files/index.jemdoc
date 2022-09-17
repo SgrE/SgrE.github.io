@@ -43,7 +43,7 @@ based algorithms, especially on over-parameterized models (motivated by neural n
 - kernel approximation via random features and quadrature \[[https://arxiv.org/abs/2011.01668 TPAMI21]\]:
 refer to a *{{<font color="DarkMagenta">survey</font>}}* \[[https://arxiv.org/abs/2004.11154 TPAMI21]\]!
 
-- generalization of over-parameterized models 
+- over-parameterized models in generalization guarantees 
 \[[http://proceedings.mlr.press/v130/liu21b.html AISTATS21],[https://arxiv.org/abs/2110.06910 NeurPS22]\].
 
 Currently I'm also interested in reinforcement learning theory \[[https://arxiv.org/abs/2209.07376 NeurIPS22]\], especially from the perspective of 
