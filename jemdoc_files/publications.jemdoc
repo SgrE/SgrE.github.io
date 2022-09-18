@@ -22,23 +22,22 @@ Presented at [https://topml.rice.edu/ Workshop on the Theory of Overparameterize
 *Fanghui Liu*, Luca Viano, Volkan Cevher. \n
 in the 36th Conference on Neural Information Processing Systems (*NeurIPS*), 2022. \n
 
-- /Robustness in deep learning: The good (width), the bad (depth), and the ugly (initialization)/. \n
-Zhenyu Zhu, *Fanghui Liu*,  Grigorios Chrysos, Volkan Cevher. 
+- /Robustness in deep learning: The good (width), the bad (depth), and the ugly (initialization)/. 
 \[[https://arxiv.org/abs/2209.07263 arXiv]\]. \n
+Zhenyu Zhu, *Fanghui Liu*,  Grigorios Chrysos, Volkan Cevher. \n
 in the 36th Conference on Neural Information Processing Systems (*NeurIPS*), 2022. \n
 
-- /Generalization properties of NAS under activation and skip connection search/. \n
-Zhenyu Zhu, *Fanghui Liu*, Grigorios Chrysos, Volkan Cevher.
+- /Generalization properties of NAS under activation and skip connection search/.
 \[[https://arxiv.org/abs/2209.07238 arXiv]\]. \n
+Zhenyu Zhu, *Fanghui Liu*, Grigorios Chrysos, Volkan Cevher. \n
 in the 36th Conference on Neural Information Processing Systems (*NeurIPS*), 2022. \n
 
 - /Extrapolation and spectral bias of neural nets with Hadamard product: a polynomial net study/. \n
 Yongtao Wu, Zhenyu Zhu, *Fanghui Liu*, Grigorios Chrysos, Volkan Cevher. \n
 in the 36th Conference on Neural Information Processing Systems (*NeurIPS*), 2022. \n
 
-- /Sound and complete verification of polynomial networks/. \n
-Elias Abad Rocamora, Mehmet Fatih Sahin, *Fanghui Liu*, Grigorios Chrysos, Volkan Cevher. 
-\[[https://arxiv.org/abs/2209.07235 arXiv]\]. \n
+- /Sound and complete verification of polynomial networks/. \[[https://arxiv.org/abs/2209.07235 arXiv]\]. \n
+Elias Abad Rocamora, Mehmet Fatih Sahin, *Fanghui Liu*, Grigorios Chrysos, Volkan Cevher. \n
 in the 36th Conference on Neural Information Processing Systems (*NeurIPS*), 2022. \n
 
 - /Random features for kernel approximation: A Survey on algorithms, theory, and beyond/.
