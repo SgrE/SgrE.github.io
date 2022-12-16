@@ -32,34 +32,28 @@ and the B.E. degree in Automation, School of Astronautics, Harbin Institute of T
 #- Statistical machine learning, kernel methods, learning theory
 #- Computer Vision
 
-I’m generally interested in statistical machine learning, centered around *kernel methods* and *learning theory*. 
-My main attention focuses on theoretically understanding generalization properties of machine learning 
-based algorithms, especially on over-parameterized models (motivated by neural networks).
+I’m generally interested in *statistical learning theory* regarding kernel methods, deep learning theory as well as reinforcement learning theory. 
+My main attention focuses on theoretically understanding generalization properties of machine learning based algorithms, especially on over-parameterized models (motivated by neural networks).
+In fact, my research line can be understood from in the function space theory view, from RKHS to hyper-RKHS, Barron spaces, Besov spaces, which aims to understand what is the role of over-parameterization from kernel methods to neural networks. 
 
-- kernel methods in theory \[[https://jmlr.org/papers/v21/19-900.html JMLR20],
-[https://jmlr.org/papers/v22/19-482.html JMLR21]\] and indefinite kernels 
-\[[http://proceedings.mlr.press/v130/liu21a.html AISTATS21], [https://arxiv.org/abs/2006.01073 ML21] \].
+- statistical learning theory \[[http://proceedings.mlr.press/v130/liu21b.html AISTATS21], [https://arxiv.org/abs/2110.06910 NeurPS22], [https://jmlr.org/papers/v22/19-482.html JMLR21], [https://arxiv.org/abs/2006.01073 ML21]\].
 
-- kernel approximation via random features and quadrature \[[https://arxiv.org/abs/2011.01668 TPAMI21]\]:
+- kernel methods and approximation \[[https://jmlr.org/papers/v21/19-900.html JMLR20], [https://arxiv.org/abs/2011.01668 TPAMI21], [http://proceedings.mlr.press/v130/liu21a.html AISTATS21] \]:
 refer to a *{{<font color="DarkMagenta">survey</font>}}* \[[https://arxiv.org/abs/2004.11154 TPAMI21]\]!
 
-- over-parameterized models in generalization guarantees 
-\[[http://proceedings.mlr.press/v130/liu21b.html AISTATS21],[https://arxiv.org/abs/2110.06910 NeurPS22]\].
-
-Currently I'm also interested in reinforcement learning theory \[[https://arxiv.org/abs/2209.07376 NeurIPS22]\], especially from the perspective of 
-function approximation. 
+Currently I'm also interested in reinforcement learning theory \[[https://arxiv.org/abs/2209.07376 NeurIPS22]\], especially from the perspective of function approximation. 
 
 Besides, I also take time on some student projects in theoretical-oriented application topics,
 e.g., robustness \[[https://arxiv.org/abs/2209.07263 NeurIPS22]\], NAS \[[https://arxiv.org/abs/2209.07238 NeurIPS22]\], OOD \[[https://arxiv.org/abs/2209.07736 NeurIPS22]\], 
 and verification \[[https://arxiv.org/abs/2209.07235 NeurIPS22]\].   
 
 
-*{{<font color="DarkMagenta">If you would like to work with me on your semester project or master thesis at EPFL regarding some theoretical-oriented topics, please send me your CV, transcript, and potential topics you're interested in.</font>}}* 
-
 
 
 
 == News
+
+- \[2022-12\] We will give a tutorial on over-parameterization of neural networks: *Neural networks: the good, the bad, the ugly* at IEEE ICASSP 2023 in the Greek island of Rhodes.
 
 - \[2022-09\] Six papers were accepted by NeurIPS 2022.
 
