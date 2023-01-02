@@ -2,14 +2,14 @@
 == Welcome to Fanghui Liu (刘方辉)'s Homepage!
 
 ~~~
-{}{img_left}{images/me.jpg}{alt text}{300px}{280px}
+{}{img_left}{images/rigi1126.jpeg}{alt text}{300px}{280px}
 = Fanghui Liu \n
 === Postdoc researcher at [https://www.epfl.ch/labs/lions/ EPFL], Switzerland \n
 Email: *x*@*y* with *x*=fanghui.liu and *y*=epfl.ch \n
 \[[https://scholar.google.com/citations?user=AKxBgssAAAAJ Google Scholar]\]\[[files/Fanghui_CV.pdf Curriculum Vitae]\] \n
 ~~~
 
-at Zermatt, Switzerland (August 28, 2022).
+at Rigi, Switzerland (Nov. 26, 2022).
 
 
 == About me
@@ -34,18 +34,18 @@ and the B.E. degree in Automation, School of Astronautics, Harbin Institute of T
 
 I’m generally interested in *statistical learning theory* regarding kernel methods, deep learning theory as well as reinforcement learning theory. 
 My main attention focuses on theoretically understanding generalization properties of machine learning based algorithms, especially on over-parameterized models (motivated by neural networks).
-In fact, my research line can be understood from in the function space theory view, from RKHS to hyper-RKHS, Barron spaces, Besov spaces, which aims to understand what is the role of over-parameterization from kernel methods to neural networks. 
+In fact, my research line can be understood from the function space theory view, from RKHS to hyper-RKHS, Barron spaces, Besov spaces.
+This aims to understand the role of over-parameterization from kernel methods to neural networks. 
 
 - statistical learning theory \[[http://proceedings.mlr.press/v130/liu21b.html AISTATS21], [https://arxiv.org/abs/2110.06910 NeurPS22], [https://jmlr.org/papers/v22/19-482.html JMLR21], [https://arxiv.org/abs/2006.01073 ML21]\].
 
 - kernel methods and approximation \[[https://jmlr.org/papers/v21/19-900.html JMLR20], [https://arxiv.org/abs/2011.01668 TPAMI21], [http://proceedings.mlr.press/v130/liu21a.html AISTATS21] \]:
 refer to a *{{<font color="DarkMagenta">survey</font>}}* \[[https://arxiv.org/abs/2004.11154 TPAMI21]\]!
 
-Currently I'm also interested in reinforcement learning theory \[[https://arxiv.org/abs/2209.07376 NeurIPS22]\], especially from the perspective of function approximation. 
+Currently I'm also interested in reinforcement learning theory, especially from the perspective of function approximation \[[https://arxiv.org/abs/2209.07376 NeurIPS22]\]. 
 
 Besides, I also take time on some student projects in theoretical-oriented application topics,
-e.g., robustness \[[https://arxiv.org/abs/2209.07263 NeurIPS22]\], NAS \[[https://arxiv.org/abs/2209.07238 NeurIPS22]\], OOD \[[https://arxiv.org/abs/2209.07736 NeurIPS22]\], 
-and verification \[[https://arxiv.org/abs/2209.07235 NeurIPS22]\].   
+e.g., robustness and verification \[[https://arxiv.org/abs/2209.07263 NeurIPS22], [https://arxiv.org/abs/2209.07235 NeurIPS22]\], NAS \[[https://arxiv.org/abs/2209.07238 NeurIPS22]\], and OOD \[[https://arxiv.org/abs/2209.07736 NeurIPS22]\].   
 
 
 
@@ -53,7 +53,7 @@ and verification \[[https://arxiv.org/abs/2209.07235 NeurIPS22]\].
 
 == News
 
-- \[2022-12\] We will give a tutorial on over-parameterization of neural networks: *Neural networks: the good, the bad, the ugly* at IEEE ICASSP 2023 in the Greek island of Rhodes.
+- \[2022-12\] We will give a tutorial entitled *Neural networks: the good, the bad, the ugly* at IEEE ICASSP 2023 in the Greek island of Rhodes.
 
 - \[2022-09\] Six papers were accepted by NeurIPS 2022.
 
