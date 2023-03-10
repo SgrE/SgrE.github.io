@@ -2,14 +2,14 @@
 == Welcome to Fanghui Liu (刘方辉)'s Homepage!
 
 ~~~
-{}{img_left}{images/rigi1126.jpg}{alt text}{300px}{280px}
+{}{img_left}{images/fanghui-photo.jpeg}{alt text}{300px}{280px}
 = Fanghui Liu \n
 === Postdoc researcher at [https://www.epfl.ch/labs/lions/ EPFL], Switzerland \n
 Email: *x*@*y* with *x*=fanghui.liu and *y*=epfl.ch \n
 \[[https://scholar.google.com/citations?user=AKxBgssAAAAJ Google Scholar]\]\[[files/Fanghui_CV.pdf Curriculum Vitae]\] \n
 ~~~
 
-at Rigi, Switzerland (Nov. 26, 2022).
+at Lindt, Switzerland (Feb. 2023).
 
 
 == About me
@@ -18,11 +18,11 @@ I'm currently a postdoc researcher in the Laboratory for Information and Inferen
 (LIONS), École Polytechnique Fédérale de Lausanne (EPFL), Switzerland, 
 working with [https://www.epfl.ch/labs/lions/people/volkan-cevher/ Prof. Volkan Cevher]. 
 Before that, I spent two years as a postdoc researcher in Department of Electrical Engineering (ESAT-STADIUS), 
-KU Leuven, Belgium, hosted by [https://www.esat.kuleuven.be/sista/members/suykens.html Prof. Johan A.K. Suykens].
+KU Leuven, Belgium, hosted by [https://www.esat.kuleuven.be/sista/members/suykens.html Prof. Johan A.K. Suykens]. I am an [https://ellis.eu/members/ ELLIS Member].
 
 I obtained the Ph.D degree from Institute of Image Processing Pattern Recognition in Department of Automation, Shanghai Jiao Tong University (SJTU) in 
 June 2019, supervised by [http://www.pami.sjtu.edu.cn/En/jieyang Prof. Jie Yang], 
-and the B.E. degree in Automation, School of Astronautics, Harbin Institute of Technology (HIT) in 2014.
+and the B.E. degree in Automation, Harbin Institute of Technology (HIT) in 2014.
 
 #== Education
 #- Ph.D. in Department of Automation (Pattern Recognition and Intelligent Systems), Shanghai Jiao Tong University, Sep. 2014 - Jun. 2019
@@ -37,12 +37,12 @@ My main attention focuses on theoretically understanding generalization properti
 In fact, my research line can be understood from the function space theory view, from RKHS to hyper-RKHS, Barron spaces, Besov spaces.
 This aims to understand the role of over-parameterization from kernel methods to neural networks. 
 
-- statistical learning theory \[[http://proceedings.mlr.press/v130/liu21b.html AISTATS21], [https://arxiv.org/abs/2110.06910 NeurPS22], [https://jmlr.org/papers/v22/19-482.html JMLR21], [https://arxiv.org/abs/2006.01073 ML21]\].
+- statistical learning theory, e.g., double descent \[[http://proceedings.mlr.press/v130/liu21b.html AISTATS21], [https://arxiv.org/abs/2110.06910 NeurPS22]\], generalization guarantees from an approximation theory view \[[https://jmlr.org/papers/v22/19-482.html JMLR21], [https://arxiv.org/abs/2006.01073 ML21]\].
 
 - kernel methods and approximation \[[https://jmlr.org/papers/v21/19-900.html JMLR20], [https://arxiv.org/abs/2011.01668 TPAMI21], [http://proceedings.mlr.press/v130/liu21a.html AISTATS21] \]:
 refer to a *{{<font color="DarkMagenta">survey</font>}}* \[[https://arxiv.org/abs/2004.11154 TPAMI21]\]!
 
-Currently I'm also interested in reinforcement learning theory, especially from the perspective of function approximation \[[https://arxiv.org/abs/2209.07376 NeurIPS22]\]. 
+Currently I'm also interested in reinforcement learning theory, especially on function approximation \[[https://arxiv.org/abs/2209.07376 NeurIPS22]\]. 
 
 Besides, I also take time on some student projects in theoretical-oriented application topics,
 e.g., robustness and verification \[[https://arxiv.org/abs/2209.07263 NeurIPS22], [https://arxiv.org/abs/2209.07235 NeurIPS22]\], NAS \[[https://arxiv.org/abs/2209.07238 NeurIPS22]\], and OOD \[[https://arxiv.org/abs/2209.07736 NeurIPS22]\].   
@@ -72,7 +72,7 @@ e.g., robustness and verification \[[https://arxiv.org/abs/2209.07263 NeurIPS22]
 
 - \[2021-02\] One paper was accepted by Machine Learning.
 
-- \[2021-01\] Two papers were accepted by AISTATS-2021.
+- \[2021-01\] Two papers were accepted by AISTATS 2021.
 
 - \[2020-10\] One paper was accepted by Journal of Machine Learning Research.
 

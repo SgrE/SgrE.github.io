@@ -12,7 +12,7 @@ For the complete list, please refer to my [https://scholar.google.com/citations?
 
 - /On the double descent of random features models trained by SGD/. 
 \[[https://arxiv.org/abs/2110.06910 arXiv]\],
-\[[files/code_DD_RFF.zip code]\] \n
+\[[files/code_DD_RFF.zip code]\], \[[files/Fanghui_DD.pdf slides]\]. \n
 *Fanghui Liu*, Johan A.K. Suykens, Volkan Cevher. \n
 in the 36th Conference on Neural Information Processing Systems (*NeurIPS*), 2022. \n
 Presented at [https://topml.rice.edu/ Workshop on the Theory of Overparameterized Machine Learning (TOPML) 2022].
@@ -23,7 +23,7 @@ Presented at [https://topml.rice.edu/ Workshop on the Theory of Overparameterize
 in the 36th Conference on Neural Information Processing Systems (*NeurIPS*), 2022. \n
 
 - /Robustness in deep learning: The good (width), the bad (depth), and the ugly (initialization)/. 
-\[[https://arxiv.org/abs/2209.07263 arXiv]\]. \n
+\[[https://arxiv.org/abs/2209.07263 arXiv]\], \[[files/NeurIPS22-robustness.pdf slides]\]. \n
 Zhenyu Zhu, *Fanghui Liu*,  Grigorios Chrysos, Volkan Cevher. \n
 in the 36th Conference on Neural Information Processing Systems (*NeurIPS*), 2022. \n
 
@@ -57,7 +57,7 @@ Journal of Machine Learning Research (*JMLR*), 2021.
 IEEE Transactions on Pattern Analysis and Machine Intelligence (*TPAMI*), 2021.
 
 - /Kernel regression in high dimensions: Refined analysis beyond double descent/.
-\[[http://proceedings.mlr.press/v130/liu21b.html link]\], \[[files/demo_KRRhigh.m code]\]. \n
+\[[http://proceedings.mlr.press/v130/liu21b.html link]\], \[[files/demo_KRRhigh.m code]\], \[[files/Fanghui_KRR.pdf slides]\]. \n
 *Fanghui Liu*, Zhenyu Liao, and Johan A.K. Suykens.\n 
 in the 24th International Conference on Artificial Intelligence and Statistics (*AISTATS*), 2021.
 
