@@ -6,7 +6,7 @@
 = Fanghui Liu \n
 === Postdoc researcher at [https://www.epfl.ch/labs/lions/ EPFL], Switzerland \n
 Email: *x*@*y* with *x*=fanghui.liu and *y*=epfl.ch \n
-\[[https://scholar.google.com/citations?user=AKxBgssAAAAJ Google Scholar]\]\[[files/Fanghui_CV.pdf Curriculum Vitae]\] \n
+\[[https://scholar.google.com/citations?user=AKxBgssAAAAJ Google Scholar]\] \n
 ~~~
 
 at Zermatt, Switzerland (Aug. 2022)
@@ -35,7 +35,8 @@ and the B.E. degree in Automation, Harbin Institute of Technology (HIT) in 2014.
 I’m generally interested in *statistical learning theory* regarding kernel methods, deep learning theory as well as reinforcement learning theory. 
 My main attention focuses on theoretically understanding generalization properties of machine learning based algorithms, especially on over-parameterized models (motivated by neural networks).
 In fact, my research line can be understood from the function space theory view, from RKHS to hyper-RKHS, Barron spaces, Besov spaces.
-This aims to understand the role of over-parameterization from kernel methods to neural networks. 
+This aims to understand the role of over-parameterization from kernel methods to neural networks.
+Refer to my recent \[[files/Fanghui_talk.pdf talk]\] if you're interested in. 
 
 - statistical learning theory, e.g., double descent \[[http://proceedings.mlr.press/v130/liu21b.html AISTATS21], [https://arxiv.org/abs/2110.06910 NeurPS22]\], generalization guarantees from an approximation theory view \[[https://jmlr.org/papers/v22/19-482.html JMLR21], [https://arxiv.org/abs/2006.01073 ML21]\].
 
