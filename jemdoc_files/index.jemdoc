@@ -32,7 +32,7 @@ and the B.E. degree in Automation, Harbin Institute of Technology (HIT) in 2014.
 #- Statistical machine learning, kernel methods, learning theory
 #- Computer Vision
 
-I’m generally interested in *statistical learning theory* regarding kernel methods, deep learning theory as well as reinforcement learning theory. 
+I’m generally interested in *mathematical and statistical aspects of machine learning*, e.g., kernel methods, statistical learning theory, and deep learning theory as well as some theoretical-oriented applications for *trustworthy ML*.
 My main attention focuses on theoretically understanding generalization properties of machine learning based algorithms, especially on over-parameterized models (motivated by neural networks).
 In fact, my research line can be understood from the function space theory view, from RKHS to hyper-RKHS, Barron spaces, Besov spaces.
 This aims to understand the role of over-parameterization from kernel methods to neural networks.
