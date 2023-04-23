@@ -36,7 +36,8 @@ I’m generally interested in *mathematical and statistical aspects of machine l
 My main attention focuses on theoretically understanding generalization properties of machine learning based algorithms, especially on over-parameterized models (motivated by neural networks).
 In fact, my research line can be understood from the function space theory view, from RKHS to hyper-RKHS, Barron spaces, Besov spaces.
 This aims to understand the role of over-parameterization from kernel methods to neural networks.
-Refer to my recent [files/Fanghui_talk.pdf *{{<font color="DarkMagenta">Talk</font>}}*] if you're interested in. 
+
+Refer to my recent [files/Fanghui_talk.pdf *{{<font color="DarkMagenta">TALK</font>}}*] if you're interested in. 
 
 - statistical learning theory, e.g., double descent \[[http://proceedings.mlr.press/v130/liu21b.html AISTATS21], [https://arxiv.org/abs/2110.06910 NeurPS22]\], generalization guarantees from an approximation theory view \[[https://jmlr.org/papers/v22/19-482.html JMLR21], [https://arxiv.org/abs/2006.01073 ML21]\].
 
@@ -54,7 +55,7 @@ e.g., robustness and verification \[[https://arxiv.org/abs/2209.07263 NeurIPS22]
 
 == News
 
-- \[2023-04\] I was selected as a Notable Reviewer for ICLR 2023.
+- \[2023-04\] I was selected as a [https://iclr.cc/Conferences/2023/Reviewers Notable Reviewer] for ICLR 2023.
 
 - \[2023-02\] We will give a tutorial entitled *Deep learning theory for computer vision* at IEEE CVPR 2023 in Vancouver, Canada.
 
