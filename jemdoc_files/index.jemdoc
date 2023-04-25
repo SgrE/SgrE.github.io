@@ -33,12 +33,11 @@ and the B.E. degree in Automation, Harbin Institute of Technology (HIT) in 2014.
 #- Computer Vision
 
 I'm generally interested in *mathematical foundations of machine learning*, 
- e.g., statistical learning theory and deep learning theory on the generalization properties of under-/over-parameterized models.
-Currently I'm also interested in *reinforcement learning theory*, especially on function approximation.
-This contributes to mathematical of data from theory to computation and statistical guarantees from classical statistical learning to sequential decision making.
+ e.g., *statistical learning theory* and deep learning theory on the generalization properties of under-/over-parameterized models.
+Currently I'm also interested in reinforcement learning theory, especially on function approximation, from classical statistical learning to sequential decision making.
 
 My research interest starts from kernel methods to large-scale computational methodologies in algorithm, and mainly focuses on theoretically understanding generalization properties of machine learning based algorithms, especially on *over-parameterized models* (motivated by neural networks).
-In fact, my research line can be understood from a function space theory perspective, from RKHS to hyper-RKHS, Barron spaces, Besov spaces.
+In fact, my research line can be understood from a *function space theory* perspective, from RKHS to hyper-RKHS, Barron spaces, Besov spaces.
 This aims to understand the role of over-parameterization from kernel methods to neural networks.
 
 Refer to my recent [files/Fanghui_talk.pdf *{{<font color="DarkMagenta">TALK</font>}}*] if you're interested in. 
