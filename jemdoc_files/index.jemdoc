@@ -55,6 +55,8 @@ e.g., robustness and verification \[[https://arxiv.org/abs/2209.07263 NeurIPS22]
 
 == News
 
+- \[2023-04\] Two papers were accepted by ICML 2023: one is about function approximation in online RL; the other one is related to benign overfitting.
+
 - \[2023-04\] I was selected as a [https://iclr.cc/Conferences/2023/Reviewers Notable Reviewer] for ICLR 2023.
 
 - \[2023-02\] We will give a tutorial entitled *Deep learning theory for computer vision* at IEEE CVPR 2023 in Vancouver, Canada.
