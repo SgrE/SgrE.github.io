@@ -47,7 +47,7 @@ Refer to my recent [files/Fanghui_talk.pdf *{{<font color="DarkMagenta">TALK</fo
 - kernel methods and approximation \[[https://jmlr.org/papers/v21/19-900.html JMLR20], [https://arxiv.org/abs/2011.01668 TPAMI21], [http://proceedings.mlr.press/v130/liu21a.html AISTATS21] \]:
 refer to a *{{<font color="DarkMagenta">survey</font>}}* \[[https://arxiv.org/abs/2004.11154 TPAMI21]\]!
 
-- reinforcement leaning theory, e.g., function approximation \[[https://arxiv.org/abs/2209.07376 NeurIPS22]\]. 
+- reinforcement leaning theory, e.g., function approximation \[[https://arxiv.org/abs/2209.07376 NeurIPS22]\], \[[https://arxiv.org/abs/2304.12886 ICML2023]\]. 
 
 Besides, I also spend time on some student projects in theoretical-oriented application topics,
 e.g., robustness and verification \[[https://arxiv.org/abs/2209.07263 NeurIPS22], [https://arxiv.org/abs/2209.07235 NeurIPS22]\], neural architecture search \[[https://arxiv.org/abs/2209.07238 NeurIPS22]\], and out-of-distribution generalization \[[https://arxiv.org/abs/2209.07736 NeurIPS22]\], which aims to build *trustworthy machine learning* systems.
