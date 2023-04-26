@@ -10,6 +10,11 @@ For the complete list, please refer to my [https://scholar.google.com/citations?
 
 == Accepted Papers
 
+- /Provable benefits of general coverage conditions in efficient online reinforcement learning with function approximation/. 
+\[[https://arxiv.org/abs/2304.12886 arXiv]\]. \n
+*Fanghui Liu*, Luca Viano, Volkan Cevher. \n
+in the 40th International Conference on Machine Learning (*ICML*), 2023. \n
+
 - /On the double descent of random features models trained by SGD/. 
 \[[https://arxiv.org/abs/2110.06910 arXiv]\],
 \[[files/code_DD_RFF.zip code]\], \[[files/Fanghui_DD.pdf slides]\]. \n
