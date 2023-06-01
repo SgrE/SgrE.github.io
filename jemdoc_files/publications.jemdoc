@@ -10,9 +10,14 @@ For the complete list, please refer to my [https://scholar.google.com/citations?
 
 == Accepted Papers
 
-- /Provable benefits of general coverage conditions in efficient online reinforcement learning with function approximation/. 
+- /What can online reinforcement learning with function approximation benefit from general coverage conditions?/. 
 \[[https://arxiv.org/abs/2304.12886 arXiv]\]. \n
 *Fanghui Liu*, Luca Viano, Volkan Cevher. \n
+in the 40th International Conference on Machine Learning (*ICML*), 2023. \n
+
+- /Benign Overfitting in Deep Neural Networks under Lazy Training/. 
+\[[https://arxiv.org/abs/2305.19377 arXiv]\]. \n
+Zhenyu Zhu, *Fanghui Liu*,  Grigorios Chrysos, Francesco Locatello, Volkan Cevher. \n
 in the 40th International Conference on Machine Learning (*ICML*), 2023. \n
 
 - /On the double descent of random features models trained by SGD/. 
