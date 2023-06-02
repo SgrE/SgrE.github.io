@@ -42,7 +42,7 @@ This aims to understand the role of over-parameterization from kernel methods to
 
 Refer to my recent [files/Fanghui_talk.pdf *{{<font color="DarkMagenta">TALK</font>}}*] if you're interested in. 
 
-- statistical learning theory, e.g., double descent, benign overfitting \[[http://proceedings.mlr.press/v130/liu21b.html AISTATS21], [https://arxiv.org/abs/2110.06910 NeurPS22]\], [https://arxiv.org/abs/2305.19377 ICML23]\], theory of kernel methods \[[https://jmlr.org/papers/v22/19-482.html JMLR21], [https://arxiv.org/abs/2006.01073 ML21]\].
+- statistical learning theory, e.g., double descent, benign overfitting \[[http://proceedings.mlr.press/v130/liu21b.html AISTATS21], [https://arxiv.org/abs/2110.06910 NeurPS22], [https://arxiv.org/abs/2305.19377 ICML23]\], theory of kernel methods \[[https://jmlr.org/papers/v22/19-482.html JMLR21], [https://arxiv.org/abs/2006.01073 ML21]\].
 
 - kernel methods and approximation \[[https://jmlr.org/papers/v21/19-900.html JMLR20], [https://arxiv.org/abs/2011.01668 TPAMI21], [http://proceedings.mlr.press/v130/liu21a.html AISTATS21] \]:
 refer to a *{{<font color="DarkMagenta">survey</font>}}* \[[https://arxiv.org/abs/2004.11154 TPAMI21]\]!
