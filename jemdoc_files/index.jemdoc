@@ -59,6 +59,8 @@ e.g., robustness and verification \[[https://arxiv.org/abs/2209.07263 NeurIPS22]
 
 == News
 
+- \[2023-06\] Here is the slides of our \[[files/ICASSP23_tutorial.pdf ICASSP 2023 tutorial]\].
+
 - \[2023-05\] One paper was accepted by TMLR regarding generalization guarantees of federated learning under covariate shifts.
 
 - \[2023-04\] Two papers were accepted by ICML 2023: one is about function approximation in online RL; the other one is related to benign overfitting.
