@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="icon" href="images/icon.png">
+<link rel="stylesheet" href="main.css" type="text/css" />
+<link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+<!--- <title>Tutorials</title> --->
+<title>Fanghui Liu</title>
+<!-- MathJax -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async>
+</script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	  TeX: { equationNumbers: { autoNumber: "AMS" } }
+});
+</script>
+<!-- End MathJax -->
+</head>
+<body>
+<div id="main-container">
+<div id="header-container">
+<div id="header">
+<div id="header-icon-text-container">
+<div id="header-icon-container" >
+<a href="index.html"><img src="images/profile2.png" alt="" style="width: 100%; height: 100%; position: center; padding:0px; margin: 0px;"></a>
+</div>
+<div id="header-text-container">
+<a href="index.html">Fanghui Liu</a>
+</div>
+</div>
+<div id="main">
+<button class="openbtn" onclick="openNav()">☰</button>
+</div>
+</div>
+</div>
+<div id="layout">
+<div id="layout-menu-container">
+<div id="layout-menu">
+<div class="menu-item"><a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a></div>
+<div class="menu-item"><a href="index.html">About</a></div>
+<div class="menu-category">Research</div>
+<div class="menu-item"><a href="publications.html">Publications</a></div>
+<div class="menu-item"><a href="talks.html">Talks</a></div>
+<div class="menu-item"><a href="tutorials.html" class="current">Tutorials</a></div>
+<div class="menu-item"><a href="services.html">Services</a></div>
+<div class="menu-item"><a href="awards.html">Awards</a></div>
+</div> <!-- <div id="layout-menu"> -->
+</div> <!-- <div id="layout-menu-container"> -->
+<div id="layout-content-container">
+<div id="layout-content">
+<div id="toptitle">
+<h1>Tutorials</h1>
+</div>
+<ul>
+<li><p>CVPR 2023 tutorial: <a href="files/CVPR_tutorial.pdf" target=&ldquo;blank&rdquo;>Deep learning theory for vision researchers</a> </p>
+</li>
+</ul>
+<p>In this tutorial, we aim to make the recent deep learning (DL) theory developments accessible to vision researchers, and motivate vision researchers to design new architectures and algorithms for practical tasks. We firstly revisit the &lsquo;&lsquo;correct" mechanism of adversarial training, an application of min-max optimization; then discuss the basic foundations of DL theory, e.g., lazy training and Neural Tangent Kernel (NTK), and talk about what can we benefit from such theory for CV; finally we exhibit how such tools can be critical in understanding neural networks as well as applications, e.g., neural architecture search, inductive bias, image filtering.</p>
+<ul>
+<li><p>ICASSP 2023 tutorial: <a href="files/ICASSP23_tutorial.pdf" target=&ldquo;blank&rdquo;>Neural networks: the good, the bad, the ugly</a> [<a href="https://tinyurl.com/ICASSP23t" target=&ldquo;blank&rdquo;>Google drive</a>]</p>
+</li>
+</ul>
+<p>We believe understanding over-parameterized neural networks (NNs) in “good” performance, “bad” explanation, and “ugly” phenomena is desirable to have a comprehensive tutorial. Our tutorial summarises the progress on theoretical understanding NNs from theory to computation, including two parts: 1) min-max optimization, SGD training for over-parameterized NNs as well as application to adversarial training; 2) generalization guarantees of over-parameterized NNs on the success and failure of uniform convergence, which relates to benign overfitting and double descent.</p>
+</div> <!-- <div id="layout-content-container"> -->
+</div> <!--- <div id="layout"> --->
+</div> <!--- <div id="main-container"> --->
+<script>
+function openNav() {
+    if (window.innerWidth <= 1200) {
+        document.getElementById("layout-menu").style.width = "280px";
+        document.getElementById("layout-content-container").style.marginLeft = "280.8px";
+        document.getElementById("layout-content-container").style.position = "fixed";
+    }
+}
+function closeNav() {
+    if (window.innerWidth <= 1200) {
+        document.getElementById("layout-menu").style.width = "0";
+        document.getElementById("layout-content-container").style.position = "static";
+        document.getElementById("layout-content-container").style.marginLeft = "0px";
+        setInterval(
+            function(){ location.reload() },
+            500
+        );
+    }
+}
+</script>
+</body>
+</html>

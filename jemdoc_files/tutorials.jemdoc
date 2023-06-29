@@ -1,0 +1,14 @@
+# jemdoc: menu{MENU}{tutorials.html}, nofooter
+== Tutorials
+
+- CVPR 2023 tutorial: [files/CVPR_tutorial.pdf Deep learning theory for vision researchers] 
+
+In this tutorial, we aim to make the recent deep learning (DL) theory developments accessible to vision researchers, and motivate vision researchers to design new architectures and algorithms for practical tasks. We firstly revisit the ``correct" mechanism of adversarial training, an application of min-max optimization; then discuss the basic foundations of DL theory, e.g., lazy training and Neural Tangent Kernel (NTK), and talk about what can we benefit from such theory for CV; finally we exhibit how such tools can be critical in understanding neural networks as well as applications, e.g., neural architecture search, inductive bias, image filtering.
+
+- ICASSP 2023 tutorial: [files/ICASSP23_tutorial.pdf Neural networks: the good, the bad, the ugly] \[[https://tinyurl.com/ICASSP23t Google drive]\]
+
+
+We believe understanding over-parameterized neural networks (NNs) in “good” performance, “bad” explanation, and “ugly” phenomena is desirable to have a comprehensive tutorial. Our tutorial summarises the progress on theoretical understanding NNs from theory to computation, including two parts: 1) min-max optimization, SGD training for over-parameterized NNs as well as application to adversarial training; 2) generalization guarantees of over-parameterized NNs on the success and failure of uniform convergence, which relates to benign overfitting and double descent.
+
+
+
