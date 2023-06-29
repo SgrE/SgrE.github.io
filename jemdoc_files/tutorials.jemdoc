@@ -1,7 +1,8 @@
 # jemdoc: menu{MENU}{tutorials.html}, nofooter
 == Tutorials
 
-- CVPR 2023 tutorial: [files/CVPR_tutorial.pdf Deep learning theory for vision researchers] 
+- CVPR 2023 tutorial: [files/CVPR_tutorial.pdf Deep learning theory for vision researchers] \[[https://tinyurl.com/CVPR23-dlt Google drive]\]
+
 
 In this tutorial, we aim to make the recent deep learning (DL) theory developments accessible to vision researchers, and motivate vision researchers to design new architectures and algorithms for practical tasks. We firstly revisit the ``correct" mechanism of adversarial training, an application of min-max optimization; then discuss the basic foundations of DL theory, e.g., lazy training and Neural Tangent Kernel (NTK), and talk about what can we benefit from such theory for CV; finally we exhibit how such tools can be critical in understanding neural networks as well as applications, e.g., neural architecture search, inductive bias, image filtering.
 
