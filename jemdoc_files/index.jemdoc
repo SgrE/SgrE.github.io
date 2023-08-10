@@ -44,7 +44,7 @@ My research interest starts from kernel methods to large-scale computational met
 In fact, my research line can be understood from a *function space theory* perspective, from RKHS to hyper-RKHS, Barron spaces, Besov spaces.
 This aims to understand the role of over-parameterization from kernel methods to neural networks.
 
-Refer to my recent [files/Fanghui_talk.pdf *{{<font color="DarkMagenta">TALK</font>}}*] if you're interested in. 
+Refer to my [files/Fanghui_RS.pdf *{{<font color="DarkMagenta">Research Statement</font>}}*] if you're interested in. 
 
 - statistical learning theory, e.g., double descent, benign overfitting \[[http://proceedings.mlr.press/v130/liu21b.html AISTATS21], [https://arxiv.org/abs/2110.06910 NeurPS22], [https://arxiv.org/abs/2305.19377 ICML23]\], theory of kernel methods \[[https://jmlr.org/papers/v22/19-482.html JMLR21], [https://arxiv.org/abs/2006.01073 ML21]\].
 
