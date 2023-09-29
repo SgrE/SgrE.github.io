@@ -14,18 +14,19 @@ at Zermatt, Switzerland (Aug. 2022)
 
 == About me
 
-*{{<font color="Red">I will be joining the </font>}}* [https://warwick.ac.uk/fac/sci/dcs/ Department of Computer Science, University of Warwick, UK] *{{<font color="Red">as an assistant professor, starting in Autumn 2023.</font>}}*
-If you would like to work with me on mathematical foundations of machine learning, feel free to contact me. Warwick has a strong research direction on TCS, mathematics, and statistics.
+I'm currently an assistant professor at [https://warwick.ac.uk/fac/sci/dcs/ Department of Computer Science, University of Warwick, UK].
 
-I'm currently a postdoc researcher in the Laboratory for Information and Inference Systems 
+Previously, I was a postdoc researcher in the Laboratory for Information and Inference Systems 
 (LIONS), École Polytechnique Fédérale de Lausanne (EPFL), Switzerland, 
-working with [https://www.epfl.ch/labs/lions/people/volkan-cevher/ Prof. Volkan Cevher]. 
+working with [https://www.epfl.ch/labs/lions/people/volkan-cevher/ Prof. Volkan Cevher] from 2021.10 to 2023.09. 
 Before that, I spent two years as a postdoc researcher in Department of Electrical Engineering (ESAT-STADIUS), 
 KU Leuven, Belgium, hosted by [https://www.esat.kuleuven.be/sista/members/suykens.html Prof. Johan A.K. Suykens]. I am an [https://ellis.eu/members/ ELLIS Member].
 
 I obtained the Ph.D degree from Institute of Image Processing Pattern Recognition in Department of Automation, Shanghai Jiao Tong University (SJTU) in 
 June 2019, supervised by [http://www.pami.sjtu.edu.cn/En/jieyang Prof. Jie Yang], 
 and the B.E. degree in Automation, Harbin Institute of Technology (HIT) in 2014.
+
+If you would like to work with me on mathematical foundations of machine learning, feel free to contact me. Warwick has a strong research direction on TCS, mathematics, and statistics.
 
 
 #== Education
@@ -53,7 +54,7 @@ refer to a *{{<font color="DarkMagenta">survey</font>}}* \[[https://arxiv.org/ab
 
 - reinforcement leaning theory, e.g., function approximation \[[https://arxiv.org/abs/2209.07376 NeurIPS22], [https://arxiv.org/abs/2304.12886 ICML23]\]. 
 
-Besides, I also spend time on some student projects in theoretical-oriented application topics,
+Besides, I also spend time on student projects in theoretical-oriented application topics,
 e.g., robustness and verification \[[https://arxiv.org/abs/2209.07263 NeurIPS22], [https://arxiv.org/abs/2209.07235 NeurIPS22]\], neural architecture search \[[https://arxiv.org/abs/2209.07238 NeurIPS22]\], and out-of-distribution generalization \[[https://arxiv.org/abs/2209.07736 NeurIPS22]\], which aims to build *trustworthy machine learning* systems.
     
 
