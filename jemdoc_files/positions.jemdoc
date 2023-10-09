@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{positions.html}, nofooter
 == Open positions
 
-I'm looking for one PhD student in *machine learning theory* as well as theoretical-oriented topics. The project aims to theoretically understand why ML models perform well or design efficient training algorithms. The topics include but not limited to 
+I'm looking for one PhD student in *{{<font color="red">machine learning theory}}* as well as theoretical-oriented topics. The project aims to theoretically understand why ML models perform well or design efficient training algorithms. The topics include but not limited to 
 
 - *Generalization guarantees of over-parameterized ML models:* It delves into a pivotal question within the machine learning community: how can we theoretically explain the empirical phenomena observed in over-parameterized models? Our target is to bridge the gap between empirical observations and rigorous theoretical assurances, particularly in the context of neural networks.
 
@@ -9,13 +9,13 @@ I'm looking for one PhD student in *machine learning theory* as well as theoreti
 
 Besides, I also work on *kernel methods*, *reinforcement learning theory*, and some theoretical-oriented application topics, e.g., neural architecture search, distribution shift. If you’re interested in, feel free to reach out.
 
-*Requirements:* The successful candidate is expected to have a solid background in applied mathematics, statistics, computer science or related discipline.
+*{{<font color="red">Requirements:}}* The successful candidate is expected to have a solid background in applied mathematics, statistics, computer science or related discipline.
 Applicants must also meet the University of Warwick minimum entry requirements for the MPhil/PhD course in Computer Science, e.g., English Proficiency level of IELTS 6.5 overall, with all components at 6.0. (International applicants need ATAS clearance).  
 
 The [https://warwick.ac.uk/services/dc/schols_fund/current/feelevels/ salary and benefits] are comparable to other top universities in the UK, and the cost of living near Warwick is significantly lower. Refer to more information on [https://warwick.ac.uk/study/postgraduate/courses/compsciencephd official application process].
 
-*Application:* If you would like to work with me, please send an email to me with *your CV* and *transcript* as well as *a brief description of your research interests*. Due to a large number of requests, I, unfortunately, may not be able to reply to all the emails regarding PhD applications. 
+*{{<font color="red">Application:}}* If you would like to work with me, please send an email to me with *your CV* and *transcript* as well as *a brief description of your research interests*. Due to a large number of requests, I, unfortunately, may not be able to reply to all the emails regarding PhD applications. 
 But if your enquires are inline with my research, I will contact you.
 
 
-*About Warwick:* The University of Warwick has one of the leading Computer Science departments in the UK (ranked 4th UK computer science department in the 2021 research excellence framework). The department, particularly well-known for its research in *theoretical computer science*, consistently produces top quality research and has strong links with research from the [https://warwick.ac.uk/fac/sci/maths/ Warwick Mathematics Institute]. It offers a unique environment for research on the mathematical aspects of computer science among the top theory groups in the UK.
+*{{<font color="red">About Warwick:}}* The University of Warwick has one of the leading Computer Science departments in the UK (ranked 4th UK computer science department in the 2021 research excellence framework). The department, particularly well-known for its research in *theoretical computer science*, consistently produces top quality research and has strong links with research from the [https://warwick.ac.uk/fac/sci/maths/ Warwick Mathematics Institute]. It offers a unique environment for research on the mathematical aspects of computer science among the top theory groups in the UK.
