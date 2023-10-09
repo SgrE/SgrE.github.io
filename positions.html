@@ -1,0 +1,99 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="icon" href="images/icon.png">
+<link rel="stylesheet" href="main.css" type="text/css" />
+<link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+<!--- <title>Open positions</title> --->
+<title>Fanghui Liu</title>
+<!-- MathJax -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async>
+</script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	  TeX: { equationNumbers: { autoNumber: "AMS" } }
+});
+</script>
+<!-- End MathJax -->
+</head>
+<body>
+<div id="main-container">
+<div id="header-container">
+<div id="header">
+<div id="header-icon-text-container">
+<div id="header-icon-container" >
+<a href="index.html"><img src="images/profile2.png" alt="" style="width: 100%; height: 100%; position: center; padding:0px; margin: 0px;"></a>
+</div>
+<div id="header-text-container">
+<a href="index.html">Fanghui Liu</a>
+</div>
+</div>
+<div id="main">
+<button class="openbtn" onclick="openNav()">☰</button>
+</div>
+</div>
+</div>
+<div id="layout">
+<div id="layout-menu-container">
+<div id="layout-menu">
+<div class="menu-item"><a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a></div>
+<div class="menu-item"><a href="index.html">About</a></div>
+<div class="menu-category">Research</div>
+<div class="menu-item"><a href="publications.html">Publications</a></div>
+<div class="menu-item"><a href="talks.html">Talks</a></div>
+<div class="menu-item"><a href="tutorials.html">Tutorials</a></div>
+<div class="menu-item"><a href="services.html">Services</a></div>
+<div class="menu-item"><a href="awards.html">Awards</a></div>
+<div class="menu-item"><a href="positions.html" class="current">Open&nbsp;Positions</a></div>
+</div> <!-- <div id="layout-menu"> -->
+</div> <!-- <div id="layout-menu-container"> -->
+<div id="layout-content-container">
+<div id="layout-content">
+<div id="toptitle">
+<h1>Open positions</h1>
+</div>
+<p>I'm looking for one PhD student in machine learning (ML) theory as well as theoretical-oriented topics. The project aims to theoretically understand why ML models perform well and/or design efficient training algorithms. The topics include but not limited to </p>
+<ul>
+<li><p><b></b>Generalization guarantees of over-parameterized ML models:<b></b> It delves into a pivotal question within the machine learning community: how can we theoretically explain the empirical phenomena observed in over-parameterized models, where the number of parameters exceeds the training data size? Our target is to bridge the gap between empirical observations and rigorous theoretical assurances, particularly in the context of neural networks.</p>
+</li>
+</ul>
+<ul>
+<li><p><b></b>Robustness of neural networks for trustworthy ML systems:<b></b> It aims to build a trustworthy ML system from the theoretical and/or empirical side. Theoretically, we aim to understand the robust-accuracy trade-off. Empirically, efficient training algorithms are designed for the improvement of robustness.</p>
+</li>
+</ul>
+<p>Besides, I also work on kernel methods and some theoretical-oriented application topics, e.g., neural architecture search, distribution shift. If you’re interested in, feel free to reach out.</p>
+<p><b></b>Requirements:<b></b> The successful candidate is expected to have a solid background in applied mathematics<i>statistics</i>computer science or related discipline. Advanced coding skills are a big plus. 
+Applicants must also meet the University of Warwick minimum entry requirements for the MPhil/PhD course in Computer Science. Applicants must have at least a degree with the equivalent to a UK 2.1 level, and English Proficiency level of IELTS 6.5 overall, with all components at 6.0.  (International applicants need ATAS clearance).  </p>
+<p><b></b>Application:<b></b> If you would like to work with me, please send an email to me with your CV and transcript as well as a brief description of your research interests. Due to a large number of requests, I, unfortunately, may not be able to reply to all the emails regarding PhD applications. 
+But if your enquires are inline with my research, I will contact you.</p>
+<p>The <a href="https://warwick.ac.uk/services/dc/schols_fund/current/feelevels/" target=&ldquo;blank&rdquo;>salary and benefits</a> are comparable to other top universities in the UK, and the cost of living near Warwick is significantly lower. Refer to more information on <a href="https://warwick.ac.uk/study/postgraduate/courses/compsciencephd" target=&ldquo;blank&rdquo;>official application process</a>.</p>
+<p><b></b>About Warwick:<b></b> The University of Warwick has one of the leading Computer Science departments in the UK (ranked 4th UK computer science department in the 2021 research excellence framework). The department, particularly well-known for its research in theoretical computer science, consistently produces top quality research and has strong links with research from the Warwick Mathematics Institute. (The Department of Computer Science and the Mathematics Institute are adjacent and physically connected, which offers a unique environment for research on the mathematical aspects of computer science among the top theory groups in the UK.). </p>
+</div> <!-- <div id="layout-content-container"> -->
+</div> <!--- <div id="layout"> --->
+</div> <!--- <div id="main-container"> --->
+<script>
+function openNav() {
+    if (window.innerWidth <= 1200) {
+        document.getElementById("layout-menu").style.width = "280px";
+        document.getElementById("layout-content-container").style.marginLeft = "280.8px";
+        document.getElementById("layout-content-container").style.position = "fixed";
+    }
+}
+function closeNav() {
+    if (window.innerWidth <= 1200) {
+        document.getElementById("layout-menu").style.width = "0";
+        document.getElementById("layout-content-container").style.position = "static";
+        document.getElementById("layout-content-container").style.marginLeft = "0px";
+        setInterval(
+            function(){ location.reload() },
+            500
+        );
+    }
+}
+</script>
+</body>
+</html>
