@@ -1,7 +1,9 @@
 # jemdoc: menu{MENU}{positions.html}, nofooter
 == Open positions
 
-I'm looking for one PhD student in *machine learning theory* as well as theoretical-oriented topics. The project aims to theoretically understand why ML models perform well or design efficient training algorithms. The topics include but not limited to 
+I'm looking for one full-funded PhD student in *machine learning theory* as well as theoretical-oriented topics. Besides, Applications from other sources of [https://warwick.ac.uk/fac/sci/dcs/people/yu_guan/scholarship scholoarship] are also welcome, e.g., [https://warwick.ac.uk/services/dc/schols_fund/scholarships_and_funding/cis Chancellor's International Scholarship] for  EU/International applicants as well as [https://warwick.ac.uk/services/dc/schols_fund/scholarships_and_funding/csc CSC] for Chinese applicants.
+
+My research to theoretically understand why ML models perform well or design efficient training algorithms. The topics include but not limited to 
 
 - *Generalization guarantees of over-parameterized ML models:* It delves into a pivotal question within the machine learning community: how can we theoretically explain the empirical phenomena observed in over-parameterized models? Our target is to bridge the gap between empirical observations and rigorous theoretical assurances, particularly in the context of neural networks.
 
