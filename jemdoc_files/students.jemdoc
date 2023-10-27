@@ -1,0 +1,18 @@
+# jemdoc: menu{MENU}{students.html}, nofooter
+== Students
+
+I'm fortunate to work with these talented students:
+
+- Zachary Jones (now a PhD student at CMAP, Paris): master thesis at KU Leuven on random Fourier features
+
+- Zhenyu Zhu (now a PhD student at EPFL): master thesis on generalization guarantees of NAS, internship project on over-parameterization in robustness, and the PhD project on benign overfitting
+
+- Yongtao Wu (now a PhD student at EPFL): master thesis on extrapolation, the PhD project on Transformer
+
+- Elias Abad Rocamora (now a PhD student at EPFL): bachelor thesis on verification, master thesis on catastrophic overfitting, the PhD project on robustness of LLMs
+
+- Yihang Chen (now a master student at EPFL): semester project at EPFL on generalization in the mean-field regime, the master thesis on distribution shift
+
+- Ioannis Bantzis (now a master student at EPFL): semester project on non-lazy training
+
+- Zhan Li (now a master student at EPFL): semester project on in-context learning
