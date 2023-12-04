@@ -24,13 +24,13 @@ at Zermatt, Switzerland (Aug. 2022)
 == About me
 
 I'm currently an assistant professor at [https://warwick.ac.uk/fac/sci/dcs/ Department of Computer Science], and a member of [https://warwick.ac.uk/fac/cross_fac/dimap/ Centre for Discrete Mathematics and its Applications (DIMAP)], at the University of Warwick, UK.
-Besides, I'm also a visiting research scientist at at [https://www.epfl.ch/labs/lions/people/guests/fanghui-liu-starts-1st-october/ EPFL], Switzerland.
+Besides, I'm also a visiting research scientist at at [https://www.epfl.ch/labs/lions/people/guests/fanghui-liu-starts-1st-october/ EPFL], Switzerland. I am an [https://ellis.eu/members/ ELLIS Member].
 
 Previously, I was a postdoc researcher in the Laboratory for Information and Inference Systems 
 (LIONS), École Polytechnique Fédérale de Lausanne (EPFL), Switzerland, 
 working with [https://www.epfl.ch/labs/lions/people/volkan-cevher/ Prof. Volkan Cevher] from 2021 to 2023. 
 Before that, I spent two years as a postdoc researcher in Department of Electrical Engineering (ESAT-STADIUS), 
-KU Leuven, Belgium, hosted by [https://www.esat.kuleuven.be/sista/members/suykens.html Prof. Johan A.K. Suykens]. I am an [https://ellis.eu/members/ ELLIS Member].
+KU Leuven, Belgium, hosted by [https://www.esat.kuleuven.be/sista/members/suykens.html Prof. Johan A.K. Suykens].
 
 I obtained the Ph.D degree from Institute of Image Processing Pattern Recognition in Department of Automation, Shanghai Jiao Tong University (SJTU) in 
 June 2019, supervised by [http://www.pami.sjtu.edu.cn/En/jieyang Prof. Jie Yang], 
@@ -80,7 +80,9 @@ e.g., robustness and verification \[[https://arxiv.org/abs/2209.07263 NeurIPS22]
 
 == News
 
-- \[2023-12\] Selected to give a talk at [https://aaai.org/aaai-conference/aaai-24-new-faculty-highlights/ AAAI 2024 New Faculty Highlights!]
+- \[2023-12\] Selected to give a talk at [https://aaai.org/aaai-conference/aaai-24-new-faculty-highlights/ AAAI 2024 New Faculty Highlights].
+
+- \[2023-10\] Join in University of Warwick as an assistant professor.
 
 - \[2023-09\] Two papers were accepted by NeurIPS 2023: one is about global convergence of Transformers; the other one is how over-parameterization affects differential privacy. *{{<font color="DarkMagenta">I will be at New Orleans (again and again). Feel free to chat.</font>}}*
 
@@ -88,11 +90,9 @@ e.g., robustness and verification \[[https://arxiv.org/abs/2209.07263 NeurIPS22]
 
 - \[2023-06\] Here is the slides of our [files/ICASSP23_tutorial.pdf ICASSP 2023 tutorial].
 
-- \[2023-05\] One paper was accepted by TMLR regarding generalization guarantees of federated learning under covariate shifts.
-
 - \[2023-04\] Two papers were accepted by ICML 2023: one is about function approximation in online RL; the other one is related to benign overfitting. *{{<font color="DarkMagenta">I will be at Hawaii! Feel free to chat.</font>}}*
 
-- \[2023-04\] I was selected as a [https://iclr.cc/Conferences/2023/Reviewers Notable Reviewer] for ICLR 2023.
+- \[2023-04\] Selected as a [https://iclr.cc/Conferences/2023/Reviewers Notable Reviewer] for ICLR 2023.
 
 - \[2023-02\] We will give a tutorial entitled *Deep learning theory for computer vision* at IEEE CVPR 2023 in Vancouver, Canada.
 
