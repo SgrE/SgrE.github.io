@@ -23,6 +23,19 @@ Instructor
 
 -- Lecture 9: Conditional probability, independence \[[files/CS147/lecture-9.pdf lecture]\]
 
+-- Lecture 10: Random variable, coupon collector's problem \[[files/CS147/lecture-10.pdf lecture]\]
+
+-- Lecture 11: Expectation and variance, infinite monkey theorem \[[files/CS147/lecture-11.pdf lecture]\]
+
+-- Lecture 12: Conditional expectation, coupon collector's problem \[[files/CS147/lecture-12.pdf lecture]\]
+
+-- Lecture 13: Markov's inequality \[[files/CS147/lecture-13.pdf lecture]\]
+
+-- Lecture 14: Chebyshev's inequality and applications \[[files/CS147/lecture-14.pdf lecture]\]
+
+-- Lecture 15: Analysis of randomised quick-sort \[[files/CS147/lecture-15.pdf lecture]\]
+
+
 Teaching assistant
 
 - EE-556 at EPFL: *Mathematics of data* (2021-2023) \[[https://www.epfl.ch/labs/lions/teaching/ee-556-mathematics-of-data-from-theory-to-computation/ course page]\]
