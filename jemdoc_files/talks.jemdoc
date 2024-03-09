@@ -1,7 +1,13 @@
 # jemdoc: menu{MENU}{talk.html}, nofooter
 == Talks
 
-- [files/Fanghui_talk.pdf The role of over-parameterisation in machine learning - a function space perspective]
+
+
+- [files/talk_robust_overfitting.pdf Can we avoid robust overfitting in adversarial training?- An approximation viewpoint (regression part)] 
+
+- [files/talk_AAAI24_Fanghui.pdf The role of over-parameterisation in machine learning - the good, the bad, the ugly (from the function space perspective)] 
+
+- [files/talk_UBC_transformer.pdf On the Convergence of Encoder-only Shallow Transformers] 
 
 - [files/NeurIPS22-robustness.pdf Robustness in deep learning: the good, the bad, the ugly]
 
