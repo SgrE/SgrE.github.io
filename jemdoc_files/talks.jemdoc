@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{talk.html}, nofooter
 == Talks
 
-
+- [files/talk_Warwick_Stats.pdf From kernel methods to neural networks: double descent, function spaces, curse of dimensionality] 
 
 - [files/talk_robust_overfitting.pdf Can we avoid robust overfitting in adversarial training?- An approximation viewpoint (regression part)] 
 
