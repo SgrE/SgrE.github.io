@@ -1,20 +1,20 @@
 # jemdoc: menu{MENU}{talk.html}, nofooter
 == Talks
 
-- [files/talk_Warwick_Stats.pdf From kernel methods to neural networks: double descent, function spaces, curse of dimensionality] 
+- [files/talk_Warwick_Stats.pdf From kernel methods to neural networks: double descent, function spaces, curse of dimensionality] at University of Warwick (Statistics Seminar, 2024); University of Genoa (MaLGa Seminar, 2024)
 
-- [files/talk_robust_overfitting.pdf Can we avoid robust overfitting in adversarial training?- An approximation viewpoint (regression part)] 
+- [files/talk_robust_overfitting.pdf Can we avoid robust overfitting in adversarial training?- An approximation viewpoint (regression part)] at UW-Madison (MLOPT Idea Seminar, 2024)
 
-- [files/talk_AAAI24_Fanghui.pdf The role of over-parameterisation in machine learning - the good, the bad, the ugly (from the function space perspective)] 
+- [files/talk_AAAI24_Fanghui.pdf The role of over-parameterisation in machine learning - the good, the bad, the ugly (from the function space perspective)] at New Faculty Highlights, AAAI 2024
 
-- [files/talk_UBC_transformer.pdf On the Convergence of Encoder-only Shallow Transformers] 
+- [files/talk_UBC_transformer.pdf On the Convergence of Encoder-only Shallow Transformers] at UBC (MILD Seminar 2024)
 
-- [files/NeurIPS22-robustness.pdf Robustness in deep learning: the good, the bad, the ugly]
+- [files/NeurIPS22-robustness.pdf Robustness in deep learning: the good, the bad, the ugly] at KAUST (Rising Stars in AI Symposium 2023)
 
-- [files/Fanghui_DD.pdf Double descent of random features models trained with SGD]
+- [files/Fanghui_DD.pdf Double descent of random features models trained with SGD] at KU Leuven, 2022
 
-- [files/Fanghui_KRR.pdf High-dimensional kernel ridge regression beyond double descent]
+- [files/Fanghui_KRR.pdf High-dimensional kernel ridge regression beyond double descent] at SJTU, 2021
 
-- [files/Fanghui_quad.pdf Kernel approximation via random features and quadrature]
+- [files/Fanghui_quad.pdf Kernel approximation via random features and quadrature] at UC Berkeley (on zoom), 2021
 
 
