@@ -5,6 +5,11 @@ For the complete list, please refer to my [https://scholar.google.com/citations?
 
 \* indicates equal contribution
 
+=== Benchmark
+
+The adversarially trained NAS benchmark (*NAS-RobBench-201*) in [https://openreview.net/pdf?id=cdUpf6t6LZ our ICLR24 paper] was released! See \[[https://tt2408.github.io/nasrobbench201hp/ project website]\] for details.
+
+
 === Preprints
 
 - /Can overfitted deep neural networks in adversarial training generalize? -- An approximation viewpoint/. 
@@ -20,12 +25,12 @@ Yihang Chen, *Fanghui Liu*, Yiping Lu, Grigorios Chrysos, Volkan Cevher. \n
 in the 12th International Conference on Learning Representations (*ICLR*), 2024. {{<font color="red">[Spotlight]</font>}} \n
 
 - /Robust NAS benchmark under adversarial training: assessment, theory, and beyond/. 
-\[[https://openreview.net/forum?id=cdUpf6t6LZ link]\]. \n
+\[[https://openreview.net/forum?id=cdUpf6t6LZ link]\], \[[https://tt2408.github.io/nasrobbench201hp/ project website]\]. \n
 Yongtao Wu, *Fanghui Liu*, Carl-Johann Simon-Gabriel, Grigorios Chrysos, Volkan Cevher. \n
 in the 12th International Conference on Learning Representations (*ICLR*), 2024. \n
 
 - /Efficient local linearity regularization to overcome catastrophic overfitting/. 
-\[[https://openreview.net/forum?id=SZzQz8ikwg link]\]. \n
+\[[https://openreview.net/forum?id=SZzQz8ikwg link]\], \[[https://github.com/LIONS-EPFL/ELLE code]\]. \n
 Elias Abad Rocamora, *Fanghui Liu*, Grigorios Chrysos, Pablo M. Olmos, Volkan Cevher. \n
 in the 12th International Conference on Learning Representations (*ICLR*), 2024. \n
 
