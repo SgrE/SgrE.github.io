@@ -36,10 +36,12 @@ I obtained the Ph.D degree from Institute of Image Processing Pattern Recognitio
 June 2019, supervised by [http://www.pami.sjtu.edu.cn/En/jieyang Prof. Jie Yang], 
 and the B.E. degree in Automation, Harbin Institute of Technology (HIT) in 2014.
 
+Here is the \[files/RFF-DIGMM_code.zip speaker bio\].
+
 
 == Jobs
 
-*{{<font color="red">I am looking for highly motivated Ph.D. students to work with me on machine learning theory or theoretical-oriented application topics.</font>}}* See [https://www.lfhsgre.org/positions.html Open positions] for details. 
+*{{<font color="red">I am looking for motivated Ph.D. students to work with me on machine learning theory or theoretical-oriented application topics.</font>}}* See [https://www.lfhsgre.org/positions.html Open positions] for details. 
 
 Due to a large number of requests, I, unfortunately, may not be able to reply to all the emails regarding PhD applications. However, I'll look at applicants that have sent me emails and contact you soon if your enquires are indeed inline with my research.
 
@@ -54,7 +56,7 @@ Due to a large number of requests, I, unfortunately, may not be able to reply to
 #- Computer Vision
 
 I'm generally interested in *mathematical foundations of machine learning*, 
- e.g., *statistical learning theory* and deep learning theory on the generalization properties of under-/over-parameterized models.
+ e.g., *statistical learning theory* and deep learning theory of under-/over-parameterized models.
 Currently I'm also interested in reinforcement learning theory, especially on function approximation, from classical statistical learning to sequential decision making.
 
 My research interest starts from kernel methods to large-scale computational methodologies in algorithm, and mainly focuses on theoretically understanding generalization properties of machine learning based algorithms, especially on *over-parameterized models* (motivated by neural networks).
