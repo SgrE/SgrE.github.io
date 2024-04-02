@@ -5,12 +5,12 @@ For the complete list, please refer to my [https://scholar.google.com/citations?
 
 \* indicates equal contribution
 
-=== Benchmark
+== {{<font color="red">Benchmark</font>}}
 
 The adversarially trained NAS benchmark (*NAS-RobBench-201*) in [https://openreview.net/pdf?id=cdUpf6t6LZ our ICLR24 paper] was released! See \[[https://tt2408.github.io/nasrobbench201hp/ project website]\] for details.
 
 
-=== Preprints
+== Preprints
 
 - /Can overfitted deep neural networks in adversarial training generalize? -- An approximation viewpoint/. 
 \[[https://arxiv.org/abs/2401.13624 arXiv]\]. \n
