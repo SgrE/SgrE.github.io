@@ -76,6 +76,11 @@ e.g., robustness and verification \[[https://arxiv.org/abs/2209.07263 NeurIPS22]
 
 == News
 
+
+- \[2024-05\] Two papers were accepted by ICML 2024: one is about high dimensional kernel methods under distribution shift; one is about adversarial attack on foundation models.
+
+- \[2024-04\] One paper was accepted by JMLR on the separation between kernel methods and neural networks from the perspective of function space.
+
 - \[2023-04\] We will give a tutorial entitled *Scaling and Reliability Foundations in Machine Learning* at 2024 IEEE International Symposium on Information Theory (ISIT) in Athens, Greece at July.
 
 - \[2024-04\] Awarded the [https://www.daad.de/en/the-daad/postdocnet/details-and-application/ DAAD AInet Fellowship], which is awarded to outstanding early career researchers. Topic: Safety and Security in AI.

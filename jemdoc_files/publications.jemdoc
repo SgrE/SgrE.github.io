@@ -19,6 +19,21 @@ Zhongjie Shi, *Fanghui Liu*,  Yuan Cao, Johan A.K. Suykens. \n
 
 == Accepted Papers
 
+- /Learning with norm constrained, over-parameterised, two-layer neural networks/.
+\[[https://arxiv.org/abs/2404.18769 arXiv]\] \n
+*Fanghui Liu*, Leello Dadi, and Volkan Cevher. \n
+Journal of Machine Learning Research (*JMLR*), 2024.
+
+- /High-Dimensional Kernel Methods under Covariate Shift: Data-Dependent Implicit Regularization/. \n
+Yihang Chen, *Fanghui Liu*, Taiji Suzuki, Volkan Cevher. \n
+in the 41st International Conference on Machine Learning (*ICML*), 2024. \n
+
+- /Revisiting character-level adversarial attacks/. 
+\[[https://openreview.net/pdf?id=acFY02jmZs link]\]. \n
+Elias Abad Rocamora, Yongtao Wu, *Fanghui Liu*, Grigorios Chrysos, Volkan Cevher. \n
+in the 41st International Conference on Machine Learning (*ICML*), 2024. \n
+Presented at ICLR 2024 Workshop on Secure and Trustworthy Large Language Models
+
 - /Generalization of Deep ResNets in the mean-field regime/. 
 \[[https://openreview.net/forum?id=tMzPZTvz2H link]\]. \n
 Yihang Chen, *Fanghui Liu*, Yiping Lu, Grigorios Chrysos, Volkan Cevher. \n
