@@ -24,11 +24,12 @@ Zhongjie Shi, *Fanghui Liu*,  Yuan Cao, Johan A.K. Suykens. \n
 *Fanghui Liu*, Leello Dadi, and Volkan Cevher. \n
 Journal of Machine Learning Research (*JMLR*), 2024.
 
-- /High-Dimensional Kernel Methods under Covariate Shift: Data-Dependent Implicit Regularization/. \n
+- /High-dimensional kernel methods under covariate shift: data-dependent implicit regularization/. 
+\[[https://arxiv.org/abs/2406.03171 arXiv]\] \n
 Yihang Chen, *Fanghui Liu*, Taiji Suzuki, Volkan Cevher. \n
 in the 41st International Conference on Machine Learning (*ICML*), 2024. \n
 
-- /Revisiting character-level adversarial attacks/. 
+- /Revisiting character-level adversarial attacks for language models/. 
 \[[https://openreview.net/pdf?id=acFY02jmZs link]\]. \n
 Elias Abad Rocamora, Yongtao Wu, *Fanghui Liu*, Grigorios Chrysos, Volkan Cevher. \n
 in the 41st International Conference on Machine Learning (*ICML*), 2024. \n
