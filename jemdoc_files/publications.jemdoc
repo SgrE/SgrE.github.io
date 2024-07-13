@@ -16,6 +16,10 @@ The adversarially trained NAS benchmark (*NAS-RobBench-201*) in [https://openrev
 \[[https://arxiv.org/abs/2401.13624 arXiv]\]. \n
 Zhongjie Shi, *Fanghui Liu*,  Yuan Cao, Johan A.K. Suykens. \n
 
+- /Benign overfitting in Fixed Dimension via Physics-Informed Learning with Smooth Inductive Bias/.
+\[[https://arxiv.org/abs/2406.09194 arXiv]\]. \n
+Honam Wang, Wendao Wu, *Fanghui Liu*, Yiping Lu
+
 
 == Accepted Papers
 
@@ -24,13 +28,18 @@ Zhongjie Shi, *Fanghui Liu*,  Yuan Cao, Johan A.K. Suykens. \n
 *Fanghui Liu*, Leello Dadi, and Volkan Cevher. \n
 Journal of Machine Learning Research (*JMLR*), 2024.
 
+- /Scalable Learned Model Soup on a Single GPU: An Efficient Subspace Training Strategy/.
+\[[https://arxiv.org/abs/2407.03641]\], \[[https://github.com/nblt/MEHL-Soup code]\] \n
+Tao Li\*, Weisen Jiang\*, *Fanghui Liu*, Xiaolin Huang, James Kwok. \n
+European Conference on Computer Vision (*ECCV*), 2024.
+
 - /High-dimensional kernel methods under covariate shift: data-dependent implicit regularization/. 
 \[[https://arxiv.org/abs/2406.03171 arXiv]\] \n
 Yihang Chen, *Fanghui Liu*, Taiji Suzuki, Volkan Cevher. \n
 in the 41st International Conference on Machine Learning (*ICML*), 2024. \n
 
 - /Revisiting character-level adversarial attacks for language models/. 
-\[[https://openreview.net/pdf?id=acFY02jmZs link]\]. \n
+\[[https://openreview.net/forum?id=AZWqXfM6z9 paper]\], \[[https://github.com/LIONS-EPFL/Charmer code]\]. \n
 Elias Abad Rocamora, Yongtao Wu, *Fanghui Liu*, Grigorios Chrysos, Volkan Cevher. \n
 in the 41st International Conference on Machine Learning (*ICML*), 2024. \n
 Presented at ICLR 2024 Workshop on Secure and Trustworthy Large Language Models
@@ -41,12 +50,12 @@ Yihang Chen, *Fanghui Liu*, Yiping Lu, Grigorios Chrysos, Volkan Cevher. \n
 in the 12th International Conference on Learning Representations (*ICLR*), 2024. {{<font color="red">[Spotlight]</font>}} \n
 
 - /Robust NAS benchmark under adversarial training: assessment, theory, and beyond/. 
-\[[https://openreview.net/forum?id=cdUpf6t6LZ link]\], \[[https://tt2408.github.io/nasrobbench201hp/ project website]\]. \n
+\[[https://openreview.net/forum?id=cdUpf6t6LZ paper]\], \[[https://tt2408.github.io/nasrobbench201hp/ project website]\]. \n
 Yongtao Wu, *Fanghui Liu*, Carl-Johann Simon-Gabriel, Grigorios Chrysos, Volkan Cevher. \n
 in the 12th International Conference on Learning Representations (*ICLR*), 2024. \n
 
 - /Efficient local linearity regularization to overcome catastrophic overfitting/. 
-\[[https://openreview.net/forum?id=SZzQz8ikwg link]\], \[[https://github.com/LIONS-EPFL/ELLE code]\]. \n
+\[[https://openreview.net/forum?id=SZzQz8ikwg paper]\], \[[https://github.com/LIONS-EPFL/ELLE code]\]. \n
 Elias Abad Rocamora, *Fanghui Liu*, Grigorios Chrysos, Pablo M. Olmos, Volkan Cevher. \n
 in the 12th International Conference on Learning Representations (*ICLR*), 2024. \n
 

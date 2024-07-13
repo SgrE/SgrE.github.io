@@ -28,6 +28,8 @@ Besides, I'm also a visiting research scientist at [https://www.epfl.ch/labs/lio
 
 We're organising [https://faiseminarswarwick.github.io/ *{{<font color="red">Warwick Foundation of AI seminar</font>}}*]!
 
+We're organising one workshop [https://sites.google.com/view/neurips2024-ftw/home *{{<font color="DarkMagenta">Fine-Tuning in Modern Machine Learning: Principles and Scalability</font>}}*] at NeurIPS 2024!
+
 Previously, I was a postdoc researcher at EPFL, Switzerland, hosted by [https://www.epfl.ch/labs/lions/people/volkan-cevher/ Prof. Volkan Cevher] from 2021 to 2023. 
 Before that, I spent two years as a postdoc researcher at ESAT-STADIUS, KU Leuven, Belgium, hosted by [https://www.esat.kuleuven.be/sista/members/suykens.html Prof. Johan A.K. Suykens].
 
@@ -54,25 +56,14 @@ Due to a large number of requests, I, unfortunately, may not be able to reply to
 
 I'm generally interested in *mathematical foundations of machine learning*, 
  e.g., *statistical learning theory* and deep learning theory of under-/over-parameterized models.
-My research interest starts from kernel methods to large-scale computational methodologies in algorithm, and mainly focuses on theoretically understanding generalization properties of machine learning based algorithms, especially on *over-parameterized models* (motivated by neural networks) about statistical-computational gap.
-
-In fact, my research line can be understood from a *function space theory* perspective, from RKHS to hyper-RKHS, Barron spaces, Besov spaces.
-This aims to understand the role of over-parameterization from kernel methods to neural networks.
-Refer to my [files/Fanghui_RS.pdf *{{<font color="DarkMagenta">Research Statement</font>}}*] if you're interested in. 
-
-- statistical learning theory, e.g., over-parameterised models \[[https://arxiv.org/abs/2404.18769 JMLR24], [http://proceedings.mlr.press/v130/liu21b.html AISTATS21], [https://arxiv.org/abs/2110.06910 NeurPS22], [https://arxiv.org/abs/2305.19377 ICML23]\], theory of kernel methods \[[https://jmlr.org/papers/v22/19-482.html JMLR21], [https://arxiv.org/abs/2006.01073 ML21]\].
-
-- kernel methods and approximation \[[https://jmlr.org/papers/v21/19-900.html JMLR20], [https://arxiv.org/abs/2011.01668 TPAMI21], [http://proceedings.mlr.press/v130/liu21a.html AISTATS21] \]:
-refer to a *{{<font color="DarkMagenta">survey</font>}}* \[[https://arxiv.org/abs/2004.11154 TPAMI21]\]
-
-Besides, I also spend time on student projects in theoretical-oriented application topics,
-e.g., robustness and verification \[[https://arxiv.org/abs/2209.07263 NeurIPS22], [https://arxiv.org/abs/2209.07235 NeurIPS22]\], neural architecture search \[[https://arxiv.org/abs/2209.07238 NeurIPS22]\], and out-of-distribution generalization \[[https://arxiv.org/abs/2209.07736 NeurIPS22]\], which aims to build *trustworthy machine learning* systems.
-    
+My research interest starts from kernel methods to large-scale computational methodologies in algorithm, and mainly focuses on theoretically understanding generalization properties of machine learning based algorithms, especially on *over-parameterized models* (motivated by neural networks) about statistical-computational gap. My research line can be understood from a *function space* perspective, from RKHS to hyper-RKHS, and Barron spaces.
+Besides, I also work on trustworthy machine learning, both theoretically and empirically.
 
 
 
 == News
 
+- \[2024-07\] We're organising one workshop [https://sites.google.com/view/neurips2024-ftw/home *{{<font color="DarkMagenta">Fine-Tuning in Modern Machine Learning: Principles and Scalability</font>}}*] at NeurIPS 2024!
 
 - \[2024-05\] Two papers were accepted by ICML 2024: one is about high dimensional kernel methods under distribution shift; one is about adversarial attack on foundation models.
 
