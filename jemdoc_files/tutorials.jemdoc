@@ -1,12 +1,17 @@
 # jemdoc: menu{MENU}{tutorials.html}, nofooter
 == Tutorials
 
-- CVPR 2023 tutorial: [files/CVPR_tutorial.pdf Deep learning theory for vision researchers] \[[https://tinyurl.com/CVPR23-dlt slides on Google drive]\] \[[https://www.youtube.com/watch?v=XtPGP9SXyiI&t=2s video on YouTube]\]
+- ISIT 2024 tutorial: [https://2024.ieee-isit.org/tutorials#scaling Scaling and Reliability Foundations in Machine Learning] (with Volkan Cevher, Grigorios Chrysos, and Leena Chennuru Vankadara)
+
+In this tutorial, we will introduce fundamental limits of trustworthy machine learning regarding to robust generalization gap, robust overfitting and algorithm design to address robust/catastrophic overfitting. Moreover, this tutorial will also identify fundamental flaws in setting up learning goals that govern their robustness, and the impact of the architectural choices into robustness.
+Besides, we will also focus on foundational deep learning theory that explains their scaling behavior, 
+
+- CVPR 2023 tutorial: [files/CVPR_tutorial.pdf Deep learning theory for vision researchers] \[[https://tinyurl.com/CVPR23-dlt slides on Google drive]\] \[[https://www.youtube.com/watch?v=XtPGP9SXyiI&t=2s video on YouTube]\] (with Volkan Cevher and Grigorios Chrysos)
 
 
 In this tutorial, we aim to make the recent deep learning (DL) theory developments accessible to vision researchers, and motivate vision researchers to design new architectures and algorithms for practical tasks. We firstly revisit the ``correct" mechanism of adversarial training, an application of min-max optimization; then discuss the basic foundations of DL theory, e.g., lazy training and Neural Tangent Kernel (NTK), and talk about what can we benefit from such theory for CV; finally we exhibit how such tools can be critical in understanding neural networks as well as applications, e.g., neural architecture search, inductive bias, image filtering.
 
-- ICASSP 2023 tutorial: [files/ICASSP23_tutorial.pdf Neural networks: the good, the bad, the ugly] \[[https://tinyurl.com/ICASSP23t slides on Google drive]\]
+- ICASSP 2023 tutorial: [files/ICASSP23_tutorial.pdf Neural networks: the good, the bad, the ugly] \[[https://tinyurl.com/ICASSP23t slides on Google drive]\] (with Volkan Cevher, Johan Suykens)
 
 
 We believe understanding over-parameterized neural networks (NNs) in “good” performance, “bad” explanation, and “ugly” phenomena is desirable to have a comprehensive tutorial. Our tutorial summarises the progress on theoretical understanding NNs from theory to computation, including two parts: 1) min-max optimization, SGD training for over-parameterized NNs as well as application to adversarial training; 2) generalization guarantees of over-parameterized NNs on the success and failure of uniform convergence, which relates to benign overfitting and double descent.
