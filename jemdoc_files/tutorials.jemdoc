@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{tutorials.html}, nofooter
 == Tutorials
 
-- ISIT 2024 tutorial: [https://2024.ieee-isit.org/tutorials#scaling Scaling and Reliability Foundations in Machine Learning] (with Volkan Cevher, Grigorios Chrysos, and Leena Chennuru Vankadara)
+- ISIT 2024 tutorial: [https://2024.ieee-isit.org/tutorials Scaling and Reliability Foundations in Machine Learning] (with Volkan Cevher, Grigorios Chrysos, and Leena Chennuru Vankadara)
 
 In this tutorial, we will introduce fundamental limits of trustworthy machine learning regarding to robust generalization gap, robust overfitting and algorithm design to address robust/catastrophic overfitting. Moreover, this tutorial will also identify fundamental flaws in setting up learning goals that govern their robustness, and the impact of the architectural choices into robustness.
 Besides, we will also focus on foundational deep learning theory that explains their scaling behavior, 

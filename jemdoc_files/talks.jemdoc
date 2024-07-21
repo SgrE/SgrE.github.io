@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{talk.html}, nofooter
 == Talks
 
-- [files/talk_Gatsby.pdf From kernel methods to neural networks: double descent, function spaces, curse of dimensionality] at Gatsby, UCL; University of Warwick (Statistics Seminar, 2024); University of Genoa (MaLGa Seminar, 2024)
+- [files/talk_MaLGa.pdf From kernel methods to neural networks: double descent, function spaces, curse of dimensionality] at Gatsby, UCL; University of Warwick (Statistics Seminar, 2024); University of Genoa (MaLGa Seminar, 2024)
 
 - [files/talk_robust_overfitting.pdf Can we avoid robust overfitting in adversarial training?- An approximation viewpoint (regression part)] at EPFL, UW-Madison (MLOPT Idea Seminar, 2024)
 
