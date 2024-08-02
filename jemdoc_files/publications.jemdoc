@@ -28,6 +28,8 @@ Honam Wang, Wendao Wu, *Fanghui Liu*, Yiping Lu
 *Fanghui Liu*, Leello Dadi, and Volkan Cevher. \n
 Journal of Machine Learning Research (*JMLR*), 2024.
 
+*{{<font color="DarkMagenta">We provide the "best" trade-off between epsilon-covering and the input dimension in metric entropy. Our results can be also extended to the interpolation setting.</font>}}*
+
 - /Scalable Learned Model Soup on a Single GPU: An Efficient Subspace Training Strategy/.
 \[[https://arxiv.org/abs/2407.03641 arXiv]\], \[[https://github.com/nblt/MEHL-Soup code]\] \n
 Tao Li\*, Weisen Jiang\*, *Fanghui Liu*, Xiaolin Huang, James Kwok. \n
@@ -44,6 +46,9 @@ Elias Abad Rocamora, Yongtao Wu, *Fanghui Liu*, Grigorios Chrysos, Volkan Cevher
 in the 41st International Conference on Machine Learning (*ICML*), 2024. \n
 Presented at ICLR 2024 Workshop on Secure and Trustworthy Large Language Models
 
+
+*{{<font color="DarkMagenta">We introduce an efficient algorithm for character-level attack and typo-corrector doesn't work!</font>}}*
+
 - /Generalization of Deep ResNets in the mean-field regime/. 
 \[[https://openreview.net/forum?id=tMzPZTvz2H link]\]. \n
 Yihang Chen, *Fanghui Liu*, Yiping Lu, Grigorios Chrysos, Volkan Cevher. \n
@@ -53,6 +58,9 @@ in the 12th International Conference on Learning Representations (*ICLR*), 2024.
 \[[https://openreview.net/forum?id=cdUpf6t6LZ paper]\], \[[https://tt2408.github.io/nasrobbench201hp/ project website]\]. \n
 Yongtao Wu, *Fanghui Liu*, Carl-Johann Simon-Gabriel, Grigorios Chrysos, Volkan Cevher. \n
 in the 12th International Conference on Learning Representations (*ICLR*), 2024. \n
+
+
+*{{<font color="DarkMagenta">We release a benchmark for adversarially robust neural architecture search.</font>}}*
 
 - /Efficient local linearity regularization to overcome catastrophic overfitting/. 
 \[[https://openreview.net/forum?id=SZzQz8ikwg paper]\], \[[https://github.com/LIONS-EPFL/ELLE code]\]. \n
@@ -86,15 +94,22 @@ in the 40th International Conference on Machine Learning (*ICML*), 2023. \n
 in the 36th Conference on Neural Information Processing Systems (*NeurIPS*), 2022. \n
 Presented at [https://topml.rice.edu/ Workshop on the Theory of Overparameterized Machine Learning (TOPML) 2022].
 
+
+*{{<font color="DarkMagenta">We study the double descent, interplay with the data, parameter, and compute budget (scaling law), allowing for the fixed-dimension setting.</font>}}*
+
 - /Understanding deep neural function approximation in reinforcement learning via $\epsilon$-greedy exploration/. 
 \[[https://arxiv.org/abs/2209.07376 arXiv]\]. \n
 *Fanghui Liu*, Luca Viano, Volkan Cevher. \n
 in the 36th Conference on Neural Information Processing Systems (*NeurIPS*), 2022. \n
 
+*{{<font color="DarkMagenta">This is the attempt for nonlinear function approximation in online RL via neural networks beyond lazy training.</font>}}*
+
 - /Robustness in deep learning: The good (width), the bad (depth), and the ugly (initialization)/. 
 \[[https://arxiv.org/abs/2209.07263 arXiv]\], \[[files/NeurIPS22-robustness.pdf slides]\]. \n
 Zhenyu Zhu, *Fanghui Liu*,  Grigorios Chrysos, Volkan Cevher. \n
 in the 36th Conference on Neural Information Processing Systems (*NeurIPS*), 2022. \n
+
+*{{<font color="DarkMagenta">We aim to close the gap on the question: will over-parameterisation help or hurt robustness?</font>}}*
 
 - /Generalization properties of NAS under activation and skip connection search/.
 \[[https://arxiv.org/abs/2209.07238 arXiv]\]. \n
@@ -115,10 +130,14 @@ in the 36th Conference on Neural Information Processing Systems (*NeurIPS*), 202
 *Fanghui Liu*, Xiaolin Huang, Yudong Chen, and Johan A.K. Suykens. \n
 IEEE Transactions on Pattern Analysis and Machine Intelligence (*TPAMI*), 2021.
 
+*{{<font color="DarkMagenta">This is a comprehensive survey summarising random features from algorithm to theory. The over-parameterisation part does not involve too much.</font>}}*
+
 - /Generalization properties of hyper-RKHS and its applications/.
 \[[https://arxiv.org/abs/1809.09910 arxiv]\], \[[https://jmlr.org/papers/v22/19-482.html link]\], \[[files/demo-hyperRKHS.zip code]\]. \n
 *Fanghui Liu*\*, Lei Shi\*, Xiaolin Huang, Jie Yang, and Johan A.K. Suykens. \n
 Journal of Machine Learning Research (*JMLR*), 2021.
+
+*{{<font color="DarkMagenta">This work provides analysis on learning beyond RKHS with non-trivial concentration inequality for dependence.</font>}}*
 
 - /Towards a unified quadrature framework for large scale kernel methods/.
 \[[https://arxiv.org/abs/2011.01668 arXiv]\], \[[files/Quadrature_demo.zip code]\]. \n
@@ -129,6 +148,9 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (*TPAMI*), 2021.
 \[[http://proceedings.mlr.press/v130/liu21b.html link]\], \[[files/demo_KRRhigh.m code]\], \[[files/Fanghui_KRR.pdf slides]\]. \n
 *Fanghui Liu*, Zhenyu Liao, and Johan A.K. Suykens.\n 
 in the 24th International Conference on Artificial Intelligence and Statistics (*AISTATS*), 2021.
+
+
+*{{<font color="DarkMagenta">This work extends the double descent theory.</font>}}*
 
 - /Fast learning in reproducing kernel Krein spaces via signed measures/.
 \[[http://proceedings.mlr.press/v130/liu21a.html link]\], \[[files/RFF_RKKS_poster.pdf poster]\],
@@ -141,6 +163,9 @@ in the 24th International Conference on Artificial Intelligence and Statistics (
 *Fanghui Liu*\*, Lei Shi\*, Xiaolin Huang, Jie Yang, and Johan A.K. Suykens. \n
 *Machine Learning*, 2021.
 
+
+*{{<font color="DarkMagenta">This work presents the analysis framework of learning beyond positive definite kernels with new techniques.</font>}}*
+
 - /Learning data-adaptive nonparametric kernels/.
 \[[https://jmlr.org/papers/v21/19-900.html link]\] \[[files/NesterovAcc.m code]\]. \n
 *Fanghui Liu*, Xiaolin Huang, Chen Gong, Jie Yang, and Li Li. \n
@@ -150,6 +175,9 @@ Journal of Machine Learning Research (*JMLR*), 2020.
 \[[https://arxiv.org/abs/1911.09158 arXiv]\], \[[files/AAAI20_code.zip code]\].\n 
 *Fanghui Liu*, Xiaolin Huang, Yudong Chen, Jie Yang, and Johan A.K. Suykens. \n
 in the Thirty-Fourth AAAI Conference on Artificial Intelligence (*AAAI*), 2020.
+
+
+*{{<font color="DarkMagenta">This work presents an efficient algorithm of leverage score for large-scale kernel approximation, motived by kernel alignment.</font>}}*
 
 - /A double-variational Bayesian framework in random Fourier features 
  for indefinite kernels/.
