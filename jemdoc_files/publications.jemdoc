@@ -28,7 +28,7 @@ Honam Wang, Wendao Wu, *Fanghui Liu*, Yiping Lu
 *Fanghui Liu*, Leello Dadi, and Volkan Cevher. \n
 Journal of Machine Learning Research (*JMLR*), 2024.
 
-*{{<font color="DarkMagenta">We provide the "best" trade-off between epsilon-covering and the input dimension in metric entropy. Our results can be also extended to the interpolation setting.</font>}}*
+{{<font color="DarkMagenta">We provide the "best" trade-off between epsilon-covering and the input dimension in metric entropy. Our results can be also extended to the interpolation setting.</font>}}
 
 - /Scalable Learned Model Soup on a Single GPU: An Efficient Subspace Training Strategy/.
 \[[https://arxiv.org/abs/2407.03641 arXiv]\], \[[https://github.com/nblt/MEHL-Soup code]\] \n

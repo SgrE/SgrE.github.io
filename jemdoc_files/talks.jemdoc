@@ -1,6 +1,8 @@
 # jemdoc: menu{MENU}{talk.html}, nofooter
 == Talks
 
+- [files/talk_SJTU2024.pdf Learning with norm-based neural networks: model capacity, function spaces, and computational-statistical gaps] at SJTU, CSML 2024
+
 - [files/talk_MaLGa.pdf From kernel methods to neural networks: double descent, function spaces, curse of dimensionality] at Gatsby, UCL; University of Warwick (Statistics Seminar, 2024); University of Genoa (MaLGa Seminar, 2024)
 
 - [files/talk_robust_overfitting.pdf Can we avoid robust overfitting in adversarial training?- An approximation viewpoint (regression part)] at EPFL, UW-Madison (MLOPT Idea Seminar, 2024)
@@ -11,10 +13,5 @@
 
 - [files/NeurIPS22-robustness.pdf Robustness in deep learning: the good, the bad, the ugly] at KAUST (Rising Stars in AI Symposium 2023)
 
-- [files/Fanghui_DD.pdf Double descent of random features models trained with SGD] at KU Leuven, 2022
-
-- [files/Fanghui_KRR.pdf High-dimensional kernel ridge regression beyond double descent] at SJTU, 2021
-
-- [files/Fanghui_quad.pdf Kernel approximation via random features and quadrature] at UC Berkeley (on zoom), 2021
 
 
