@@ -55,14 +55,14 @@ Due to a large number of requests, I, unfortunately, may not be able to reply to
 #- Computer Vision
 
 I'm generally interested in *mathematical foundations of machine learning*, 
- e.g., *statistical learning theory* and deep learning theory of under-/over-parameterized models.
-My research interest starts from kernel methods to large-scale computational methodologies in algorithm, and mainly focuses on theoretically understanding generalization properties of machine learning based algorithms, especially on *over-parameterized models* (motivated by neural networks). My research line can be understood from a *function space* perspective, from RKHS to hyper-RKHS, and Barron spaces.
+ e.g., *statistical learning theory* and deep learning theory.
+My research interest starts from kernel methods to large-scale computational methodologies in algorithm, and mainly focuses on theoretically understanding generalization properties of machine learning based algorithms, especially on *over-parameterized models* (motivated by neural networks). My research line can be understood from the perspective of *function space*, from RKHS to hyper-RKHS, and Barron spaces.
 Besides, I also work on trustworthy machine learning, both theoretically and empirically.
 My research (the past, ongoing and future) focuses on the following directions:
 
-- machine learning theory: what is the largest function space that can be learned by neural networks,  both statistically and computationally efficiently?
+- machine learning theory: what is the largest function space that can be learned by neural networks,  both statistically and computationally efficiently (computational-statistical gaps)?
 - fine-tuning:  expand the frontiers of empirical and theoretical knowledge on when and where to fine-tune, and how much we can fine-tune, precisely, efficiently, and robustly
-- trustworthy machine learning: computational-statistical gaps/trade-offs between adversarial training and standard straining
+- trustworthy machine learning
 
 
 

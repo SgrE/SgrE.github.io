@@ -27,7 +27,7 @@ Honam Wang, Wendao Wu, *Fanghui Liu*, Yiping Lu
 \[[https://arxiv.org/abs/2404.18769 arXiv]\] \n
 *Fanghui Liu*, Leello Dadi, and Volkan Cevher. \n
 Journal of Machine Learning Research (*JMLR*), 2024.\n
-{{<font color="DarkMagenta">TLDR: We provide the "best" trade-off between epsilon-covering and the input dimension in metric entropy. Our results can be also extended to the interpolation setting.</font>}}
+\[{{<font color="DarkMagenta">TLDR: We provide the "best" trade-off between epsilon-covering and the input dimension in metric entropy. Our results can be also extended to the interpolation setting.</font>}}\]
 
 - /Scalable Learned Model Soup on a Single GPU: An Efficient Subspace Training Strategy/.
 \[[https://arxiv.org/abs/2407.03641 arXiv]\], \[[https://github.com/nblt/MEHL-Soup code]\] \n
@@ -44,7 +44,7 @@ in the 41st International Conference on Machine Learning (*ICML*), 2024. \n
 Elias Abad Rocamora, Yongtao Wu, *Fanghui Liu*, Grigorios Chrysos, Volkan Cevher. \n
 in the 41st International Conference on Machine Learning (*ICML*), 2024. \n
 Presented at ICLR 2024 Workshop on Secure and Trustworthy Large Language Models \n
-{{<font color="DarkMagenta">TLDR: We introduce an efficient algorithm for character-level attack and typo-corrector doesn't work!</font>}}
+\[{{<font color="DarkMagenta">TLDR: We introduce an efficient algorithm for character-level attack and typo-corrector doesn't work!</font>}}\]
 
 - /Generalization of Deep ResNets in the mean-field regime/. 
 \[[https://openreview.net/forum?id=tMzPZTvz2H link]\]. \n
@@ -87,19 +87,19 @@ in the 40th International Conference on Machine Learning (*ICML*), 2023. \n
 *Fanghui Liu*, Johan A.K. Suykens, Volkan Cevher. \n
 in the 36th Conference on Neural Information Processing Systems (*NeurIPS*), 2022. \n
 Presented at [https://topml.rice.edu/ Workshop on the Theory of Overparameterized Machine Learning (TOPML) 2022].\n
-{{<font color="DarkMagenta">TLDR: We study the double descent, interplay with the data, parameter, and compute budget (scaling law), allowing for obtaining dimension-free results.</font>}}
+\[{{<font color="DarkMagenta">TLDR: We study the double descent, interplay with the data, parameter, and compute budget (scaling law), allowing for obtaining dimension-free results.</font>}}\]
 
 - /Understanding deep neural function approximation in reinforcement learning via $\epsilon$-greedy exploration/. 
 \[[https://arxiv.org/abs/2209.07376 arXiv]\]. \n
 *Fanghui Liu*, Luca Viano, Volkan Cevher. \n
 in the 36th Conference on Neural Information Processing Systems (*NeurIPS*), 2022. \n
-{{<font color="DarkMagenta">TLDR: This is the attempt for nonlinear function approximation in online RL via neural networks beyond lazy training.</font>}}
+\[{{<font color="DarkMagenta">TLDR: This is the attempt for nonlinear function approximation in online RL via neural networks beyond lazy training.</font>}}\]
 
 - /Robustness in deep learning: The good (width), the bad (depth), and the ugly (initialization)/. 
 \[[https://arxiv.org/abs/2209.07263 arXiv]\], \[[files/NeurIPS22-robustness.pdf slides]\]. \n
 Zhenyu Zhu, *Fanghui Liu*,  Grigorios Chrysos, Volkan Cevher. \n
 in the 36th Conference on Neural Information Processing Systems (*NeurIPS*), 2022. \n
-[{{<font color="DarkMagenta">We aim to close the gap on the question: will over-parameterisation help or hurt robustness?</font>}}]
+\[{{<font color="DarkMagenta">We aim to close the gap on the question: will over-parameterisation help or hurt robustness?</font>}}\]
 
 - /Generalization properties of NAS under activation and skip connection search/.
 \[[https://arxiv.org/abs/2209.07238 arXiv]\]. \n
@@ -119,13 +119,13 @@ in the 36th Conference on Neural Information Processing Systems (*NeurIPS*), 202
 \[[https://arxiv.org/abs/2004.11154 arXiv]\], \[[files/RFFsurvey_demo.zip code]\]. \n
 *Fanghui Liu*, Xiaolin Huang, Yudong Chen, and Johan A.K. Suykens. \n
 IEEE Transactions on Pattern Analysis and Machine Intelligence (*TPAMI*), 2021. \n
-{{<font color="DarkMagenta">TLDR: This is a comprehensive survey summarising random features from algorithm to theory. The over-parameterisation part does not involve too much.</font>}}
+\[{{<font color="DarkMagenta">TLDR: This is a comprehensive survey summarising random features from algorithm to theory. The over-parameterisation part does not involve too much.</font>}}\]
 
 - /Generalization properties of hyper-RKHS and its applications/.
 \[[https://arxiv.org/abs/1809.09910 arxiv]\], \[[https://jmlr.org/papers/v22/19-482.html link]\], \[[files/demo-hyperRKHS.zip code]\]. \n
 *Fanghui Liu*\*, Lei Shi\*, Xiaolin Huang, Jie Yang, and Johan A.K. Suykens. \n
 Journal of Machine Learning Research (*JMLR*), 2021. \n
-{{<font color="DarkMagenta">TLDR: This work provides analysis on learning beyond RKHS with non-trivial concentration inequality for dependence.</font>}}
+\[{{<font color="DarkMagenta">TLDR: This work provides analysis on learning beyond RKHS with non-trivial concentration inequality for dependence.</font>}}\]
 
 - /Towards a unified quadrature framework for large scale kernel methods/.
 \[[https://arxiv.org/abs/2011.01668 arXiv]\], \[[files/Quadrature_demo.zip code]\]. \n
@@ -136,7 +136,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (*TPAMI*), 2021.
 \[[http://proceedings.mlr.press/v130/liu21b.html link]\], \[[files/demo_KRRhigh.m code]\], \[[files/Fanghui_KRR.pdf slides]\]. \n
 *Fanghui Liu*, Zhenyu Liao, and Johan A.K. Suykens.\n 
 in the 24th International Conference on Artificial Intelligence and Statistics (*AISTATS*), 2021.\n
-{{<font color="DarkMagenta">TLDR: This work extends the double descent theory.</font>}}
+\[{{<font color="DarkMagenta">TLDR: This work extends the double descent theory.</font>}}\]
 
 - /Fast learning in reproducing kernel Krein spaces via signed measures/.
 \[[http://proceedings.mlr.press/v130/liu21a.html link]\], \[[files/RFF_RKKS_poster.pdf poster]\],
@@ -148,7 +148,7 @@ in the 24th International Conference on Artificial Intelligence and Statistics (
 \[[https://arxiv.org/abs/2006.01073 arXiv]\]. \n
 *Fanghui Liu*\*, Lei Shi\*, Xiaolin Huang, Jie Yang, and Johan A.K. Suykens. \n
 *Machine Learning*, 2021. \n
-{{<font color="DarkMagenta">TLDR: This work develop new proof framework to handle non-positive kernel in learning theory.</font>}}
+\[{{<font color="DarkMagenta">TLDR: This work develop new proof framework to handle non-positive kernel in learning theory.</font>}}\]
 
 - /Learning data-adaptive nonparametric kernels/.
 \[[https://jmlr.org/papers/v21/19-900.html link]\] \[[files/NesterovAcc.m code]\]. \n
@@ -159,7 +159,7 @@ Journal of Machine Learning Research (*JMLR*), 2020.
 \[[https://arxiv.org/abs/1911.09158 arXiv]\], \[[files/AAAI20_code.zip code]\].\n 
 *Fanghui Liu*, Xiaolin Huang, Yudong Chen, Jie Yang, and Johan A.K. Suykens. \n
 in the Thirty-Fourth AAAI Conference on Artificial Intelligence (*AAAI*), 2020. \n
-{{<font color="DarkMagenta">TLDR: This work presents an efficient algorithm of leverage score for large-scale kernel approximation, motived by kernel alignment.</font>}}
+\[{{<font color="DarkMagenta">TLDR: This work presents an efficient algorithm of leverage score for large-scale kernel approximation, motived by kernel alignment.</font>}}\]
 
 - /A double-variational Bayesian framework in random Fourier features 
  for indefinite kernels/.
