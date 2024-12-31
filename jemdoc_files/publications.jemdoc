@@ -12,6 +12,10 @@ The adversarially trained NAS benchmark (*NAS-RobBench-201*) in [https://openrev
 
 == Preprints
 
+- /How do students become teachers: A dynamical analysis for two-layer neural networks/. 
+\[[https://openreview.net/pdf?id=tyjaIniyyB paper]\]. \n
+Zhenyu Zhu, *Fanghui Liu*, Volkan Cevher
+
 - /Can overfitted deep neural networks in adversarial training generalize? -- An approximation viewpoint/. 
 \[[https://arxiv.org/abs/2401.13624 arXiv]\]. \n
 Zhongjie Shi, *Fanghui Liu*,  Yuan Cao, Johan A.K. Suykens. \n
