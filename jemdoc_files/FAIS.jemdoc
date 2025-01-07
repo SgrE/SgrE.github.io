@@ -1,14 +1,53 @@
 # jemdoc: menu{MENU}{service.html}, nofooter
-== Warwick Foundation of AI Seminar (More information can be found \[[https://faiseminarswarwick.github.io/ website]\]. Here is a brief and timely introduction.)
+== Warwick Foundation of AI Seminar
+
+(More information can be found on [https://faiseminarswarwick.github.io/ website]. Here is a brief and timely update.)
 
 == Incoming seminars
 
-- [https://people.eecs.berkeley.edu/~orrp/ Orr Paradise] (UC Berkerly), [https://faiseminarswarwick.github.io/ Models That Prove Their Own Correctness], 14/01/2025 2pm - 3pm, CS1.04
+- [https://people.eecs.berkeley.edu/~orrp/ Orr Paradise] (UC Berkeley), [https://faiseminarswarwick.github.io/ Models That Prove Their Own Correctness], 14/01/2025 2pm - 3pm, CS1.04
 - [https://www.stats.ox.ac.uk/~rebeschi/ Patrick Rebeschini] (Oxford), 28/01/2025 2pm - 3pm, CS1.04
-
+- [https://nvcuong.github.io/ Cuong V. Nguyen] (Durham University), 25/02/2025, 2pm - 3pm, CS1.01
+- [https://iljaku.github.io/ Ilja Kuzborskij] (Google Deepmind), 04/03/2025, 2pm - 3pm, CS1.04
+- [https://brloureiro.github.io/ Bruno Loureiro] (ENS & CNRS) 11/03/2025, 2pm - 3pm, 
+- [http://yingzhenli.net/home/en/ Yingzhen Li] (Imperial College), 25/03/2025, 2pm - 3pm, CS1.04
+- [https://www.krikamol.org/ Krikamol Muandet] (CISPA), 13/05/2025, 2pm - 3pm, MB0.08
+- [http://marcomondelli.com/ Marco Mondelli] (IST Austria), 03/06/2025, 2pm - 3pm, MB0.07
 
 
 == Past Seminars
-- [https://sites.google.com/view/razp/home Razvan Pascanu] (Google DeepMind), [https://faiseminarswarwick.github.io/ Resurrecting Recurrent Neural Networks], 14/01/2025 2pm - 3pm, CS1.04
+- [https://sites.google.com/view/razp/home Razvan Pascanu] (Google DeepMind), [https://faiseminarswarwick.github.io/ Resurrecting Recurrent Neural Networks], 26/11/2024 2pm - 3pm, CS1.04
 
+- [https://www.columbia.edu/~as5001/ Ana-Andreea Stoica] (Max Planck institute), [https://faiseminarswarwick.github.io/ Multi-objective optimization with societal considerations: a study of RCTs in the presence of competing treatments], 12/11/2024 2pm - 3pm, MS.03
+
+- [https://ilijabogunovic.com/ Ilija Bogunovic] (UCL), [https://faiseminarswarwick.github.io/ Robust and Efficient AI Alignment], 22/10/2024 2pm - 3pm, CS1.04
+
+- [https://www.gatsby.ucl.ac.uk/~gretton/ Arthur Gretton] (UCL), [https://faiseminarswarwick.github.io/ 
+Causal Effect Estimation with Context and Confounders], 15/10/2024 2pm - 3pm, MS.03 \[[https://www.gatsby.ucl.ac.uk/~gretton/coursefiles/warwick24.pdf slides]\]
+
+- [https://www.grasp.upenn.edu/people/rene-vidal/ René Vidal] (University of Pennsylvania), [https://faiseminarswarwick.github.io/ 
+Learning Dynamics of Overparametrized Neural Networks], 19/06/2024 3pm - 4pm, CS1.04
+
+- [https://www.di.ens.fr/~fbach/ Francis Bach] (INRIA), [https://faiseminarswarwick.github.io/ 
+Physics-informed machine learning as a kernel method], 18/06/2024 11am - 12pm, MB0.07
+
+- [https://www.gpeyre.com/ Gabriel Peyré] (CNRS/ENS), [https://faiseminarswarwick.github.io/ 
+Conservation Laws for Gradient Flows], 14/06/2024 11am - 12pm, MB0.07
+ \[[https://speakerdeck.com/gpeyre/conservation-laws-for-gradient-flows slides]\]
+
+
+- [https://statistics.wharton.upenn.edu/profile/suw/ Weijie Su] (University of Pennsylvania), [https://faiseminarswarwick.github.io/ 
+Addressing Bias and Copyright in Generative AI: Preference Matching and Fair Compensation], 10/06/2024 2pm - 3pm, MB0.08
+
+- [https://maalvarezl.github.io/ Mauricio Álvarez] (University of Manchester), [https://faiseminarswarwick.github.io/ Non-linear Latent Force Models], 07/06/2024 2pm - 3pm, MB0.07
+
+
+- [https://fxbriol.github.io/ François-Xavier Briol] (UCL), [https://faiseminarswarwick.github.io/ Robust and Conjugate Gaussian Process Regression], 31/05/2024 2pm - 3pm, MB0.07
+
+- [https://jiaxins.io/ Jiaxin Shi] (Google DeepMind), [https://faiseminarswarwick.github.io/ 
+Spectral Methods and Generative Modeling: A Unifying Perspective], 24/05/2024 2pm - 3pm, MB0.07
+
+
+- [https://www.epfl.ch/labs/lions/ Volkan Cevher] (EPFL), [https://faiseminarswarwick.github.io/ 
+Adversarial Training Should Be Cast as a Non-Zero-Sum Game], 26/04/2024 1pm - 2pm, MB0.07
 
