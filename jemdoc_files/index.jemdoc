@@ -37,14 +37,6 @@ June 2019, supervised by [http://www.pami.sjtu.edu.cn/En/jieyang Prof. Jie Yang]
 and the B.E. degree in Automation, Harbin Institute of Technology (HIT) in 2014.
 
 
-== Jobs
-
-*{{<font color="red">I am looking for motivated Ph.D. students to work with me on learning theory in machine learning or trustworthy machine learning.</font>}}* See [https://www.lfhsgre.org/positions.html Open positions] for details. 
-
-Due to a large number of requests, I, unfortunately, may not be able to reply to all the emails regarding PhD applications. However, I'll look at applicants that have sent me emails and contact you soon if your enquires are indeed inline with my research.
-
-#Warwick has a strong research direction on TCS, mathematics, and statistics. If you would like to work with me on machine learning theory or theoretical-oriented application topics, feel free to reach out by sending me an email with your CV and transcript. Besides, I will appreciate if you include a short description about your motivation and some highlights of your past experience or achievements.
-
 #== Education
 #- Ph.D. in Department of Automation (Pattern Recognition and Intelligent Systems), Shanghai Jiao Tong University, Sep. 2014 - Jun. 2019
 #- B.S. in Department of Automation, Harbin Institute of Technology, Sep. 2010 - Jun. 2014
@@ -69,6 +61,13 @@ My research (the past, ongoing and future) focuses on the following directions:
 - fine-tuning:  expand the frontiers of empirical and theoretical knowledge on when and where to fine-tune, and how much we can fine-tune, precisely, efficiently, and robustly
 - trustworthy machine learning: foundations of robustness
 
+== Jobs
+
+*{{<font color="red">I am looking for motivated Ph.D. students to work with me on learning theory in machine learning or trustworthy machine learning.</font>}}* See [https://www.lfhsgre.org/positions.html Open positions] for details. 
+
+Due to a large number of requests, I, unfortunately, may not be able to reply to all the emails regarding PhD applications. However, I'll look at applicants that have sent me emails and contact you soon if your enquires are indeed inline with my research.
+
+#Warwick has a strong research direction on TCS, mathematics, and statistics. If you would like to work with me on machine learning theory or theoretical-oriented application topics, feel free to reach out by sending me an email with your CV and transcript. Besides, I will appreciate if you include a short description about your motivation and some highlights of your past experience or achievements.
 
 
 == News
@@ -78,8 +77,6 @@ My research (the past, ongoing and future) focuses on the following directions:
 - \[2024-09\] I will attend [https://www.crm.cat/mathematical-aspects-of-learning-theory/ Mathematical Aspects of Learning Theory Workshop - 20 years later].
 
 - \[2024-08\] I will serve as an Area Chair of AAMAS 2025, ICLR 2025, AISTATS 2025.
-
-- \[2024-07\] We're organising one workshop [https://sites.google.com/view/neurips2024-ftw/home *{{<font color="red">Fine-Tuning in Modern Machine Learning: Principles and Scalability</font>}}*] at NeurIPS 2024!
 
 - \[2024-05\] Two papers were accepted by ICML 2024: one is about high dimensional kernel methods under distribution shift; one is about adversarial attack on foundation models.
 
