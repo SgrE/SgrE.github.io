@@ -12,9 +12,20 @@ The adversarially trained NAS benchmark (*NAS-RobBench-201*) in [https://openrev
 
 == Preprints
 
+- /Re-examining double descent and scaling laws under norm-based capacity via deterministic equivalence/. 
+\[[https://arxiv.org/abs/2502.01585 arXiv]\]. \n
+Yichen Wang, Yudong Chen, Lorenzo Rosasco, *Fanghui Liu*. \n
+\[{{<font color="DarkMagenta">TLDR: We rigorously answer whether double descent exists under norm-based capacity as introduced in \[[https://cs229.stanford.edu/main_notes.pdf CS229 Lecture Notes (Fig. 8.12)]\] and accordingly reshape scaling law.</font>}}\]
+
+- /One-step full gradient suffices for low-rank fine-tuning, provably and efficiently/. 
+\[[https://arxiv.org/abs/2502.01235 arXiv]\]. \n
+Yuanhe Zhang, *Fanghui Liu*,  Yudong Chen. \n
+\[{{<font color="DarkMagenta">TLDR: We show how theory (from subspace alignment to gradient dynamics as well as preconditioners) contributes to practical algorithm design in fine-tuning.</font>}}\]
+
 - /Can overfitted deep neural networks in adversarial training generalize? -- An approximation viewpoint/. 
 \[[https://arxiv.org/abs/2401.13624 arXiv]\]. \n
 Zhongjie Shi, *Fanghui Liu*,  Yuan Cao, Johan A.K. Suykens. \n
+\[{{<font color="DarkMagenta">TLDR: We rigorously prove when can we avoid robust overfitting from the approximation side.</font>}}\]
 
 - /Benign overfitting in Fixed Dimension via Physics-Informed Learning with Smooth Inductive Bias/.
 \[[https://arxiv.org/abs/2406.09194 arXiv]\]. \n
