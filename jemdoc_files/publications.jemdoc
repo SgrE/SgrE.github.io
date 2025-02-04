@@ -15,7 +15,7 @@ The adversarially trained NAS benchmark (*NAS-RobBench-201*) in [https://openrev
 - /Re-examining double descent and scaling laws under norm-based capacity via deterministic equivalence/. 
 \[[https://arxiv.org/abs/2502.01585 arXiv]\]. \n
 Yichen Wang, Yudong Chen, Lorenzo Rosasco, *Fanghui Liu*. \n
-\[{{<font color="DarkMagenta">TLDR: We rigorously answer whether double descent exists under norm-based capacity as introduced in \[[https://cs229.stanford.edu/main_notes.pdf CS229 Lecture Notes (Fig. 8.12)]\] and accordingly reshape scaling law.</font>}}\]
+\[{{<font color="DarkMagenta">TLDR: We rigorously answer whether double descent exists under norm-based capacity as introduced in CS229 Lecture Notes (Fig. 8.12) and accordingly reshape scaling law.</font>}}\]
 
 - /One-step full gradient suffices for low-rank fine-tuning, provably and efficiently/. 
 \[[https://arxiv.org/abs/2502.01235 arXiv]\]. \n
