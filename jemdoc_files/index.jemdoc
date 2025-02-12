@@ -5,9 +5,10 @@
 {}{img_left}{images/me.jpg}{alt text}{200px}{200px}
 = Fanghui Liu \n
 === Assistant Professor at [https://warwick.ac.uk/fac/sci/dcs/ Department of Computer Science, University of Warwick], UK \n
-Email: *x*@*y* with *x*=fanghui.liu and *y*=warwick.ac.uk \n
 
-Member of [https://warwick.ac.uk/fac/cross_fac/dimap/ Centre for Discrete Mathematics and its Applications (DIMAP)], Warwick
+Member of [https://warwick.ac.uk/fac/cross_fac/dimap/ Centre for Discrete Mathematics and its Applications (DIMAP)], Warwick \n
+
+Email: *x*@*y* with *x*=fanghui.liu and *y*=warwick.ac.uk \n
 
 Visiting research scientist at [https://www.epfl.ch/labs/lions/people/guests/fanghui-liu-starts-1st-october/ EPFL], Switzerland \n
 Email: *x*@*y* with *x*=fanghui.liu and *y*=epfl.ch \n
@@ -23,12 +24,10 @@ at Zermatt, Switzerland (Aug. 2022)
 
 == About me
 
-I'm currently an assistant professor at [https://warwick.ac.uk/fac/sci/dcs/ Department of Computer Science], a member of [https://warwick.ac.uk/fac/cross_fac/dimap/ Centre for Discrete Mathematics and its Applications (DIMAP)], an affiliated member of [https://warwick.ac.uk/fac/sci/dcs/research/focs/people/ the Division of Theory and Foundations (FoCS)], at the University of Warwick, UK.
+I'm currently an assistant professor at [https://warwick.ac.uk/fac/sci/dcs/ Department of Computer Science], a member of [https://warwick.ac.uk/fac/cross_fac/dimap/ Centre for Discrete Mathematics and its Applications (DIMAP)], and an affiliated member of [https://warwick.ac.uk/fac/sci/dcs/research/focs/people/ the Division of Theory and Foundations (FoCS)], at the University of Warwick, UK.
 Besides, I'm also a visiting research scientist at [https://www.epfl.ch/labs/lions/people/guests/fanghui-liu-starts-1st-october/ EPFL], Switzerland. I am an [https://ellis.eu/members/ ELLIS Member] and IEEE Senior Member.
 
 We're organising [https://faiseminarswarwick.github.io/ *{{<font color="DarkMagenta">Warwick Foundation of AI seminar</font>}}*]!
-
-We're organising one workshop [https://sites.google.com/view/neurips2024-ftw/home *{{<font color="red">Fine-Tuning in Modern Machine Learning: Principles and Scalability</font>}}*] at NeurIPS 2024!
 
 Previously, I was a postdoc researcher at EPFL, Switzerland, hosted by [https://www.epfl.ch/labs/lions/people/volkan-cevher/ Prof. Volkan Cevher] from 2021 to 2023. 
 Before that, I spent two years as a postdoc researcher at ESAT-STADIUS, KU Leuven, Belgium, hosted by [https://www.esat.kuleuven.be/sista/members/suykens.html Prof. Johan A.K. Suykens].
@@ -38,14 +37,6 @@ June 2019, supervised by [http://www.pami.sjtu.edu.cn/En/jieyang Prof. Jie Yang]
 and the B.E. degree in Automation, Harbin Institute of Technology (HIT) in 2014.
 
 
-== Jobs
-
-*{{<font color="red">I am looking for motivated Ph.D. students to work with me on learning theory in machine learning or trustworthy machine learning.</font>}}* See [https://www.lfhsgre.org/positions.html Open positions] for details. 
-
-Due to a large number of requests, I, unfortunately, may not be able to reply to all the emails regarding PhD applications. However, I'll look at applicants that have sent me emails and contact you soon if your enquires are indeed inline with my research.
-
-#Warwick has a strong research direction on TCS, mathematics, and statistics. If you would like to work with me on machine learning theory or theoretical-oriented application topics, feel free to reach out by sending me an email with your CV and transcript. Besides, I will appreciate if you include a short description about your motivation and some highlights of your past experience or achievements.
-
 #== Education
 #- Ph.D. in Department of Automation (Pattern Recognition and Intelligent Systems), Shanghai Jiao Tong University, Sep. 2014 - Jun. 2019
 #- B.S. in Department of Automation, Harbin Institute of Technology, Sep. 2010 - Jun. 2014
@@ -54,25 +45,40 @@ Due to a large number of requests, I, unfortunately, may not be able to reply to
 #- Statistical machine learning, kernel methods, learning theory
 #- Computer Vision
 
-I'm generally interested in *mathematical foundations of machine learning*, 
- e.g., *statistical learning theory* and deep learning theory.
-My research interest starts from kernel methods to large-scale computational methodologies in algorithm, and mainly focuses on theoretically understanding generalization properties of machine learning based algorithms, especially on *over-parameterized models* (motivated by neural networks). My research line can be understood from the perspective of *function space*, from RKHS to hyper-RKHS, and Barron spaces.
+I'm generally interested in *foundations of machine learning* from the lens of *learning efficiency*, both theoretically and empirically.
+My research interest starts from kernel methods to large-scale computational methodologies, and mainly focuses on learning with modern machine learning models, *statistically and/or computationally-efficiently*.
 Besides, I also work on trustworthy machine learning, both theoretically and empirically.
-My research (the past, ongoing and future) focuses on the following directions:
 
+My research is always contributing to how to handle nonlinearity at a theoretical level and how
+to precisely and efficiently approximate nonlinearity at a practical level under theoretical
+guidelines, which is a longstanding question over science, technology and engineering.
+~~~
+{}{img_left}{images/RS_mini.jpg}{alt text}{850px}{220px}
+~~~
+
+My research (the past, ongoing and future) focuses on the following directions:
 - machine learning theory: what is the largest function space that can be learned by neural networks,  both statistically and computationally efficiently (computational-statistical gaps)?
 - fine-tuning:  expand the frontiers of empirical and theoretical knowledge on when and where to fine-tune, and how much we can fine-tune, precisely, efficiently, and robustly
-- trustworthy machine learning
+- trustworthy machine learning: foundations of robustness
 
+== Jobs
+
+*{{<font color="red">I am looking for motivated Ph.D. students to work with me on learning theory in machine learning or trustworthy machine learning.</font>}}* See [https://www.lfhsgre.org/positions.html Open positions] for details. 
+
+Due to a large number of requests, I, unfortunately, may not be able to reply to all the emails regarding PhD applications. However, I'll look at applicants that have sent me emails and contact you soon if your enquires are indeed inline with my research.
+
+#Warwick has a strong research direction on TCS, mathematics, and statistics. If you would like to work with me on machine learning theory or theoretical-oriented application topics, feel free to reach out by sending me an email with your CV and transcript. Besides, I will appreciate if you include a short description about your motivation and some highlights of your past experience or achievements.
 
 
 == News
 
+- \[2025-01\] One paper was accepted by ICLR'25. It's about how gradient descent balances features after weak recovery.
+
+- \[2024-12\] We organised one workshop [https://sites.google.com/view/neurips2024-ftw/home *{{<font color="red">Fine-Tuning in Modern Machine Learning: Principles and Scalability</font>}}*] at NeurIPS 2024!
+
 - \[2024-09\] I will attend [https://www.crm.cat/mathematical-aspects-of-learning-theory/ Mathematical Aspects of Learning Theory Workshop - 20 years later].
 
 - \[2024-08\] I will serve as an Area Chair of AAMAS 2025, ICLR 2025, AISTATS 2025.
-
-- \[2024-07\] We're organising one workshop [https://sites.google.com/view/neurips2024-ftw/home *{{<font color="red">Fine-Tuning in Modern Machine Learning: Principles and Scalability</font>}}*] at NeurIPS 2024!
 
 - \[2024-05\] Two papers were accepted by ICML 2024: one is about high dimensional kernel methods under distribution shift; one is about adversarial attack on foundation models.
 

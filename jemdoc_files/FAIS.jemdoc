@@ -1,0 +1,57 @@
+# jemdoc: menu{MENU}{service.html}, nofooter
+== Warwick Foundation of AI Seminar
+
+(More information can be found on [https://faiseminarswarwick.github.io/ website]. Here is a brief and timely update.)
+
+== Incoming seminars
+
+- [https://www.stats.ox.ac.uk/~rebeschi/ Patrick Rebeschini] (Oxford), Jan. 28th 2025, 2pm - 3pm, CS1.04
+- [http://nolovedeeplearning.com/ Antonio Vergari] (Edinburgh), Feb. 18th 2025, 2pm - 3pm, MB0.08
+- [https://nvcuong.github.io/ Cuong V. Nguyen] (Durham University), Feb. 25th 2025, 2pm - 3pm, CS1.01
+- [https://iljaku.github.io/ Ilja Kuzborskij] (Google Deepmind), March 4th 2025, 2pm - 3pm, CS1.04
+- [https://brloureiro.github.io/ Bruno Loureiro] (ENS & CNRS) March 11th 2025, 2pm - 3pm, CS1.04
+- [http://yingzhenli.net/home/en/ Yingzhen Li] (Imperial College), March 25th 2025, 2pm - 3pm, CS1.04
+- [https://www.krikamol.org/ Krikamol Muandet] (CISPA), May 13th 2025, 2pm - 3pm, MB0.08
+- [https://www.dpmms.cam.ac.uk/~pll28/ Po Ling Loh] (Cambridge), May 28th, 2025, 2pm - 3pm, MB0.08
+- [http://marcomondelli.com/ Marco Mondelli] (IST Austria), June 3rd 2025, 2pm - 3pm, MB0.07
+
+
+== Past Seminars
+
+- [https://people.eecs.berkeley.edu/~orrp/ Orr Paradise] (UC Berkeley), [https://faiseminarswarwick.github.io/ Models That Prove Their Own Correctness], Jan. 14th 2025, 2pm - 3pm, CS1.04
+
+- [https://sites.google.com/view/razp/home Razvan Pascanu] (Google DeepMind), [https://faiseminarswarwick.github.io/ Resurrecting Recurrent Neural Networks], Nov. 26th 2024, 2pm - 3pm, CS1.04
+
+- [https://www.columbia.edu/~as5001/ Ana-Andreea Stoica] (Max Planck institute), [https://faiseminarswarwick.github.io/ Multi-objective optimization with societal considerations: a study of RCTs in the presence of competing treatments], Nov. 12th 2024, 2pm - 3pm, MS.03
+
+- [https://ilijabogunovic.com/ Ilija Bogunovic] (UCL), [https://faiseminarswarwick.github.io/ Robust and Efficient AI Alignment], Oct. 22nd 2025, 2pm - 3pm, CS1.04
+
+- [https://www.gatsby.ucl.ac.uk/~gretton/ Arthur Gretton] (UCL), [https://faiseminarswarwick.github.io/ 
+Causal Effect Estimation with Context and Confounders], Oct. 15th 2024, 2pm - 3pm, MS.03 \[[https://www.gatsby.ucl.ac.uk/~gretton/coursefiles/warwick24.pdf slides]\]
+
+- [https://www.grasp.upenn.edu/people/rene-vidal/ René Vidal] (University of Pennsylvania), [https://faiseminarswarwick.github.io/ 
+Learning Dynamics of Overparametrized Neural Networks], June 19th 2024, 3pm - 4pm, CS1.04
+
+- [https://www.di.ens.fr/~fbach/ Francis Bach] (INRIA), [https://faiseminarswarwick.github.io/ 
+Physics-informed machine learning as a kernel method], June 18th 2024, 11am - 12pm, MB0.07
+
+- [https://www.gpeyre.com/ Gabriel Peyré] (CNRS/ENS), [https://faiseminarswarwick.github.io/ 
+Conservation Laws for Gradient Flows], June 14th 2024, 11am - 12pm, MB0.07
+ \[[https://speakerdeck.com/gpeyre/conservation-laws-for-gradient-flows slides]\]
+
+
+- [https://statistics.wharton.upenn.edu/profile/suw/ Weijie Su] (University of Pennsylvania), [https://faiseminarswarwick.github.io/ 
+Addressing Bias and Copyright in Generative AI: Preference Matching and Fair Compensation], June 10th 2024, 2pm - 3pm, MB0.08
+
+- [https://maalvarezl.github.io/ Mauricio Álvarez] (University of Manchester), [https://faiseminarswarwick.github.io/ Non-linear Latent Force Models], June 7th 2024, 2pm - 3pm, MB0.07
+
+
+- [https://fxbriol.github.io/ François-Xavier Briol] (UCL), [https://faiseminarswarwick.github.io/ Robust and Conjugate Gaussian Process Regression], May 31st 2024, 2pm - 3pm, MB0.07
+
+- [https://jiaxins.io/ Jiaxin Shi] (Google DeepMind), [https://faiseminarswarwick.github.io/ 
+Spectral Methods and Generative Modeling: A Unifying Perspective], May 24th 2024, 2pm - 3pm, MB0.07
+
+
+- [https://www.epfl.ch/labs/lions/ Volkan Cevher] (EPFL), [https://faiseminarswarwick.github.io/ 
+Adversarial Training Should Be Cast as a Non-Zero-Sum Game], April 26th 2024, 1pm - 2pm, MB0.07
+

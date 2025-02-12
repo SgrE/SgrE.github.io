@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{talk.html}, nofooter
 == Talks
 
-- [files/talk_Madison_2024_12.pdf Learning with norm-based neural networks: model capacity, function spaces, and computational-statistical gaps] at INRIA, Stuttgart, Northwestern, Madison 2024
+- [files/talk_INRIA.pdf Learning with norm-based neural networks: model capacity, function spaces, and computational-statistical gaps] at INRIA, Stuttgart, LMU, UW-Madison, 2024.
 
 - [files/talk_MaLGa.pdf From kernel methods to neural networks: double descent, function spaces, curse of dimensionality] at Gatsby, UCL; University of Warwick (Statistics Seminar, 2024); University of Genoa (MaLGa Seminar, 2024)
 
