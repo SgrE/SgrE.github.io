@@ -18,7 +18,7 @@ Yichen Wang, Yudong Chen, Lorenzo Rosasco, *Fanghui Liu*. \n
 \[{{<font color="DarkMagenta">TLDR: We rigorously answer whether double descent exists under norm-based capacity as introduced in CS229 Lecture Notes (Fig. 8.12) and accordingly reshape scaling law.</font>}}\]
 
 - /One-step full gradient suffices for low-rank fine-tuning, provably and efficiently/. 
-\[[https://arxiv.org/abs/2502.01235 arXiv]\]. \n
+\[[https://arxiv.org/abs/2502.01235 arXiv]\], \[[https://github.com/YuanheZ/LoRA-One code]\]. \n
 Yuanhe Zhang, *Fanghui Liu*,  Yudong Chen. \n
 \[{{<font color="DarkMagenta">TLDR: We show how theory (from subspace alignment to gradient dynamics as well as preconditioners) contributes to practical algorithm design in fine-tuning.</font>}}\]
 
@@ -34,11 +34,10 @@ Honam Wang, Wendao Wu, *Fanghui Liu*, Yiping Lu
 
 == Accepted Papers
 
-- /How do students become teachers: A dynamical analysis for two-layer neural networks/. 
+- /How gradient balances features: A dynamical analysis for two-layer neural networks/. 
 \[[https://openreview.net/pdf?id=tyjaIniyyB paper]\]. \n
 Zhenyu Zhu, *Fanghui Liu*, Volkan Cevher \n
 in International Conference on Learning Representations (*ICLR*), 2025. \n
-\[{{<font color="DarkMagenta">The title will be changed.</font>}}\]
 
 - /Learning with norm constrained, over-parameterised, two-layer neural networks/.
 \[[https://arxiv.org/abs/2404.18769 arXiv]\] \n
