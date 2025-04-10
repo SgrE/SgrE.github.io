@@ -1,8 +1,9 @@
 # jemdoc: menu{MENU}{talk.html}, nofooter
 == Talks
 
+- [files/DD_2025.pdf Be aware of model capacity when talking about generalization in machine learning] at HKUST, Fudan 2025.
 
-- [files/UCLA202502.pdf One-step full gradient suffices for low-rank fine-tuning, provably and efficiently] at UCLA 2025.
+- [files/UCLA202502.pdf One-step full gradient suffices for low-rank fine-tuning, provably and efficiently] at UCLA, HKUST, CityU, SJTU, 2025.
 
 - [files/talk_INRIA.pdf Learning with norm-based neural networks: model capacity, function spaces, and computational-statistical gaps] at INRIA, Stuttgart, LMU, UW-Madison, 2024.
 

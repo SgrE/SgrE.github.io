@@ -71,13 +71,16 @@ Due to a large number of requests, I, unfortunately, may not be able to reply to
 
 == News
 
+
+- \[2025-02\] Released two papers on arXiv. \[[https://arxiv.org/abs/2502.01585 arXiv]\] is to precisely charecterize the test risk if the model size is changed to a proper model capacity. \[[https://arxiv.org/abs/2502.01235 arXiv]\] is to theoretically identify the optimal initialization strategy in LoRA and design the theory-grounded algorithm for LLM fine-tuning.
+
+- \[2025-02\] Attended ITA'25 Workshop at San Diego!
+
 - \[2025-01\] One paper was accepted by ICLR'25. It's about how gradient descent balances features after weak recovery.
 
 - \[2024-12\] We organised one workshop [https://sites.google.com/view/neurips2024-ftw/home *{{<font color="red">Fine-Tuning in Modern Machine Learning: Principles and Scalability</font>}}*] at NeurIPS 2024!
 
 - \[2024-09\] I will attend [https://www.crm.cat/mathematical-aspects-of-learning-theory/ Mathematical Aspects of Learning Theory Workshop - 20 years later].
-
-- \[2024-08\] I will serve as an Area Chair of AAMAS 2025, ICLR 2025, AISTATS 2025.
 
 - \[2024-05\] Two papers were accepted by ICML 2024: one is about high dimensional kernel methods under distribution shift; one is about adversarial attack on foundation models.
 
