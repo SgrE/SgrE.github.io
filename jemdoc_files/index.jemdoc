@@ -46,15 +46,13 @@ I'm generally interested in *foundations of machine learning* from the lens of *
 My research interest starts from kernel methods to large-scale computational methodologies, and mainly focuses on learning with modern machine learning models, *statistically and/or computationally-efficiently*.
 Besides, I also work on trustworthy machine learning, both theoretically and empirically.
 
-My research is always contributing to how to handle nonlinearity at a theoretical level and how
-to precisely and efficiently approximate nonlinearity at a practical level under theoretical
-guidelines, which is a longstanding question over science, technology and engineering.
+My research is always contributing to how to *handle nonlinearity at a theoretical level* and how to precisely and efficiently *approximate nonlinearity at a practical level* under theoretical guidelines, which is a longstanding question over science, technology and engineering.
 ~~~
 {}{img_left}{images/RS_mini.jpg}{alt text}{850px}{220px}
 ~~~
 
 My research (the past, ongoing and future) focuses on the following directions:
-- machine learning theory: what is the largest function space that can be learned by neural networks,  both statistically and computationally efficiently (computational-statistical gaps)?
+- machine learning theory: what is the largest function space that can be learned by neural networks, both statistically and computationally efficiently (computational-statistical gaps)?
 - fine-tuning:  expand the frontiers of empirical and theoretical knowledge on when and where to fine-tune, and how much we can fine-tune, precisely, efficiently, and robustly
 - trustworthy machine learning: foundations of robustness
 
@@ -72,7 +70,11 @@ Due to a large number of requests, I, unfortunately, may not be able to reply to
 == News
 
 
-- \[2025-02\] Released two papers on arXiv. \[[https://arxiv.org/abs/2502.01585 arXiv]\] is to precisely charecterize the test risk if the model size is changed to a proper model capacity. \[[https://arxiv.org/abs/2502.01235 arXiv]\] is to theoretically identify the optimal initialization strategy in LoRA and design the theory-grounded algorithm for LLM fine-tuning.
+- \[2025-02\] Released two papers on arXiv. 
+
+\[[https://arxiv.org/abs/2502.01585 arXiv]\] is to precisely charecterize the test risk if the model size is changed to a proper model capacity. 
+
+\[[https://arxiv.org/abs/2502.01235 arXiv]\] is to theoretically identify the optimal initialization strategy in LoRA and design the theory-grounded algorithm for LLM fine-tuning.
 
 - \[2025-02\] Attended ITA'25 Workshop at San Diego!
 
