@@ -6,12 +6,9 @@
 = Fanghui Liu \n
 === Assistant Professor at [https://warwick.ac.uk/fac/sci/dcs/ Department of Computer Science, University of Warwick], UK \n
 
-Member of [https://warwick.ac.uk/fac/cross_fac/dimap/ Centre for Discrete Mathematics and its Applications (DIMAP)], Warwick \n
+Faculty member of [https://warwick.ac.uk/fac/cross_fac/dimap/ Centre for Discrete Mathematics and its Applications (DIMAP)], Warwick \n
 
 Email: *x*@*y* with *x*=fanghui.liu and *y*=warwick.ac.uk \n
-
-Visiting research scientist at [https://www.epfl.ch/labs/lions/people/guests/fanghui-liu-starts-1st-october/ EPFL], Switzerland \n
-Email: *x*@*y* with *x*=fanghui.liu and *y*=epfl.ch \n
 
 \[[https://scholar.google.com/citations?user=AKxBgssAAAAJ Google Scholar]\] 
 \[[https://warwick.ac.uk/fac/sci/dcs/people/fanghui_liu/ homepage at Warwick]\]
@@ -24,8 +21,8 @@ at Zermatt, Switzerland (Aug. 2022)
 
 == About me
 
-I'm currently an assistant professor at [https://warwick.ac.uk/fac/sci/dcs/ Department of Computer Science], a member of [https://warwick.ac.uk/fac/cross_fac/dimap/ Centre for Discrete Mathematics and its Applications (DIMAP)], and an affiliated member of [https://warwick.ac.uk/fac/sci/dcs/research/focs/people/ the Division of Theory and Foundations (FoCS)], at the University of Warwick, UK.
-Besides, I'm also a visiting research scientist at [https://www.epfl.ch/labs/lions/people/guests/fanghui-liu-starts-1st-october/ EPFL], Switzerland. I am an [https://ellis.eu/members/ ELLIS Member] and IEEE Senior Member.
+I'm currently an assistant professor at [https://warwick.ac.uk/fac/sci/dcs/ Department of Computer Science], a faculty member of [https://warwick.ac.uk/fac/cross_fac/dimap/ Centre for Discrete Mathematics and its Applications (DIMAP)], and an affiliated member of [https://warwick.ac.uk/fac/sci/dcs/research/focs/people/ the Division of Theory and Foundations (FoCS)], at the University of Warwick, UK.
+I am an [https://ellis.eu/members/ ELLIS Member] and IEEE Senior Member.
 
 We're organising [https://faiseminarswarwick.github.io/ *{{<font color="DarkMagenta">Warwick Foundation of AI seminar</font>}}*]!
 
@@ -49,15 +46,13 @@ I'm generally interested in *foundations of machine learning* from the lens of *
 My research interest starts from kernel methods to large-scale computational methodologies, and mainly focuses on learning with modern machine learning models, *statistically and/or computationally-efficiently*.
 Besides, I also work on trustworthy machine learning, both theoretically and empirically.
 
-My research is always contributing to how to handle nonlinearity at a theoretical level and how
-to precisely and efficiently approximate nonlinearity at a practical level under theoretical
-guidelines, which is a longstanding question over science, technology and engineering.
+My research is always contributing to how to *handle nonlinearity at a theoretical level* and how to precisely and efficiently *approximate nonlinearity at a practical level* under theoretical guidelines, which is a longstanding question over science, technology and engineering.
 ~~~
 {}{img_left}{images/RS_mini.jpg}{alt text}{850px}{220px}
 ~~~
 
 My research (the past, ongoing and future) focuses on the following directions:
-- machine learning theory: what is the largest function space that can be learned by neural networks,  both statistically and computationally efficiently (computational-statistical gaps)?
+- machine learning theory: what is the largest function space that can be learned by neural networks, both statistically and computationally efficiently (computational-statistical gaps)?
 - fine-tuning:  expand the frontiers of empirical and theoretical knowledge on when and where to fine-tune, and how much we can fine-tune, precisely, efficiently, and robustly
 - trustworthy machine learning: foundations of robustness
 
@@ -74,17 +69,26 @@ Due to a large number of requests, I, unfortunately, may not be able to reply to
 
 == News
 
+<<<<<<< HEAD
 - \[2025-05\] One paper on LoRA (from theory to practice) was accepted by ICML'25 as spotlight. Congratulations to Yuanhe.
 
 - \[2025-02\] I attended [https://ita.ucsd.edu/workshop/ 2025 ITA Workshop] and visited UCLA.
+=======
+
+- \[2025-02\] Released two papers on arXiv. 
+
+\[[https://arxiv.org/abs/2502.01585 arXiv]\] is to precisely charecterize the test risk if the model size is changed to a proper model capacity. 
+
+\[[https://arxiv.org/abs/2502.01235 arXiv]\] is to theoretically identify the optimal initialization strategy in LoRA and design the theory-grounded algorithm for LLM fine-tuning.
+
+- \[2025-02\] Attended ITA'25 Workshop at San Diego!
+>>>>>>> 9bbc0f3c589e4e93a6ccf51091ccaf81fb8b531a
 
 - \[2025-01\] One paper was accepted by ICLR'25. It's about how gradient descent balances features after weak recovery.
 
 - \[2024-12\] We organised one workshop [https://sites.google.com/view/neurips2024-ftw/home *{{<font color="red">Fine-Tuning in Modern Machine Learning: Principles and Scalability</font>}}*] at NeurIPS 2024!
 
 - \[2024-09\] I will attend [https://www.crm.cat/mathematical-aspects-of-learning-theory/ Mathematical Aspects of Learning Theory Workshop - 20 years later].
-
-- \[2024-08\] I will serve as an Area Chair of AAMAS 2025, ICLR 2025, AISTATS 2025.
 
 - \[2024-05\] Two papers were accepted by ICML 2024: one is about high dimensional kernel methods under distribution shift; one is about adversarial attack on foundation models.
 
