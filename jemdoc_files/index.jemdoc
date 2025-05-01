@@ -69,11 +69,9 @@ Due to a large number of requests, I, unfortunately, may not be able to reply to
 
 == News
 
-<<<<<<< HEAD
 - \[2025-05\] One paper on LoRA (from theory to practice) was accepted by ICML'25 as spotlight. Congratulations to Yuanhe.
 
 - \[2025-02\] I attended [https://ita.ucsd.edu/workshop/ 2025 ITA Workshop] and visited UCLA.
-=======
 
 - \[2025-02\] Released two papers on arXiv. 
 
@@ -82,7 +80,6 @@ Due to a large number of requests, I, unfortunately, may not be able to reply to
 \[[https://arxiv.org/abs/2502.01235 arXiv]\] is to theoretically identify the optimal initialization strategy in LoRA and design the theory-grounded algorithm for LLM fine-tuning.
 
 - \[2025-02\] Attended ITA'25 Workshop at San Diego!
->>>>>>> 9bbc0f3c589e4e93a6ccf51091ccaf81fb8b531a
 
 - \[2025-01\] One paper was accepted by ICLR'25. It's about how gradient descent balances features after weak recovery.
 

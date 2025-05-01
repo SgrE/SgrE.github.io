@@ -17,14 +17,6 @@ The adversarially trained NAS benchmark (*NAS-RobBench-201*) in [https://openrev
 Yichen Wang, Yudong Chen, Lorenzo Rosasco, *Fanghui Liu*. \n
 \[{{<font color="DarkMagenta">TLDR: We rigorously answer whether double descent exists under norm-based capacity as introduced in CS229 Lecture Notes (Fig. 8.12) and accordingly reshape scaling law.</font>}}\]
 
-<<<<<<< HEAD
-=======
-- /One-step full gradient suffices for low-rank fine-tuning, provably and efficiently/. 
-\[[https://arxiv.org/abs/2502.01235 arXiv]\], \[[https://github.com/YuanheZ/LoRA-One code]\]. \n
-Yuanhe Zhang, *Fanghui Liu*,  Yudong Chen. \n
-\[{{<font color="DarkMagenta">TLDR: We show how theory (from subspace alignment to gradient dynamics as well as preconditioners) contributes to practical algorithm design in fine-tuning.</font>}}\]
-
->>>>>>> 9bbc0f3c589e4e93a6ccf51091ccaf81fb8b531a
 - /Can overfitted deep neural networks in adversarial training generalize? -- An approximation viewpoint/. 
 \[[https://arxiv.org/abs/2401.13624 arXiv]\]. \n
 Zhongjie Shi, *Fanghui Liu*,  Yuan Cao, Johan A.K. Suykens. \n
@@ -37,25 +29,16 @@ Honam Wang, Wendao Wu, *Fanghui Liu*, Yiping Lu
 
 == Accepted Papers
 
-<<<<<<< HEAD
-
 - /One-step full gradient suffices for low-rank fine-tuning, provably and efficiently/. 
-\[[https://arxiv.org/abs/2502.01235 arXiv]\]. \n
+\[[https://arxiv.org/abs/2502.01235 arXiv]\], \[[https://github.com/YuanheZ/LoRA-One code]\]. \n
 Yuanhe Zhang, *Fanghui Liu*,  Yudong Chen. \n
-\[{{<font color="DarkMagenta">TLDR: We show how theory (from subspace alignment to gradient dynamics as well as preconditioners) contributes to practical algorithm design in fine-tuning.</font>}}\] \n.
+\[{{<font color="DarkMagenta">TLDR: We show how theory (from subspace alignment to gradient dynamics as well as preconditioners) contributes to practical algorithm design in fine-tuning.</font>}}\] \n
 International Conference on Machine Learning (*ICML*), 2025. {{<font color="red">[Spotlight]</font>}} \n
-
 
 - /How gradient descent balances features: A dynamical analysis for two-layer neural networks/. 
 \[[https://openreview.net/forum?id=25j2ZEgwTj paper]\]. \n
 Zhenyu Zhu, *Fanghui Liu*, Volkan Cevher \n
-in International Conference on Learning Representations (*ICLR*), 2025.
-=======
-- /How gradient balances features: A dynamical analysis for two-layer neural networks/. 
-\[[https://openreview.net/pdf?id=tyjaIniyyB paper]\]. \n
-Zhenyu Zhu, *Fanghui Liu*, Volkan Cevher \n
-in International Conference on Learning Representations (*ICLR*), 2025. \n
->>>>>>> 9bbc0f3c589e4e93a6ccf51091ccaf81fb8b531a
+International Conference on Learning Representations (*ICLR*), 2025.
 
 - /Learning with norm constrained, over-parameterised, two-layer neural networks/.
 \[[https://arxiv.org/abs/2404.18769 arXiv]\] \n
