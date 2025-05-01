@@ -17,11 +17,6 @@ The adversarially trained NAS benchmark (*NAS-RobBench-201*) in [https://openrev
 Yichen Wang, Yudong Chen, Lorenzo Rosasco, *Fanghui Liu*. \n
 \[{{<font color="DarkMagenta">TLDR: We rigorously answer whether double descent exists under norm-based capacity as introduced in CS229 Lecture Notes (Fig. 8.12) and accordingly reshape scaling law.</font>}}\]
 
-- /One-step full gradient suffices for low-rank fine-tuning, provably and efficiently/. 
-\[[https://arxiv.org/abs/2502.01235 arXiv]\]. \n
-Yuanhe Zhang, *Fanghui Liu*,  Yudong Chen. \n
-\[{{<font color="DarkMagenta">TLDR: We show how theory (from subspace alignment to gradient dynamics as well as preconditioners) contributes to practical algorithm design in fine-tuning.</font>}}\]
-
 - /Can overfitted deep neural networks in adversarial training generalize? -- An approximation viewpoint/. 
 \[[https://arxiv.org/abs/2401.13624 arXiv]\]. \n
 Zhongjie Shi, *Fanghui Liu*,  Yuan Cao, Johan A.K. Suykens. \n
@@ -34,11 +29,18 @@ Honam Wang, Wendao Wu, *Fanghui Liu*, Yiping Lu
 
 == Accepted Papers
 
-- /How do students become teachers: A dynamical analysis for two-layer neural networks/. 
-\[[https://openreview.net/pdf?id=tyjaIniyyB paper]\]. \n
+
+- /One-step full gradient suffices for low-rank fine-tuning, provably and efficiently/. 
+\[[https://arxiv.org/abs/2502.01235 arXiv]\]. \n
+Yuanhe Zhang, *Fanghui Liu*,  Yudong Chen. \n
+\[{{<font color="DarkMagenta">TLDR: We show how theory (from subspace alignment to gradient dynamics as well as preconditioners) contributes to practical algorithm design in fine-tuning.</font>}}\] \n.
+International Conference on Machine Learning (*ICML*), 2025. {{<font color="red">[Spotlight]</font>}} \n
+
+
+- /How gradient descent balances features: A dynamical analysis for two-layer neural networks/. 
+\[[https://openreview.net/forum?id=25j2ZEgwTj paper]\]. \n
 Zhenyu Zhu, *Fanghui Liu*, Volkan Cevher \n
-in International Conference on Learning Representations (*ICLR*), 2025. \n
-\[{{<font color="DarkMagenta">The title will be changed.</font>}}\]
+in International Conference on Learning Representations (*ICLR*), 2025.
 
 - /Learning with norm constrained, over-parameterised, two-layer neural networks/.
 \[[https://arxiv.org/abs/2404.18769 arXiv]\] \n
