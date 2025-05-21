@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{positions.html}, nofooter
 == Open positions
 
-I'm looking for one full-time PhD student (home or international) in *learning theory* (statistical learning theory and deep learning theory) or theoretical-oriented topics, e.g., *trustworthy machine learning*, *efficient machine learning*. 
+I'm looking for PhD students (home or international) in *learning theory* (statistical learning theory, deep learning theory, computational learning theory) or theoretical-oriented topics, e.g., *fine-tuning*. Besides, I'm also interested in principles and scalability of large language models. 
 This position is full-funded and research-oriented.
 Besides, applications from other sources of scholarship are also welcome, e.g., [https://warwick.ac.uk/services/dc/schols_fund/scholarships_and_funding/cis Chancellor's International Scholarship] for EU/International applicants as well as [https://warwick.ac.uk/services/dc/schols_fund/scholarships_and_funding/csc CSC] for Chinese applicants.
 
@@ -9,11 +9,7 @@ My research to theoretically understand why ML models perform well or design eff
 
 - *Statistical-computational gap in modern machine learning:* It delves into a pivotal question within the machine learning community: how can we theoretically explain the empirical phenomena observed in over-parameterized models from the perspective of statistical and computational side? Our target is to bridge the gap between empirical observations and rigorous theoretical assurances, particularly in the context of neural networks.
 
-- *Robustness of neural networks for trustworthy ML systems:* It aims to build a trustworthy ML system from the theoretical and/or empirical side. Theoretically, we aim to understand the robust-accuracy trade-off. Empirically, efficient training algorithms are designed for the improvement of robustness.
-
 - *Fine-tuning of modern machine learning models:* It aims to theoretically understand the mystery of fine-tuning or devise expeditious and resource-efficient inference and fine-tuning methods for LLMs, enabling their deployment within constrained computational resources.
-
-Besides, I also work on *kernel methods*, *random features*, and some theoretical-oriented application topics, e.g., distribution shift. If you’re interested in, feel free to reach out.
 
 *{{<font color="red">Candidate's profile:</font>}}* The successful candidate is expected to have a solid background in applied mathematics, statistics, computer science or related discipline. Besides, applicants must also meet the University of Warwick minimum entry requirements for the MPhil/PhD course in Computer Science. Refer to [https://warwick.ac.uk/study/postgraduate/courses/compsciencephd official application process] for details, including
 
