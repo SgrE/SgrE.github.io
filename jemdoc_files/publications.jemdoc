@@ -12,10 +12,10 @@ The adversarially trained NAS benchmark (*NAS-RobBench-201*) in [https://openrev
 
 == Preprints
 
-- /Re-examining double descent and scaling laws under norm-based capacity via deterministic equivalence/. 
+- /The Shape of Generalization through the Lens of Norm-based Capacity Control/. 
 \[[https://arxiv.org/abs/2502.01585 arXiv]\]. \n
 Yichen Wang, Yudong Chen, Lorenzo Rosasco, *Fanghui Liu*. \n
-\[{{<font color="DarkMagenta">TLDR: We rigorously answer whether double descent exists under norm-based capacity as introduced in CS229 Lecture Notes (Fig. 8.12) and accordingly reshape scaling law.</font>}}\]
+\[{{<font color="DarkMagenta">TLDR: We precisely characterise how the generalisation learning curve behaves under a suitable model capacity and rigorously prove (Fig. 8.12, CS229 Lecture Notes).</font>}}\]
 
 - /Can overfitted deep neural networks in adversarial training generalize? -- An approximation viewpoint/. 
 \[[https://arxiv.org/abs/2401.13624 arXiv]\]. \n
@@ -29,10 +29,10 @@ Honam Wang, Wendao Wu, *Fanghui Liu*, Yiping Lu
 
 == Accepted Papers
 
-- /One-step full gradient suffices for low-rank fine-tuning, provably and efficiently/. 
+- /LoRA-One: One-Step Full Gradient Could Suffice for Fine-Tuning Large Language Models, Provably and Efficiently/. 
 \[[https://arxiv.org/abs/2502.01235 arXiv]\], \[[https://github.com/YuanheZ/LoRA-One code]\]. \n
 Yuanhe Zhang, *Fanghui Liu*,  Yudong Chen. \n
-\[{{<font color="DarkMagenta">TLDR: We show how theory (from subspace alignment to gradient dynamics as well as preconditioners) contributes to practical algorithm design in fine-tuning.</font>}}\] \n
+\[{{<font color="DarkMagenta">TLDR: We show how theory (from subspace alignment to gradient dynamics as well as preconditioners) contributes to practical algorithm design in fine-tuning across several benchmarks.</font>}}\] \n
 International Conference on Machine Learning (*ICML*), 2025. {{<font color="red">[Spotlight]</font>}} \n
 
 - /How gradient descent balances features: A dynamical analysis for two-layer neural networks/. 
@@ -44,7 +44,7 @@ International Conference on Learning Representations (*ICLR*), 2025.
 \[[https://arxiv.org/abs/2404.18769 arXiv]\] \n
 *Fanghui Liu*, Leello Dadi, and Volkan Cevher. \n
 Journal of Machine Learning Research (*JMLR*), 2024.\n
-\[{{<font color="DarkMagenta">TLDR: We provide the "best" trade-off between epsilon-covering and the input dimension in metric entropy. Our results can be also extended to the interpolation setting.</font>}}\]
+\[{{<font color="DarkMagenta">TLDR: We provide the "best" trade-off between sample complexity and the input dimension in high-dimensional machine learning. Our results can be also extended to the interpolation setting.</font>}}\]
 
 - /Scalable Learned Model Soup on a Single GPU: An Efficient Subspace Training Strategy/.
 \[[https://arxiv.org/abs/2407.03641 arXiv]\], \[[https://github.com/nblt/MEHL-Soup code]\] \n
