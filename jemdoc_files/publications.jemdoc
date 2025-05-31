@@ -30,9 +30,9 @@ Honam Wang, Wendao Wu, *Fanghui Liu*, Yiping Lu
 == Accepted Papers
 
 - /LoRA-One: One-Step Full Gradient Could Suffice for Fine-Tuning Large Language Models, Provably and Efficiently/. 
-\[[https://arxiv.org/abs/2502.01235 arXiv]\], \[[https://github.com/YuanheZ/LoRA-One code]\]. \n
+\[[https://arxiv.org/abs/2502.01235 arXiv]\], \[[https://github.com/YuanheZ/LoRA-One code]\], [files/LoRA-One.gif GIF illustration]. \n
 Yuanhe Zhang, *Fanghui Liu*,  Yudong Chen. \n
-\[{{<font color="DarkMagenta">TLDR: We show how theory (from subspace alignment to gradient dynamics as well as preconditioners) contributes to practical algorithm design in fine-tuning across several benchmarks.</font>}}\] \n
+\[{{<font color="DarkMagenta">TLDR: We show how theory (from subspace alignment to gradient dynamics as well as preconditioners) contributes to fine-tuning algorithm design across several benchmarks.</font>}}\] \n
 International Conference on Machine Learning (*ICML*), 2025. {{<font color="red">[Spotlight]</font>}} \n
 
 - /How gradient descent balances features: A dynamical analysis for two-layer neural networks/. 
