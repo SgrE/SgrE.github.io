@@ -51,6 +51,8 @@ My research (the past, ongoing and future) focuses on the following directions:
 - machine learning theory: what is the largest function space that can be learned by neural networks, both statistically and computationally efficiently (computational-statistical gaps)?
 - post-training in LLMs:  expand the frontiers of empirical and theoretical knowledge on when and where to fine-tune/inference, and how much we can fine-tune/inference, precisely, efficiently, and robustly
 
+My research is supported by grants from Royal Society (UK), Alan Turing Institute (UK), and DAAD (Germany).
+
 == Jobs
 
 *{{<font color="red">I am looking for motivated Ph.D. students for Fall 2026 to work with me on learning theory or principles of LLMs.</font>}}* See [https://www.lfhsgre.org/positions.html Open positions] for details.
