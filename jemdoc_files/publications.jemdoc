@@ -9,8 +9,16 @@ For the complete list, please refer to my [https://scholar.google.com/citations?
 
 The adversarially trained NAS benchmark (*NAS-RobBench-201*) in [https://openreview.net/pdf?id=cdUpf6t6LZ our ICLR24 paper] was released! See \[[https://tt2408.github.io/nasrobbench201hp/ project website]\] for details.
 
+The DAG-MATH-Formatted-CoT benchmark is released on [https://github.com/YuanheZ/DAG-MATH-Formatted-CoT code]! It includes 2,894 gold-standard DAG-MATH formatted CoTs for problems from Omni-MATH.
+
 
 == Preprints
+
+- /DAG-Math: Graph-Guided Mathematical Reasoning in LLMs/.
+\[[xxx arXiv]\], [https://github.com/YuanheZ/DAG-MATH-Formatted-CoT code]. \n
+Yuanhe Zhang, Ilja Kuzborskij, Jason D. Lee, Chenlei Leng, *Fanghui Liu*. \n
+\[{{<font color="DarkMagenta">TLDR: Different from natural languages and formal proof systems, we propose a new pipeline by modeling CoT on directed acyclic graphs (DAGs), introduce the concept of logic closeness, and then precisely evaluates the mathematical reasoning ability of LLMs via the proposed DAG-MATH format.</font>}}\]
+
 
 - /Can overfitted deep neural networks in adversarial training generalize? -- An approximation viewpoint/. 
 \[[https://arxiv.org/abs/2401.13624 arXiv]\]. \n
@@ -25,7 +33,7 @@ Honam Wang, Wendao Wu, *Fanghui Liu*, Yiping Lu
 == Accepted Papers
 
 - /The Shape of Generalization through the Lens of Norm-based Capacity Control/. 
-\[[https://arxiv.org/abs/2502.01585 arXiv]\]. \n
+\[[https://arxiv.org/abs/2502.01585 arXiv]\], \[[https://github.com/yichenblue/norm-capacity code]\]. \n
 Yichen Wang, Yudong Chen, Lorenzo Rosasco, *Fanghui Liu*. \n
 in the 39th Conference on Neural Information Processing Systems (*NeurIPS*), 2025. \n
 \[{{<font color="DarkMagenta">TLDR: We precisely characterize how the generalization learning curve behaves under a suitable model capacity and rigorously prove (Fig. 8.12, CS229 Lecture Notes).</font>}}\]
