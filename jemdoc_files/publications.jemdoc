@@ -15,7 +15,7 @@ The DAG-MATH-Formatted-CoT benchmark is released on [https://github.com/YuanheZ/
 == Preprints
 
 - /DAG-Math: Graph-Guided Mathematical Reasoning in LLMs/.
-\[[xxx arXiv]\], [https://github.com/YuanheZ/DAG-MATH-Formatted-CoT code]. \n
+\[[https://arxiv.org/abs/2510.19842 arXiv]\], \[[https://github.com/YuanheZ/DAG-MATH-Formatted-CoT code]\]. \n
 Yuanhe Zhang, Ilja Kuzborskij, Jason D. Lee, Chenlei Leng, *Fanghui Liu*. \n
 \[{{<font color="DarkMagenta">TLDR: Different from natural languages and formal proof systems, we propose a new pipeline by modeling CoT on directed acyclic graphs (DAGs), introduce the concept of logic closeness, and then precisely evaluates the mathematical reasoning ability of LLMs via the proposed DAG-MATH format.</font>}}\]
 
