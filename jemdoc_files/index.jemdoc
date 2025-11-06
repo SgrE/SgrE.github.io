@@ -5,11 +5,7 @@
 {}{img_left}{images/me.jpg}{alt text}{200px}{200px}
 = About me \n
 
-- Assistant Professor, [https://warwick.ac.uk/fac/sci/dcs/ DCS], [https://warwick.ac.uk/fac/cross_fac/dimap/ DIMAP], University of Warwick \n
-
-- [https://www.international.tum.de/global/visitingprofessors/ TUM Global Visiting Professor]
-
-- [https://ellis.eu/members/ ELLIS Member] and IEEE Senior Member
+I'm an assistant professor at [https://warwick.ac.uk/fac/sci/dcs/ Department of Computer Science], a faculty member of [https://warwick.ac.uk/fac/cross_fac/dimap/ Centre for Discrete Mathematics and its Applications (DIMAP)], an affiliated member of [https://warwick.ac.uk/fac/sci/dcs/research/focs/people/ the Division of Theory and Foundations (FoCS)], at the University of Warwick, UK, and a TUM Global Visiting Professor.
 
 Email: *x*@*y* with *x*=fanghui.liu and *y*=warwick.ac.uk \n
 
@@ -19,22 +15,18 @@ Email: *x*@*y* with *x*=fanghui.liu and *y*=warwick.ac.uk \n
 \n
 ~~~
 
-The website was updated at Nov. 2nd, 2025.
+The website was updated at Nov. 3rd, 2025.
 
 
-== About me
+#== Notice
 
-I have been an assistant professor at [https://warwick.ac.uk/fac/sci/dcs/ Department of Computer Science], a faculty member of [https://warwick.ac.uk/fac/cross_fac/dimap/ Centre for Discrete Mathematics and its Applications (DIMAP)], and an affiliated member of [https://warwick.ac.uk/fac/sci/dcs/research/focs/people/ the Division of Theory and Foundations (FoCS)], at the University of Warwick, UK since 2023.
+
 
 #Previously, I was a postdoc researcher at EPFL, Switzerland, hosted by [https://www.epfl.ch/labs/lions/people/volkan-cevher/ Prof. Volkan Cevher] from 2021 to 2023. Before that, I spent two years as a postdoc researcher at ESAT-STADIUS, KU Leuven, Belgium, hosted by [https://www.esat.kuleuven.be/sista/members/suykens.html Prof. Johan A.K. Suykens].
 
 #I obtained the Ph.D degree from Institute of Image Processing Pattern Recognition in Department of Automation, Shanghai Jiao Tong University (SJTU) in June 2019, supervised by [http://www.pami.sjtu.edu.cn/En/jieyang Prof. Jie Yang], and the B.E. degree in Automation, Harbin Institute of Technology (HIT) in 2014.
 
-Here is my [files/CV_Fanghui.pdf CV].
-
-We're organising [https://ijcvsi25pt.github.io/ *{{<font color="DarkMagenta"> IJCV Special Issue on Post-Training in Large Language Models for Computer Vision</font>}}*]!
-
-We're organising [https://faiseminarswarwick.github.io/ *{{<font color="DarkMagenta">Warwick Foundation of AI seminar</font>}}*]!
+#Here is my [files/CV_Fanghui.pdf CV].
 
 
 #== Education
@@ -55,6 +47,8 @@ My research (the past, ongoing and future) focuses on the following directions:
 - post-training in LLMs:  expand the frontiers of empirical and theoretical knowledge on when and where to fine-tune/inference, and how much we can fine-tune/inference, precisely, efficiently, and robustly
 
 My research is supported by grants from Royal Society (UK), Alan Turing Institute (UK), and DAAD (Germany).
+
+We're organising [https://ijcvsi25pt.github.io/ *{{<font color="DarkMagenta"> IJCV Special Issue on Post-Training in Large Language Models for Computer Vision</font>}}*]!
 
 == Jobs
 
