@@ -1,16 +1,14 @@
 # jemdoc: menu{MENU}{index.html}
-== Welcome to Fanghui Liu (刘方辉)'s Homepage!
+== Welcome to Fanghui Liu's Homepage!
 
 ~~~
 {}{img_left}{images/me.jpg}{alt text}{200px}{200px}
 = About me \n
 
-I received my Bachelor’s degree in Automation from Harbin Institute of Technology in 2014 and my PhD degree from Shanghai Jiao Tong University (SJTU) in 2019. I subsequently held postdoctoral research positions at KU Leuven and EPFL from 2019 to 2023. After that, I have held faculty or affiliated positions at the University of Warwick (Department of Computer Science and the Centre for Discrete Mathematics and its Applications, DIMAP), the Technical University of Munich (Global Visiting Professor), and Shanghai Jiao Tong University (Institute of Natural Sciences, School of Mathematical Sciences) since 2025.
+I received my Bachelor’s degree in Automation from Harbin Institute of Technology in 2014 and my PhD degree from Shanghai Jiao Tong University (SJTU) in 2019. I subsequently held postdoctoral research positions at KU Leuven and EPFL from 2019 to 2023. After that, I have held faculty positions (or affiliated) at the University of Warwick (Department of Computer Science and the Centre for Discrete Mathematics and its Applications, DIMAP), the Technical University of Munich (Global Visiting Professor), and Shanghai Jiao Tong University (Institute of Natural Sciences, School of Mathematical Sciences) since 2025.
 
-Email: *x*@*y* with *x*=fanghui.liu and *y*=sjtu.edu.cn or warwick.ac.uk or epfl.ch \n
+Email: *x*@*y* with *x*=fanghui.liu and *y*=sjtu.edu.cn *{{<font color="red">or</font>}}* warwick.ac.uk *{{<font color="red">or</font>}}* epfl.ch \n
 
-\[[https://scholar.google.com/citations?user=AKxBgssAAAAJ Google Scholar]\] 
-\n
 ~~~
 
 The website was updated at Dec. 18th, 2025.
@@ -58,82 +56,6 @@ Due to a large number of requests, I, unfortunately, may not be able to reply to
 
 #Warwick has a strong research direction on TCS, mathematics, and statistics. If you would like to work with me on machine learning theory or theoretical-oriented application topics, feel free to reach out by sending me an email with your CV and transcript. Besides, I will appreciate if you include a short description about your motivation and some highlights of your past experience or achievements.
 
-
-== News
-
-- \[2025-10\] I was selected to [https://www.international.tum.de/global/visitingprofessors/ TUM Global Visiting Professor Program].
-
-- \[2025-10\] One paper on a new pipeline for step-level CoT was released on [https://arxiv.org/abs/2510.19842 arXiv].
-
-
-- \[2025-09\] One paper on precise characterization of generalization curve was accepted by NeurIPS'25. Congratulations to Yichen! *{{<font color="DarkMagenta">See you at San Diego</font>}}*
-
-- \[2025-09\] I obtained the Advanced HE fellowship certificate for UK high education.
-
-- \[2025-08\] I will be the area chair of ICLR'26 and AISTATS'26.
-
-- \[2025-08\] I attended the [https://delta-workshop.github.io/deep-learning-theory-2025 Deep Learning Theory Workshop 2025] and gave a talk about LoRA-One.
-
-- \[2025-05\] One paper on fine-tuning (LoRA-One) was accepted by ICML'25 as Oral. Congratulations to Yuanhe!
-
-- \[2025-03\] I will be the area chair of NeurIPS'25.
-
-- \[2025-02\] Attended [https://ita.ucsd.edu/workshop/ 2025 ITA Workshop] and visited UCLA.
-
-- \[2025-01\] One paper was accepted by ICLR'25. It's about how gradient descent balances features after weak recovery.
-
-- \[2024-12\] We organised one workshop [https://sites.google.com/view/neurips2024-ftw/home *{{<font color="red">Fine-Tuning in Modern Machine Learning: Principles and Scalability</font>}}*] at NeurIPS 2024!
-
-- \[2024-09\] I will attend [https://www.crm.cat/mathematical-aspects-of-learning-theory/ Mathematical Aspects of Learning Theory Workshop - 20 years later].
-
-- \[2025-08\] I will be the area chair of ICLR'25 and AISTATS'25.
-
-- \[2024-05\] Two papers were accepted by ICML 2024: one is about high dimensional kernel methods under distribution shift; one is about adversarial attack on foundation models.
-
-- \[2024-04\] One paper was accepted by JMLR on the separation between kernel methods and neural networks from the perspective of function space.
-
-- \[2023-04\] We will give a tutorial entitled *Scaling and Reliability Foundations in Machine Learning* at 2024 IEEE International Symposium on Information Theory (ISIT) in Athens, Greece at July.
-
-- \[2024-04\] Awarded the [https://www.daad.de/en/the-daad/postdocnet/details-and-application/ DAAD AInet Fellowship], which is awarded to outstanding early career researchers. Topic: Safety and Security in AI.
-
-- \[2024-03\] The adversarially trained NAS benchmark (*NAS-RobBench-201*) in [https://openreview.net/pdf?id=cdUpf6t6LZ our ICLR24 paper] was released! See \[[https://tt2408.github.io/nasrobbench201hp/ project website]\] for details.
-
-- \[2024-01\] Three papers were accepted by ICLR 2024: generalization of ResNets; robust NAS from benchmark to theory; local-linearity for catastrophic overfitting. *{{<font color="DarkMagenta">I will be at Vienna. Feel free to chat.</font>}}*
-
-- \[2023-12\] Selected to give a talk at [https://aaai.org/aaai-conference/aaai-24-new-faculty-highlights/ AAAI 2024 New Faculty Highlights].
-
-- \[2023-09\] Two papers were accepted by NeurIPS 2023: one is about global convergence of Transformers; the other one is how over-parameterization affects differential privacy. *{{<font color="DarkMagenta">I will be at New Orleans (again and again). Feel free to chat.</font>}}*
-
-- \[2023-06\] Here is the slides of our [files/CVPR_tutorial.pdf CVPR 2023 tutorial].
-
-- \[2023-06\] Here is the slides of our [files/ICASSP23_tutorial.pdf ICASSP 2023 tutorial].
-
-- \[2023-04\] Two papers were accepted by ICML 2023: one is about function approximation in online RL; the other one is related to benign overfitting. *{{<font color="DarkMagenta">I will be at Hawaii! Feel free to chat.</font>}}*
-
-- \[2023-04\] Selected as a [https://iclr.cc/Conferences/2023/Reviewers Notable Reviewer] for ICLR 2023.
-
-- \[2023-02\] We will give a tutorial entitled *Deep learning theory for computer vision* at IEEE CVPR 2023 in Vancouver, Canada.
-
-- \[2023-02\] I will attend [https://cemse.kaust.edu.sa/ai/aii-symp-2023 the Rising Stars in AI Symposium 2023] at KAUST in Saudi Arabia (Feb. 19-21).
-
-- \[2022-12\] We will give a tutorial entitled *Neural networks: the good, the bad, the ugly* at IEEE ICASSP 2023 in the Greek island of Rhodes.
-
-- \[2022-09\] Six papers were accepted by NeurIPS 2022.
-
-- \[2021-10\] One paper on double descent of RFF with SGD was posted on 
-[https://arxiv.org/abs/2110.06910 arXiv].
-
-- \[2021-10\] One paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence.
-
-- \[2021-07\] One paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence.
-
-- \[2021-06\] One paper was accepted by Journal of Machine Learning Research.
-
-- \[2021-02\] One paper was accepted by Machine Learning.
-
-- \[2021-01\] Two papers were accepted by AISTATS 2021.
-
-- \[2020-10\] One paper was accepted by Journal of Machine Learning Research.
 
 == Visitors
 ~~~
