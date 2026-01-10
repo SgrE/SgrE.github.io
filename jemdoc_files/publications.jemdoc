@@ -2,6 +2,7 @@
 == Publications 
 
 For the complete list, please refer to my [https://scholar.google.com/citations?user=AKxBgssAAAAJ Google Scholar Profile].
+I normally add "TLDR" for the selected publications.
 
 \* indicates equal contribution
 
@@ -20,17 +21,18 @@ Yuanhe Zhang, Ilja Kuzborskij, Jason D. Lee, Chenlei Leng, *Fanghui Liu*. \n
 \[{{<font color="DarkMagenta">TLDR: Different from natural languages and formal proof systems, we propose a new pipeline by modeling CoT on directed acyclic graphs (DAGs), introduce the concept of logic closeness, and then precisely evaluates the mathematical reasoning ability of LLMs via the proposed DAG-MATH format.</font>}}\]
 
 
-- /Can overfitted deep neural networks in adversarial training generalize? -- An approximation viewpoint/. 
-\[[https://arxiv.org/abs/2401.13624 arXiv]\]. \n
-Zhongjie Shi, *Fanghui Liu*,  Yuan Cao, Johan A.K. Suykens. \n
-\[{{<font color="DarkMagenta">TLDR: We rigorously prove when can we avoid robust overfitting from the approximation side.</font>}}\]
-
 - /Benign overfitting in Fixed Dimension via Physics-Informed Learning with Smooth Inductive Bias/.
 \[[https://arxiv.org/abs/2406.09194 arXiv]\]. \n
 Honam Wang, Wendao Wu, *Fanghui Liu*, Yiping Lu
 
 
 == Accepted Papers
+
+- /Can overfitted deep neural networks in adversarial training generalize? -- An approximation viewpoint/. 
+\[[https://arxiv.org/abs/2401.13624 arXiv]\]. \n
+Zhongjie Shi, *Fanghui Liu*,  Yuan Cao, Johan A.K. Suykens. \n
+SIAM Journal on Mathematics of Data Science (*SIMODS*), 2026. \n
+\[{{<font color="DarkMagenta">TLDR: We rigorously prove when can we avoid robust overfitting from the approximation side.</font>}}\]
 
 - /The Shape of Generalization through the Lens of Norm-based Capacity Control/. 
 \[[https://arxiv.org/abs/2502.01585 arXiv]\], \[[https://github.com/yichenblue/norm-capacity code]\]. \n
