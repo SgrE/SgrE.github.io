@@ -8,12 +8,17 @@ I normally add "TLDR" for the selected publications.
 
 == {{<font color="red">Benchmark</font>}}
 
-The adversarially trained NAS benchmark (*NAS-RobBench-201*) in [https://openreview.net/pdf?id=cdUpf6t6LZ our ICLR24 paper] was released! See \[[https://tt2408.github.io/nasrobbench201hp/ project website]\] for details.
+- The adversarially trained NAS benchmark (*NAS-RobBench-201*) in [https://openreview.net/pdf?id=cdUpf6t6LZ our ICLR24 paper] was released! See \[[https://tt2408.github.io/nasrobbench201hp/ project website]\] for details.
 
-The DAG-MATH-Formatted-CoT benchmark is released on [https://github.com/YuanheZ/DAG-MATH-Formatted-CoT code]! It includes 2,894 gold-standard DAG-MATH formatted CoTs for problems from Omni-MATH.
+- The DAG-MATH-Formatted-CoT benchmark is released on [https://github.com/YuanheZ/DAG-MATH-Formatted-CoT code]! It includes 2,894 gold-standard DAG-MATH formatted CoTs for problems from Omni-MATH.
 
 
 == Preprints
+
+- /Statistical Learning Theory in Lean 4: Empirical Processes from Scratch/.
+\[[https://www.arxiv.org/abs/2602.02285 arXiv]\], \[[https://github.com/YuanheZ/lean-stat-learning-theory code]\]. \n
+Yuanhe Zhang, Jason D. Lee, *Fanghui Liu*. \n
+\[{{<font color="DarkMagenta">TLDR: We present the first comprehensive Lean 4 formalization of statistical learning theory (SLT) grounded in empirical process theory from scratch. It includes High-Dimensional Gaussian Analysis Toolbox and  Dudley’s Entropy Integral Bound.</font>}}\]
 
 
 - /Benign overfitting in Fixed Dimension via Physics-Informed Learning with Smooth Inductive Bias/.
