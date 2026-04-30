@@ -15,11 +15,6 @@ I normally add "TLDR" for the selected publications.
 
 == Preprints
 
-- /Statistical Learning Theory in Lean 4: Empirical Processes from Scratch/.
-\[[https://www.arxiv.org/abs/2602.02285 arXiv]\], \[[https://github.com/YuanheZ/lean-stat-learning-theory code]\]. \n
-Yuanhe Zhang, Jason D. Lee, *Fanghui Liu*. \n
-\[{{<font color="DarkMagenta">TLDR: We present the first comprehensive Lean 4 formalization of statistical learning theory (SLT) grounded in empirical process theory from scratch. It includes High-Dimensional Gaussian Analysis Toolbox and  Dudley’s Entropy Integral Bound.</font>}}\]
-
 
 - /Self-Regularized Learning Methods/.
 \[[https://arxiv.org/abs/2603.17160 arXiv]\]. \n
@@ -33,6 +28,13 @@ Honam Wang, Wendao Wu, *Fanghui Liu*, Yiping Lu
 
 
 == Accepted Papers
+
+
+- /Statistical Learning Theory in Lean 4: Empirical Processes from Scratch/.
+\[[https://www.arxiv.org/abs/2602.02285 arXiv]\], \[[https://github.com/YuanheZ/lean-stat-learning-theory code]\]. \n
+Yuanhe Zhang, Jason D. Lee, *Fanghui Liu*. \n
+International Conference on Machine Learning (*ICML*), 2026. \n
+\[{{<font color="DarkMagenta">TLDR: We present the first comprehensive Lean 4 formalization of statistical learning theory (SLT) grounded in empirical process theory from scratch. It includes High-Dimensional Gaussian Analysis Toolbox and  Dudley’s Entropy Integral Bound.</font>}}\]
 
 - /DAG-Math: Graph-Guided Mathematical Reasoning in LLMs/.
 \[[https://arxiv.org/abs/2510.19842 arXiv]\], \[[https://github.com/YuanheZ/DAG-MATH-Formatted-CoT code]\]. \n
