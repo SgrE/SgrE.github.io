@@ -15,6 +15,11 @@ I normally add "TLDR" for the selected publications.
 
 == Preprints
 
+- /How does feature learning reshape the function space?/.
+\[[https://arxiv.org/abs/2605.17718 arXiv]\]. \n
+João Lobo, Bruno Loureiro, Long Tran-Than, Fanghui Liu. \n
+\[{{<font color="DarkMagenta">TLDR: We demonstrate that, after one-step gradient descent, feature learning can be interpreted as a distributional transformation in either parameter space or input space.</font>}}\]
+
 
 - /Self-Regularized Learning Methods/.
 \[[https://arxiv.org/abs/2603.17160 arXiv]\]. \n
