@@ -6,13 +6,14 @@ I normally add "TLDR" for the selected publications.
 
 \* indicates equal contribution
 
+== {{<font color="red">Benchmark</font>}}
+
+- The adversarially trained NAS benchmark (*NAS-RobBench-201*) in [https://openreview.net/pdf?id=cdUpf6t6LZ our ICLR24 paper] was released! See \[[https://tt2408.github.io/nasrobbench201hp/ project website]\] for details.
+
+- The DAG-MATH-Formatted-CoT benchmark is released on [https://github.com/YuanheZ/DAG-MATH-Formatted-CoT code]! It includes 2,894 gold-standard DAG-MATH formatted CoTs for problems from Omni-MATH.
+
+
 == Preprints
-
-- /LeanMarathon: Toward Reliable AI Co-Mathematicians through Long-Horizon Lean Autoformalization/.
-\[[https://arxiv.org/abs/2606.05400 arXiv]\], \[[https://github.com/YuanheZ/LeanMarathon code]\], \[[files/lean.gif GIF illustration]\], \[[https://yuanhez.github.io/loraoneofficial/ project website]\]. \n
-Yuanhe Zhang, Yuekai Sun, Taiji Suzuki, Jason D. Lee, *Fanghui Liu*. \n
-\[{{<font color="DarkMagenta">TLDR: Autoformalization of math research-level papers by Lean 4 is possible under our harness engineering, exemplified by Erdős problems.</font>}}\]
-
 
 - /How does feature learning reshape the function space?/.
 \[[https://arxiv.org/abs/2605.17718 arXiv]\]. \n
