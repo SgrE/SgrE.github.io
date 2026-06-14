@@ -1,9 +1,9 @@
 # jemdoc: menu{MENU}{talk.html}, nofooter
 == Talks
 
-- [files/2025_norm_capacity.pdf Be aware of model capacity when talking about generalization in machine learning] at INRIA, LSE, Oxford, HKUST, Fudan 2025.
+- [files/talk_varphi_curve.pdf The \varphi curve: Generalization under scaling via norm-based capacities] at INRIA, LSE, Oxford, HKUST, Fudan.
 
-- [files/talk_LoRA-One.pdf One-step full gradient suffices for low-rank fine-tuning, provably and efficiently] at Deepmind, HKUST, CityU, SJTU, UCLA 2025.
+- [files/talk_LoRA-One.pdf One-step full gradient suffices for low-rank fine-tuning, provably and efficiently] at TUM, Deepmind, HKUST, CityU, SJTU, UCLA.
 
 - [files/talk_INRIA.pdf Learning with norm-based neural networks: model capacity, function spaces, and computational-statistical gaps] at INRIA, Stuttgart, LMU, UW-Madison, 2024.
 
