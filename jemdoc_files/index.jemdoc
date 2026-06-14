@@ -61,7 +61,10 @@ My research is supported by grants from Royal Society (UK), Alan Turing Institut
 
 
 == Visitors
-~~~
-{}{raw}
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=260&t=tt&d=CSj_lwkJPnjLuoGvBe6VD-xJaql8MX8sFoN-GPUfX38&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
-~~~
+
+<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "be9a57fa532d4b09961cc272a229dd13"}'></script><!-- End Cloudflare Web Analytics -->
+
+#~~~
+#{}{raw}
+#<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?#cl=080808&w=260&t=tt&d=CSj_lwkJPnjLuoGvBe6VD-xJaql8MX8sFoN-#GPUfX38&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+#~~~
