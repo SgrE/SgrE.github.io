@@ -1,21 +1,23 @@
 # jemdoc: menu{MENU}{talk.html}, nofooter
 == Talks
 
-- [files/talk_varphi_curve.pdf The \varphi curve: Generalization under scaling via norm-based capacities] at INRIA, LSE, Oxford, HKUST, Fudan.
+- [files/talk_AI4SLT.pdf AI for Statistical Learning Theory (in Lean 4)] 
 
-- [files/talk_LoRA-One.pdf One-step full gradient suffices for low-rank fine-tuning, provably and efficiently] at TUM, Deepmind, HKUST, CityU, SJTU, UCLA.
+- [files/talk_varphi_curve.pdf The \varphi curve: Generalization under scaling via norm-based capacities]
 
-- [files/talk_INRIA.pdf Learning with norm-based neural networks: model capacity, function spaces, and computational-statistical gaps] at INRIA, Stuttgart, LMU, UW-Madison, 2024.
+- [files/talk_LoRA-One.pdf One-step full gradient suffices for low-rank fine-tuning, provably and efficiently]
 
-- [files/talk_MaLGa.pdf From kernel methods to neural networks: double descent, function spaces, curse of dimensionality] at Gatsby, UCL; University of Warwick (Statistics Seminar, 2024); University of Genoa (MaLGa Seminar, 2024)
+- [files/talk_INRIA.pdf Learning with norm-based neural networks: model capacity, function spaces, and computational-statistical gaps]
 
-- [files/talk_robust_overfitting.pdf Can we avoid robust overfitting in adversarial training?- An approximation viewpoint (regression part)] at EPFL, UW-Madison (MLOPT Idea Seminar, 2024)
+- [files/talk_MaLGa.pdf From kernel methods to neural networks: double descent, function spaces, curse of dimensionality] 
 
-- [files/talk_AAAI24_Fanghui.pdf The role of over-parameterisation in machine learning - the good, the bad, the ugly (from the function space perspective)] at New Faculty Highlights, AAAI 2024
+- [files/talk_robust_overfitting.pdf Can we avoid robust overfitting in adversarial training?- An approximation viewpoint (regression part)]
 
-- [files/talk_UBC_transformer.pdf On the Convergence of Encoder-only Shallow Transformers] at UBC (MILD Seminar 2024)
+#- [files/talk_AAAI24_Fanghui.pdf The role of over-parameterisation in machine learning - the good, the bad, the ugly (from the function space perspective)] at New Faculty Highlights, AAAI 2024
 
-- [files/NeurIPS22-robustness.pdf Robustness in deep learning: the good, the bad, the ugly] at KAUST (Rising Stars in AI Symposium 2023)
+#- [files/talk_UBC_transformer.pdf On the Convergence of Encoder-only Shallow Transformers] at UBC (MILD Seminar 2024)
+
+#- [files/NeurIPS22-robustness.pdf Robustness in deep learning: the good, the bad, the ugly] at KAUST (Rising Stars in AI Symposium 2023)
 
 
 
