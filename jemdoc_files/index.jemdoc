@@ -4,18 +4,24 @@
 ~~~
 {}{img_left}{images/me.jpg}{alt text}{200px}{200px}
 
-I received my Bachelor’s degree in Automation from Harbin Institute of Technology in 2014 and my PhD degree from Shanghai Jiao Tong University (SJTU) in 2019. I subsequently held postdoctoral research positions at KU Leuven and EPFL from 2019 to 2023. After that, I have held a faculty position as an assistant professor at [https://warwick.ac.uk/fac/sci/dcs/research/fam/ FAM Division] at Department of Computer Science, University of Warwick and affliated at the Centre for Discrete Mathematics and its Applications, DIMAP; Global Visiting Professor at the Technical University of Munich. Currently I'm a tenure-track associate professor at Institute of Natural Sciences, PhD supervisor in School of Mathematical Sciences and School of Artifical Intelligence, Shanghai Jiao Tong University.
+I'm currently a tenure-track associate professor at Institute of Natural Sciences and School of Mathematical Sciences, Shanghai Jiao Tong University (SJTU). I have also been held a Global Visiting Professor at Technical University of Munich, Germany. Previously, I was an assistant professor at University of Warwick, UK ([https://warwick.ac.uk/fac/sci/dcs/research/fam/ FAM Division] and affiliated at [https://warwick.ac.uk/fac/cross_fac/dimap/ DIMAP]). Before my faculty position, I was a postdoc researcher at KU Leuven and EPFL from 2019 to 2023. I received my Bachelor’s degree in Automation from Harbin Institute of Technology in 2014 and my PhD degree from Shanghai Jiao Tong University in 2019.
+
 
 ~~~
 
 Email: *x*@*y* with *x*={{<font color="red">fanghui.liu</font>}}, *y*={{<font color="blue">sjtu.edu.cn</font>}} or {{<font color="blue">warwick.ac.uk</font>}}  \n
 
+
+
+I serve as a PhD supervisor in School of Mathematical Sciences and School of Artificial Intelligence, Shanghai Jiao Tong University.
+
 *{{<font color="red">The PhD position for 2027 Fall is temporally fulfilled.</font>}}* See [https://www.lfhsgre.org/positions.html Open positions] for details.
 
 
-We're organising a workshop on [https://ml-math-2026.github.io/ *{{<font color="DarkMagenta"> Mathematical Foundations of Modern Machine Learning</font>}}*] at Peking University!
 
-We're organising [https://ijcvsi25pt.github.io/ *{{<font color="DarkMagenta"> IJCV Special Issue on Post-Training in Large Language Models for Computer Vision</font>}}*]!
+#We're organising a workshop on [https://ml-math-2026.github.io/ *{{<font color="DarkMagenta"> Mathematical Foundations of Modern Machine Learning</font>}}*] at Peking University!
+
+#We're organising [https://ijcvsi25pt.github.io/ *{{<font color="DarkMagenta"> IJCV Special Issue on Post-Training in Large Language Models for Computer Vision</font>}}*]!
 
 #The website was updated at Dec. 22nd, 2025.
 
@@ -68,7 +74,10 @@ Due to a large number of requests, I, unfortunately, may not be able to reply to
 
 == Visitors
 
-<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "be9a57fa532d4b09961cc272a229dd13"}'></script><!-- End Cloudflare Web Analytics -->
+~~~
+{}{raw}
+<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=USmG-Oo5DRD91olRaGFQiRdrobLfIIOwltRGfQNEDzo"></script>
+~~~
 
 #~~~
 #{}{raw}
