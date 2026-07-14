@@ -1,6 +1,8 @@
 # jemdoc: menu{MENU}{talk.html}, nofooter
 == Talks
 
+- [files/talk_IEEE_summer_school.pdf MATH4AI and AI4MATH at IEEE Summer School] 
+
 - [files/talk_AI4SLT.pdf AI for Statistical Learning Theory (in Lean 4)] 
 
 - [files/talk_varphi_curve.pdf The \varphi curve: Generalization under scaling via norm-based capacities]

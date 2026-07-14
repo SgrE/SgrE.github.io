@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{index.html}
-== Welcome to Fanghui Liu's Homepage!
+== Welcome to Fanghui Liu's Homepage! [https://ins.sjtu.edu.cn/people/fanghui/ 中文版]
 
 ~~~
 {}{img_left}{images/me.jpg}{alt text}{200px}{200px}
@@ -74,10 +74,18 @@ Due to a large number of requests, I, unfortunately, may not be able to reply to
 
 == Visitors
 
-~~~
 {}{raw}
-<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=USmG-Oo5DRD91olRaGFQiRdrobLfIIOwltRGfQNEDzo"></script>
-~~~
+<div style="zoom:0.6;">
+<script type="text/javascript"
+        id="mmvst_globe"
+        src="//mapmyvisitors.com/globe.js?d=USmG-Oo5DRD91olRaGFQiRdrobLfIIOwltRGfQNEDzo">
+</script>
+</div>
+
+#~~~
+#{}{raw}
+#<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=USmG-#Oo5DRD91olRaGFQiRdrobLfIIOwltRGfQNEDzo"></script>
+#~~~
 
 #~~~
 #{}{raw}
