@@ -77,9 +77,7 @@ Due to a large number of requests, I, unfortunately, may not be able to reply to
 ~~~
 {}{raw}
 <div style="width:200px; height:200px; margin:0 auto;">
-  <script type="text/javascript" id="mmvst_globe"
-        src="//mapmyvisitors.com/globe.js?d=USmG-Oo5DRD91olRaGFQiRdrobLfIIOwltRGfQNEDzo">
-  </script>
+  <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=USmG-Oo5DRD91olRaGFQiRdrobLfIIOwltRGfQNEDzo"></script>
 </div>
 ~~~
 
