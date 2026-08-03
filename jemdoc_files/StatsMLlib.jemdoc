@@ -1,0 +1,14 @@
+# jemdoc: menu{MENU}{awards.html}, nofooter
+
+
+We release [https://statsmllib.github.io/ StatsMLlib] that develops concentration of measure, metric entropy and chaining, empirical processes, Rademacher complexity, random matrix theory, and finite-sample learning guarantees as formal mathematics in Lean 4. Together, these results provide a unified foundation for probability, statistics, and machine learning, with every proof checked by the Lean 4 kernel.
+
+== Organizers:
+
+- Fanghui Liu, Jason D. Lee, Peter Bartlett, Weijie Su, Taiji Suzuki, Yuekai Sun, Aleksandar Mijatović, Sho Sonoda
+
+== Contributors:
+
+- Yuanhe Zhang, Sho Sonoda, Kei Tsukamoto, Kazumi Kasaura, Naoto Onda, Yuma Mizuno, and Kevin Han Huang, and [https://statsmllib.github.io/contribute.html {{<font color="red">Your name here</font>}}]
+
+See more details on https://statsmllib.github.io/
