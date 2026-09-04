@@ -4,9 +4,7 @@
 ~~~
 {}{img_left}{images/me.jpg}{alt text}{200px}{200px}
 
-刘方辉，上海交通大学[https://ins.sjtu.edu.cn/topics/overview 自然科学研究院]与[https://math.sjtu.edu.cn/ 数学科学学院]长聘教轨副教授，数学学院与人工智能学院博士生导师。研究方向为机器学习数学理论与大模型机理分析。其主要研究工作包括函数空间视角下的机器学习理论、尺度扩展下的泛化理论，并进一步推动其在大模型微调与参数高效训练中的应用以及AI4MLT的形式化。
-
-2014年本科毕业于哈尔滨工业大学自动化系，2019 年博士毕业于上海交通大学，曾在 KU Leuven、EPFL 从事博士后研究，之后在英国 University of Warwick担任助理教授，兼任离散数学与应用中心成员及理论计算机组客座研究员。2023年入选国家高层次人才青年项目，2024年获得AAAI新教师奖，2025年入选TUM全球访问教授计划，2026年获得美国美国数学与统计创新研究所（IMSI）长期访问学者资助项目。主办 NeurIPS 2024“大模型微调：从理论到应用”研讨会以及NeurIPS'26研讨会，受邀担任IJCV大模型微调专刊客座编辑。在 ICASSP’23、CVPR’23、ISIT’24 等国际顶级会议上主讲tutorial。担任NeurIPS、ICLR、AISTATS等会议领域主席。担任英国EPSRC、香港RGC项目评审人等。
+刘方辉，上海交通大学[https://ins.sjtu.edu.cn/topics/overview 自然科学研究院]与[https://math.sjtu.edu.cn/ 数学科学学院]长聘教轨副教授，数学学院与人工智能学院博士生导师。之前在英国University of Warwick担任助理教授，兼任离散数学与应用中心成员及理论计算机组客座研究员，慕尼黑工业大学全球访问教授。2023年入选国家高层次人才青年项目，2024年获得AAAI新教师奖，2026年获得美国美国数学与统计创新研究所（IMSI）长期访问学者资助项目。在此之前，2014年本科毕业于哈尔滨工业大学自动化系，2019 年博士毕业于上海交通大学，曾在 KU Leuven、EPFL 从事博士后研究。主办 NeurIPS 2024“大模型微调：从理论到应用”研讨会以及NeurIPS'26研讨会，受邀担任IJCV大模型微调专刊客座编辑。在 ICASSP’23、CVPR’23、ISIT’24 等会议上主讲tutorial。担任NeurIPS、ICLR、AISTATS等会议领域主席。
 
 
 ~~~
@@ -17,9 +15,9 @@
 *{{<font color="red"> 招生更新：</font>}}*  暂时已确定若干有意向的*已入选数院夏令营的本科优秀营员*（数学与应用数学方向，无法招收统计方向）。申请考核制学生（例如有硕士学位）请关注后续数学学院网站通知，目前暂时无法招收，无需发邮件咨询（我会在我主页上进行更新）。2026年秋季入学硕士生入学后确定导师。</font>}}* 具体见招生信息。
 
 
-我们正在组织机器学习的数学理论研讨会 [https://ml-math-2026.github.io/ *{{<font color="DarkMagenta"> Mathematical Foundations of Modern Machine Learning</font>}}*] \n
+#我们正在组织机器学习的数学理论研讨会 [https://ml-math-2026.github.io/ *{{<font color="DarkMagenta"> Mathematical Foundations of Modern Machine Learning</font>}}*] \n
 
-我们正在组织IJCV专刊：[https://ijcvsi25pt.github.io/ *{{<font color="DarkMagenta"> IJCV Special Issue on Post-Training in Large Language Models for Computer Vision</font>}}*] \n
+#我们正在组织IJCV专刊：[https://ijcvsi25pt.github.io/ *{{<font color="DarkMagenta"> IJCV Special Issue on Post-Training in Large Language Models for Computer Vision</font>}}*] \n
 
 
 == 研究兴趣 
