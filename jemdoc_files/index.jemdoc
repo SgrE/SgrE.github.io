@@ -12,7 +12,7 @@ I'm currently a tenure-track associate professor at Institute of Natural Science
 Email: *x*@*y* with *x*={{<font color="red">fanghui.liu</font>}}, *y*={{<font color="blue">outlook.com</font>}} or {{<font color="blue">sjtu.edu.cn</font>}}  \n
 
 
-*{{<font color="red"> Updates: The PhD position for 2027 Fall is temporally fulfilled.</font>}}*  暂时已确定若干有意向的*已入选数院夏令营的本科优秀营员*（数学与应用数学方向，无法招收统计方向）。申请考核制学生（例如有硕士学位）请关注后续数学学院网站通知，目前暂时无法招收，无需发邮件咨询（我会在我主页上进行更新）。See [https://www.lfhsgre.org/positions.html Open positions] for details.
+*{{<font color="red"> Updates: The PhD position for 2027 Fall is temporally fulfilled. I have no plan to recruit postdoc researchers.</font>}}*  暂时已确定若干有意向的*已入选数院夏令营的本科优秀营员*（数学与应用数学方向，无法招收统计方向）。申请考核制学生（例如有硕士学位）请关注后续数学学院网站通知，目前暂时无法招收，无需发邮件咨询（我会在我主页上进行更新）。See [https://www.lfhsgre.org/positions.html Open positions] for details.
 
 
 
@@ -35,14 +35,6 @@ We release [https://statsmllib.github.io/ StatsMLlib] that develops probability,
 #Here is my [files/CV_Fanghui.pdf CV].
 
 
-#== Education
-#- Ph.D. in Department of Automation (Pattern Recognition and Intelligent Systems), Shanghai Jiao Tong University, Sep. 2014 - Jun. 2019
-#- B.S. in Department of Automation, Harbin Institute of Technology, Sep. 2010 - Jun. 2014
-
-== Research Interests 
-#- Statistical machine learning, kernel methods, learning theory
-#- Computer Vision
-
 I'm generally interested in *foundations of modern machine learning* from the lens of *learning efficiency*, both theoretically and empirically. My research is always contributing to how to *handle nonlinearity at a theoretical level* and how to precisely and efficiently *approximate nonlinearity at a practical level* under theoretical guidelines, which is a longstanding question over science, technology and engineering.
 ~~~
 {}{img_left}{images/RS_mini.jpg}{alt text}{850px}{220px}
@@ -50,25 +42,11 @@ I'm generally interested in *foundations of modern machine learning* from the le
 
 My research (the past, ongoing and future) focuses on the following directions:
 - machine learning theory: what is the largest function space that can be learned by neural networks, both statistically and computationally efficiently (computational-statistical gaps)?
+- LLM pertaining: the principles of scaling laws, training dynamics
 - post-training in LLMs:  expand the frontiers of empirical and theoretical knowledge on when and where to fine-tune/inference, and how much we can fine-tune/inference, precisely, efficiently, and robustly
-- AI4MLT: AI for machine learning theory, lean formalisation
+- AI4MLT: AI for machine learning theory, lean auto-formalisation
 
 #My research was supported by grants from Royal Society (UK), Alan Turing Institute (UK), and DAAD (Germany).
-
-#== Jobs
-
-
-At SJTU, see more details in [https://ins.sjtu.edu.cn/people/fanghui/ my homepage (Chinese version)].
-
-#*{{<font color="red">The position for 2026 Fall is fulfilled.</font>}}* See [https://www.lfhsgre.org/positions.html Open positions] for details.
-
-#As our department requires a research proposal as part of the PhD application, I strongly encourage interested candidates to contact me *in advance of the application deadline* (check [https://warwick.ac.uk/fac/sci/dcs/research/cscdt/fundingadvice website] for details). If you are a strong fit based on my evaluation, I will spend some time to support you in preparing a competitive proposal and application.
-
-I will not take any new students at Warwick. Warwick has a strong research direction on TCS, mathematics, and statistics. Feel free to reach out to my previous colleagues at Warwick.
-
-Due to a large number of requests, I, unfortunately, may not be able to reply to all the emails regarding PhD applications. However, I'll look at applicants that have sent me emails and contact you soon if your enquires are indeed inline with my research.
-
-#If you would like to work with me on machine learning theory or theoretical-oriented application topics, feel free to reach out by sending me an email with your CV and transcript. Besides, I will appreciate if you include a short description about your motivation and some highlights of your past experience or achievements.
 
 
 == Visitors
