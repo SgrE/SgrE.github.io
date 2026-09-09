@@ -32,11 +32,13 @@ We release [https://statsmllib.github.io/ StatsMLlib] that develops probability,
 
 #Here is my [files/CV_Fanghui.pdf CV].
 
+== Research Interests
 
 I'm generally interested in *foundations of modern machine learning* from the lens of *learning efficiency*, both theoretically and empirically. My research is always contributing to how to *handle nonlinearity at a theoretical level* and how to precisely and efficiently *approximate nonlinearity at a practical level* under theoretical guidelines, which is a longstanding question over science, technology and engineering.
 ~~~
 {}{img_left}{images/RS_mini.jpg}{alt text}{850px}{220px}
 ~~~
+
 
 My research (the past, ongoing and future) focuses on the following directions:
 - machine learning theory: what is the largest function space that can be learned by neural networks, both statistically and computationally efficiently (computational-statistical gaps)?
@@ -46,7 +48,7 @@ My research (the past, ongoing and future) focuses on the following directions:
 
 #My research was supported by grants from Royal Society (UK), Alan Turing Institute (UK), and DAAD (Germany).
 
-== Academic Genealogy (a little Easter egg)
+== Academic Genealogy (Easter egg)
 
 ~~~
 {}{raw}
