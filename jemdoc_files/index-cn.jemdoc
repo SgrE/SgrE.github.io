@@ -12,7 +12,7 @@
 
 邮箱: *x*@*y* with *x*={{<font color="red">fanghui.liu</font>}}, *y*={{<font color="blue">outlook.com</font>}} or {{<font color="blue">sjtu.edu.cn</font>}} \n
 
-*{{<font color="red"> 招生更新：</font>}}*  暂时已确定若干有意向的*已入选数院夏令营的本科优秀营员*（数学与应用数学方向，无法招收统计方向）。申请考核制学生（例如有硕士学位）请关注后续数学学院网站通知，目前暂时无法招收，无需发邮件咨询（我会在我主页上进行更新）。2026年秋季入学硕士生入学后确定导师。</font>}}* 具体见招生信息。
+*{{<font color="red"> 招生更新：</font>}}*  暂时已确定若干有意向的*已入选数院夏令营的本科优秀营员*（数学与应用数学方向，无法招收统计方向）。申请考核制学生（例如有硕士学位）请关注后续数学学院网站通知，目前暂时无法招收，无需发邮件咨询（我会在我主页上进行更新）。2026年秋季入学硕士生入学后确定导师。 具体见下方招生信息。
 
 
 #我们正在组织机器学习的数学理论研讨会 [https://ml-math-2026.github.io/ *{{<font color="DarkMagenta"> Mathematical Foundations of Modern Machine Learning</font>}}*] \n
@@ -32,16 +32,16 @@
 
 - *机器学习数学理论:* 1）高维机器学习的逼近与泛化，函数空间理论，计算-统计效率鸿沟（computational-statistical gaps）；2）机器学习的尺度泛化理论（模型性能随数据规模、 模型规模尺度扩张的规律），包括模型有效容量的分析与刻画，进而指导模型设计与训练等；如何精确刻画机器学习模型泛化性质。
 
-相关文章参考\[[https://arxiv.org/abs/2404.18769 JMLR'24]\], \[[https://arxiv.org/abs/2502.01585 NeurIPS'25]\], \[[https://arxiv.org/abs/2110.06910 NeurIPS'22]\]
+相关文章参考\[[https://arxiv.org/abs/2404.18769 JMLR'24]\], \[[https://arxiv.org/abs/2502.01585 NeurIPS'25]\]
 
 - *大语言模型的机理分析:* 从经验与理论两个层面拓展我们对大模型机制的认知，例如1）预训练的尺度律形成机制，训练稳定性；2）探讨在何时、何处进行微调是必要且有效的，以及微调在精度、效率与鲁棒性方面所能达到的极限；3）推理的定义、评估以及机器学习的Lean语言实现，构建面向研究级别的大模型推理系统，推动ai4math的发展。
 
-相关文章参考\[[https://arxiv.org/abs/2602.02285 SLT-Lean]\], \[[https://arxiv.org/abs/2510.19842 ICLR'26]\], \[[https://arxiv.org/abs/2502.01235 ICML'25 Oral]\], \[[https://arxiv.org/abs/2004.11154 TPAMI'21]\]
+相关文章参考\[[https://arxiv.org/abs/2602.02285 ICML'26]\], \[[https://arxiv.org/abs/2510.19842 ICLR'26]\], \[[https://arxiv.org/abs/2502.01235 ICML'25 Oral]\]
 
 
-== 论文发表与学术报告 \[具体见[https://www.lfhsgre.org/ {{<font color="DarkMagenta">英文主页</font>}}]\]
+== 论文发表与学术报告 \[具体见[https://www.lfhsgre.org/publications.html {{<font color="DarkMagenta">Publications</font>}}]\]
 
-我的研究工作具体见英文主页([https://www.lfhsgre.org/publications.html *{{<font color="DarkMagenta">论文列表</font>}}*])。近五年内相关成果发表在 JMLR、SIAM、NeurIPS、ICML、ICLR、TPAMI共二十余篇。
+我的研究工作拓展了机器学习的函数空间理论；发展了尺度泛化理论（generalization under scaling），例如修正了双下降理论；以大模型微调为代表的“理论指导实践”范式。近五年内相关成果发表在 JMLR、SIAM、NeurIPS、ICML、ICLR、TPAMI共二十余篇。
 
 以上工作得到了国家自然科学基金委（海外优青项目、面上项目）、英国皇家学会（Royal Society）、英国艾伦·图灵研究所（Alan Turing Institute）、德国学术交流中心（DAAD）以及谷歌（Google）的资助。
 如果你对我的研究感兴趣，可进一步参考我的 [https://www.lfhsgre.org/talks.html *{{<font color="DarkMagenta">学术报告</font>}}*]内容。
