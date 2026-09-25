@@ -14,15 +14,10 @@ Yuanhe Zhang, Yuekai Sun, Taiji Suzuki, Jason D. Lee, *Fanghui Liu*. \n
 \[{{<font color="DarkMagenta">TLDR: Autoformalization of math research-level papers by Lean 4 is possible under our harness engineering, exemplified by Erdős problems.</font>}}\]
 
 
-- /How does feature learning reshape the function space?/.
-\[[https://arxiv.org/abs/2605.17718 arXiv]\]. \n
-João Lobo, Bruno Loureiro, Long Tran-Than, Fanghui Liu. \n
-\[{{<font color="DarkMagenta">TLDR: We demonstrate that, after one-step gradient descent, feature learning can be interpreted as a distributional transformation in either parameter space or input space.</font>}}\]
-
-
 - /Shallow ReLU Networks in L^p-Type and Sobolev Spaces: Approximation and Path-Norm Controlled Generalization/.
 \[[https://arxiv.org/abs/2605.18468 arXiv]\]. \n
 Weizhao Li, *Fanghui Liu*, Lei Shi.
+\[{{<font color="DarkMagenta">TLDR: We study how approximation difficulty changes from RKHS to Barron spaces via F_p spaces. It also has some connections with Fourier restriction problems in harmonic analysis.</font>}}\]
 
 
 - /Self-Regularized Learning Methods/.
@@ -31,6 +26,16 @@ Max Schölpple, *Fanghui Liu*, Ingo Steinwart. \n
 \[{{<font color="DarkMagenta">TLDR: We generalize empirical risk minimization to a new pipeline with implicit norm regularization.</font>}}\]
 
 == Accepted Papers
+
+- /How does feature learning reshape the function space?/.
+\[[https://arxiv.org/abs/2605.17718 arXiv]\]. \n
+João Lobo, Bruno Loureiro, Long Tran-Than, *Fanghui Liu*. \n
+in the 40th Conference on Neural Information Processing Systems (*NeurIPS*), 2026. \n
+
+- /Compute-Optimal Pretrain--Fine-tune in Ridge Gradient Descent/.
+\[[https://arxiv.org/abs/2609.16262 arXiv]\]. \n
+Alex Buna, *Fanghui Liu*, Patrick Rebeschini. \n
+in the 40th Conference on Neural Information Processing Systems (*NeurIPS*), 2026. \n
 
 
 - /Statistical Learning Theory in Lean 4: Empirical Processes from Scratch/.
