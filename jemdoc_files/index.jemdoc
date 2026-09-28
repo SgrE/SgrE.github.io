@@ -1,10 +1,10 @@
 # jemdoc: menu{MENU}{index.html}
-== Welcome to Fanghui Liu's Homepage! \[[https://www.lfhsgre.org/index-cn.html 中文简介]\]
+== Welcome to Fanghui Liu's Homepage! \[[index-cn.html 中文简介]\]
 
 ~~~
-{}{img_left}{images/me.jpg}{alt text}{200px}{200px}
+{}{img_left}{images/me.jpg}{Fanghui Liu}{200px}{200px}
 
-I'm currently a tenure-track associate professor at Institute of Natural Sciences and School of Mathematical Sciences, Shanghai Jiao Tong University (SJTU). I serve as a PhD supervisor in School of Mathematical Sciences and School of Artificial Intelligence, Shanghai Jiao Tong University. I have also been held a Global Visiting Professor at Technical University of Munich, Germany. Previously, I was an assistant professor at University of Warwick, UK ([https://warwick.ac.uk/fac/sci/dcs/research/fam/ FAM Division] and affiliated at [https://warwick.ac.uk/fac/cross_fac/dimap/ DIMAP]). Before my faculty position, I was a postdoc researcher at KU Leuven and EPFL from 2019 to 2023. I received my Bachelor’s degree in Automation from Harbin Institute of Technology in 2014 and my PhD degree from Shanghai Jiao Tong University in 2019.
+I'm currently a tenure-track associate professor at Institute of Natural Sciences and School of Mathematical Sciences, Shanghai Jiao Tong University (SJTU). I serve as a PhD supervisor in School of Mathematical Sciences and School of Artificial Intelligence, Shanghai Jiao Tong University. I have also held a Global Visiting Professorship at the Technical University of Munich, Germany. Previously, I was an assistant professor at University of Warwick, UK ([https://warwick.ac.uk/fac/sci/dcs/research/fam/ FAM Division] and affiliated at [https://warwick.ac.uk/fac/cross_fac/dimap/ DIMAP]). Before my faculty position, I was a postdoc researcher at KU Leuven and EPFL from 2019 to 2023. I received my Bachelor’s degree in Automation from Harbin Institute of Technology in 2014 and my PhD degree from Shanghai Jiao Tong University in 2019.
 
 
 ~~~
@@ -12,7 +12,13 @@ I'm currently a tenure-track associate professor at Institute of Natural Science
 Email: *x*@*y* with *x*={{<font color="red">fanghui.liu</font>}}, *y*={{<font color="blue">outlook.com</font>}} or {{<font color="blue">sjtu.edu.cn</font>}}  \n
 
 
-*{{<font color="red"> Updates: One PhD position for 2027 Fall is available. I have no plan to recruit postdoc researchers.</font>}}*  欢迎*已入选数院夏令营的本科优秀营员*（数学与应用数学方向，无法招收统计方向）联系。申请考核制学生（例如有硕士学位）请关注后续数学学院网站通知，目前暂时无法招收，无需发邮件咨询（我会在我主页上进行更新）。See [https://www.lfhsgre.org/positions.html Open positions] for details.
+~~~
+{}{raw}
+<aside class="flint-callout" aria-label="Research group and opportunities">
+  <p>I lead <a href="flint.html"><strong>FLINT Lab</strong></a> at Shanghai Jiao Tong University, connecting the mathematical foundations of learning with nonlinear approximation and modern learning practice.</p>
+  <p class="flint-callout-links"><a href="flint.html">About the lab</a><span aria-hidden="true">&middot;</span><a href="students.html">People</a><span aria-hidden="true">&middot;</span><a href="positions.html"><strong>Open positions / 招生信息</strong></a></p>
+</aside>
+~~~
 
 
 
@@ -20,7 +26,7 @@ Email: *x*@*y* with *x*={{<font color="red">fanghui.liu</font>}}, *y*={{<font co
 
 #We're organising [https://ijcvsi25pt.github.io/ *{{<font color="DarkMagenta"> IJCV Special Issue on Post-Training in Large Language Models for Computer Vision</font>}}*]!
 
-We release [https://statsmllib.github.io/ StatsMLlib] that develops probability, statistics, and machine learning in Lean 4. Welcome to contribute!
+#We release [https://statsmllib.github.io/ StatsMLlib] that develops probability, statistics, and machine learning in Lean 4. Welcome to contribute!
 
 
 #== Notice
@@ -36,15 +42,16 @@ We release [https://statsmllib.github.io/ StatsMLlib] that develops probability,
 
 I'm generally interested in *foundations of modern machine learning* from the lens of *learning efficiency*, both theoretically and empirically. My research is always contributing to how to *handle nonlinearity at a theoretical level* and how to precisely and efficiently *approximate nonlinearity at a practical level* under theoretical guidelines, which is a longstanding question over science, technology and engineering.
 ~~~
-{}{img_left}{images/RS_mini.jpg}{alt text}{850px}{220px}
+{}{raw}
+<div class="flint-research-map"><img src="images/RS_mini.jpg" alt="Overview of research directions" width="850" height="220" loading="lazy" /></div>
 ~~~
 
 
 My research (the past, ongoing and future) focuses on the following directions:
 - machine learning theory: what is the largest function space that can be learned by neural networks, both statistically and computationally efficiently (computational-statistical gaps)?
-- LLM pertaining: the principles of scaling laws, training dynamics
+- LLM pre-training: the principles of scaling laws, training dynamics
 - post-training in LLMs:  expand the frontiers of empirical and theoretical knowledge on when and where to fine-tune/inference, and how much we can fine-tune/inference, precisely, efficiently, and robustly
-- AI4MLT: AI for machine learning theory, lean auto-formalisation
+- AI4MLT: AI for machine learning theory, Lean auto-formalisation
 
 #My research was supported by grants from Royal Society (UK), Alan Turing Institute (UK), and DAAD (Germany).
 

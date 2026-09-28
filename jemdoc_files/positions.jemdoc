@@ -1,15 +1,65 @@
 # jemdoc: menu{MENU}{positions.html}, nofooter
-== Open positions
+# SINGLE MAINTENANCE POINT for recruitment details: update this file, not the two personal homepages.
+# Source notes (not independent verification of admission policy):
+# One Fall 2027 PhD place and no postdoc recruitment: uploaded index(2).jemdoc.
+# No Fall 2027 AI School recruitment, materials, examination scope: uploaded index-cn(1).jemdoc.
+# Programme codes and no new Warwick students: newly uploaded positions.jemdoc.
+# TO CONFIRM: the Chinese source includes master's supervision in Applied Mathematics AND Applied Statistics;
+# the newly uploaded positions.jemdoc lists only 025200 Applied Statistics. This draft keeps the latter explicit,
+# does not announce an Applied Mathematics opening, and asks applicants to confirm other programme eligibility.
+# See CONTENT_REVIEW.md for the differences between sources. The dated snapshot should be reviewed before publishing.
 
-
-Due to a large number of requests, I, unfortunately, may not be able to reply to all the emails regarding PhD applications. However, I'll look at applicants that have sent me emails and contact you soon if your enquires are indeed inline with my research.
-
-I will not take any new students at Warwick. Warwick has a strong research direction on TCS, mathematics, and statistics. Feel free to reach out to my previous colleagues at Warwick.
-
-At SJTU, I can take PhD students from School of Mathematical Sciences (070100 数学) and School of Artificial Intelligence (140500), master students from School of Mathematical Sciences (025200 应用统计).
-
-*{{<font color="red">The PhD positions for 2027 Fall are available.</font>}}* 
-
-报考数学科学学院的博士生需通过推免笔试、面试；报考人工智能学院的博士生名额单列。欢迎已经入获得*数院夏令营优秀营员*的本科直博生（070100数学）联系。
-
-申请考核制学生请关注后续数学学院网站通知，目前暂时无法招收，无需发邮件咨询（我会在我主页上进行更新）。
+~~~
+{}{raw}
+<div class="flint-page">
+<header class="flint-page-header">
+  <p class="flint-eyebrow"><a href="flint.html">FLINT Lab @ SJTU</a></p>
+  <h1>Open Positions</h1>
+  <p>Opportunities to work with Fanghui Liu at Shanghai Jiao Tong University.</p>
+</header>
+<nav class="flint-subnav" aria-label="FLINT Lab">
+  <a href="flint.html">Overview</a>
+  <a href="students.html">People</a>
+  <a href="positions.html" aria-current="page">Open Positions</a>
+  <a class="flint-subnav-cn" href="flint-cn.html" lang="zh-CN">研究组中文介绍</a>
+</nav>
+<section class="flint-status" aria-labelledby="recruitment-status">
+  <p class="flint-eyebrow">Recruitment update &middot; <time datetime="2026-09-28">28 September 2026</time></p>
+  <h2 id="recruitment-status">One PhD position for Fall 2027</h2>
+  <p>The current opening is through the <strong>School of Mathematical Sciences</strong>. I am not recruiting Fall 2027 PhD students through the School of Artificial Intelligence.</p>
+  <p>I have no plans to recruit postdoctoral researchers and will not take new students at Warwick.</p>
+  <a class="flint-text-link" href="#recruitment-cn" lang="zh-CN">中文招生条件与申请方式 &darr;</a>
+</section>
+<section aria-labelledby="research-fit">
+  <h2 id="research-fit">Research fit</h2>
+  <p>My research focuses on the mathematical foundations of machine learning and the mechanisms of large language models, with an emphasis on learning efficiency and nonlinear approximation. Please read the <a href="flint.html#research-themes">research themes</a> and <a href="publications.html">publications</a> before getting in touch.</p>
+  <p>Motivated undergraduates with a strong mathematical foundation, programming skills, or an active interest in research are also welcome to contact me.</p>
+</section>
+<section lang="zh-CN" aria-labelledby="recruitment-cn">
+  <h2 id="recruitment-cn">招生信息</h2>
+  <h3>2027 年秋季博士招生</h3>
+  <p>目前有 <strong>1 个博士名额</strong>，通过<strong>数学科学学院（070100 数学）</strong>招生，面向数学与应用数学方向，当前无法招收统计方向。欢迎已获得<strong>数院夏令营优秀营员</strong>资格的本科直博生联系。</p>
+  <p>报考数学科学学院的推免生需通过笔试、面试；笔试范围涉及数学分析、高等代数等。<strong>2027 年秋季入学博士生暂不从人工智能学院招收。</strong></p>
+  <p><strong>申请考核制学生</strong>（例如已取得硕士学位的申请人）请关注后续数学学院网站通知。目前暂时无法招收，无需就此发邮件咨询；安排变化会在本页面更新。</p>
+  <h3>硕士生与本科研究</h3>
+  <p>硕士招生渠道为<strong>数学科学学院（025200 应用统计）</strong>。2026 年秋季入学硕士生入学后确定导师；其他专业的可接收情况及当年名额请邮件确认。</p>
+  <p>本科生如果具有较强的自我驱动力、较好的数学基础或编程能力，或思维活跃，也欢迎联系，介绍自己的研究兴趣与相关准备。</p>
+  <h3>联系与申请材料</h3>
+  <p>请通过电子邮件发送<strong>简历（CV）、成绩单</strong>，并附上一段简要说明，介绍<strong>你的研究兴趣，以及为什么希望与我工作</strong>。中英文邮件均可。</p>
+  <p>邮箱：<a href="mailto:fanghui.liu@sjtu.edu.cn">fanghui.liu@sjtu.edu.cn</a>；备用：<a href="mailto:fanghui.liu@outlook.com">fanghui.liu@outlook.com</a>。</p>
+  <p>由于申请咨询数量较多，恕不能回复所有邮件；如果研究兴趣与我的方向相符，我会进一步联系。</p>
+  <p class="flint-section-note">个人简介见 <a href="index-cn.html">中文主页</a>。招生安排请结合本页面更新及相关学院通知。</p>
+</section>
+<section aria-labelledby="contact-en">
+  <h2 id="contact-en">Getting in touch</h2>
+  <p>Email your <strong>CV and transcript</strong>, together with a short explanation of your research interests and why you would like to work with me. You are welcome to write in English or Chinese.</p>
+  <p>Contact: <a href="mailto:fanghui.liu@sjtu.edu.cn">fanghui.liu@sjtu.edu.cn</a> or <a href="mailto:fanghui.liu@outlook.com">fanghui.liu@outlook.com</a>.</p>
+  <p>Because of the number of enquiries, I may not be able to reply to every email. I will follow up when there is a close match with my research.</p>
+</section>
+<section aria-labelledby="supervision-context">
+  <h2 id="supervision-context">Supervision context</h2>
+  <p>I am based at SJTU's Institute of Natural Sciences, with a joint appointment in the School of Mathematical Sciences. I serve as a PhD supervisor in the School of Mathematical Sciences (070100 Mathematics) and the School of Artificial Intelligence (140500). These general supervision affiliations do not imply an opening in every school or year; the Fall 2027 restrictions are stated above.</p>
+  <p>I am not accepting new students at Warwick. Prospective applicants interested in theoretical computer science, mathematics, or statistics there are welcome to contact my former colleagues; I am also happy to provide introductions and recommendations where appropriate.</p>
+</section>
+</div>
+~~~

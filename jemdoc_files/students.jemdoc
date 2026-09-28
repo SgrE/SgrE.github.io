@@ -1,46 +1,88 @@
 # jemdoc: menu{MENU}{students.html}, nofooter
-== Students
+# People: names, degrees, links and dates are transferred from the supplied English and Chinese pages.
+# Yi Lu starts in October 2026: review the "Incoming" label after enrolment.
+# Yuanhe's credential is rendered as MMathStat (Chinese source: integrated MMathStat degree); see CONTENT_REVIEW.md.
+# Previously commented-out entries remain inactive:
+# Ioannis Bantzis (EPFL master's student): semester project on non-lazy training.
+# Zachary Jones (KU Leuven MSc -> CMAP PhD).
 
-== Shanghai Jiao Tong University
-
-PhD students
-
-- Yining Qian (B.S. in Math, SJTU Zhiyuan): 2026.09 -
-
-Undergraduate students
-
-- Yanzhe Chen (SJTU Math): 2026.03 -
-
-
-== Warwick
-
-PhD students
-
-- [https://yuanhez.github.io/ Yuanhe Zhang] (B.S. in MMathStat, Warwick, co-supervised with [https://thomasberrett.github.io/ Dr. Thomas Berrett]): 2024.10 -
-
-- Joao Felipe Lobo Pevidor (Bsc./Msc. in CS, University of São Paulo, Brazil): 2025.10 -
-
-- Yi Lu (B.S. in Math, Warwick, co-supervised by Prof. Ranko Lazic): 2026.10 -
-	
-== Alumni
-
-- [https://yichenblue.github.io/ Yichen Wang] (Visiting student from SJTU, 2024.09 - 2024.12, now PhD at UW Madison)
-
-Previously, I served as a daily supervisor of Bsc/Msc/PhD students at EPFL (daily supervisor on semester project, thesis) and KU Leuven (master thesis)
-
-- [https://yhangchen.github.io/ Yihang Chen] (ICLR'24 Spotlight, ICML'24, EPFL Msc -> PhD at UCLA)
-
-- [https://www.epfl.ch/labs/lions/people/phds/elias/ Elias Abad Rocamora] (NeurIPS'22, ICLR'24, ICML'24, EPFL visiting student -> EPFL PhD -> Google DeepMind)
-
-- [https://www.epfl.ch/labs/lions/people/phds/yongtao-wu/ Yongtao Wu] (NeurIPS'22, NeurIPS'23, ICLR'24, EPFL visiting student -> EPFL PhD)
-
-- [https://zhuzhenyu1997.github.io/ Zhenyu Zhu] (NeurIPS'22, ICML'23, ICLR'25, EPFL Msc. -> EPFL PhD)
-
-
-#- Ioannis Bantzis (now a master student at EPFL): semester project on non-lazy training
-
-- Zhan Li (EPFL MSc -> Ant Group)
-
-- Edmund Hofflin (EPFL Msc -> Oxford PhD)
-
-# - Zachary Jones (KU Leuven MSc -> CMAP PhD)
+~~~
+{}{raw}
+<div class="flint-page">
+<header class="flint-page-header">
+  <p class="flint-eyebrow"><a href="flint.html">FLINT Lab @ SJTU</a></p>
+  <h1>People &amp; Mentoring</h1>
+  <p>Current FLINT members, students at Warwick, and earlier mentoring.</p>
+</header>
+<nav class="flint-subnav" aria-label="FLINT Lab">
+  <a href="flint.html">Overview</a>
+  <a href="students.html" aria-current="page">People</a>
+  <a href="positions.html">Open Positions</a>
+  <a class="flint-subnav-cn" href="flint-cn.html" lang="zh-CN">研究组中文介绍</a>
+</nav>
+<section aria-labelledby="flint-members">
+  <h2 id="flint-members">FLINT members</h2>
+  <p class="flint-section-note">Shanghai Jiao Tong University</p>
+  <article class="flint-person flint-person-pi">
+    <div>
+      <h3><a href="index.html">Fanghui Liu <span lang="zh-CN">刘方辉</span></a></h3>
+      <p class="flint-role">Principal investigator &middot; Tenure-track associate professor</p>
+      <p>Institute of Natural Sciences &amp; School of Mathematical Sciences.<br />PhD supervisor in the School of Mathematical Sciences and the School of Artificial Intelligence.</p>
+      <p class="flint-small"><a href="index.html">Personal homepage</a> &middot; <a href="index-cn.html" lang="zh-CN">中文简介</a></p>
+    </div>
+  </article>
+  <div class="flint-people-grid">
+    <article class="flint-person">
+      <p class="flint-role">PhD student</p>
+      <h3>Yining Qian <span lang="zh-CN">钱奕宁</span></h3>
+      <p>B.S. in Mathematics, Zhiyuan College, SJTU.</p>
+      <p class="flint-dates">Since September 2026</p>
+    </article>
+    <article class="flint-person">
+      <p class="flint-role">Undergraduate researcher</p>
+      <h3>Yanzhe Chen <span lang="zh-CN">陈衍哲</span></h3>
+      <p>School of Mathematical Sciences, SJTU.<br />Undergraduate cohort of 2024.</p>
+      <p class="flint-dates">Since March 2026</p>
+    </article>
+  </div>
+</section>
+<section aria-labelledby="warwick-students">
+  <h2 id="warwick-students">Students at Warwick</h2>
+  <p class="flint-section-note">Doctoral students supervised or co-supervised by Fanghui at the University of Warwick.</p>
+  <article class="flint-person flint-person-row">
+    <h3><a href="https://yuanhez.github.io/">Yuanhe Zhang</a></h3>
+    <p class="flint-role">PhD student &middot; Since October 2024</p>
+    <p>MMathStat, University of Warwick. Co-supervised with <a href="https://thomasberrett.github.io/">Dr. Thomas Berrett</a>.</p>
+  </article>
+  <article class="flint-person flint-person-row">
+    <h3>Joao Felipe Lobo Pevidor</h3>
+    <p class="flint-role">PhD student &middot; Since October 2025</p>
+    <p>B.Sc. and M.Sc. in Computer Science, University of S&atilde;o Paulo, Brazil.</p>
+  </article>
+  <article class="flint-person flint-person-row">
+    <h3>Yi Lu</h3>
+    <p class="flint-role">Incoming PhD student &middot; Starting October 2026</p>
+    <p>B.S. in Mathematics and master's degree in Statistics, University of Warwick. Co-supervised with <a href="https://warwick.ac.uk/fac/sci/dcs/people/ranko_lazic/">Prof. Ranko Lazic</a>.</p>
+  </article>
+</section>
+<section aria-labelledby="former-mentees">
+  <h2 id="former-mentees">Former students &amp; mentees</h2>
+  <p class="flint-section-note">Earlier visiting and mentoring relationships, including those predating FLINT.</p>
+  <h3>Visiting students</h3>
+  <ul class="flint-mentoring-list">
+    <li><a href="https://yichenblue.github.io/">Yichen Wang</a> &mdash; visiting student from SJTU, September&ndash;December 2024; now a PhD student at the University of Wisconsin&ndash;Madison.</li>
+  </ul>
+  <h3>Earlier mentoring at EPFL and KU Leuven</h3>
+  <p>Fanghui previously served as a daily supervisor for bachelor's, master's, and PhD students at EPFL on semester projects and theses, and for master's theses at KU Leuven.</p>
+  <ul class="flint-mentoring-list">
+    <li><a href="https://yhangchen.github.io/">Yihang Chen</a> &mdash; EPFL M.Sc. &rarr; PhD at UCLA.<br /><span class="flint-small">ICLR 2024 Spotlight; ICML 2024.</span></li>
+    <li><a href="https://www.epfl.ch/labs/lions/people/phds/elias/">Elias Abad Rocamora</a> &mdash; EPFL visiting student &rarr; EPFL PhD &rarr; Google DeepMind.<br /><span class="flint-small">NeurIPS 2022; ICLR 2024; ICML 2024.</span></li>
+    <li><a href="https://www.epfl.ch/labs/lions/people/phds/yongtao-wu/">Yongtao Wu</a> &mdash; EPFL visiting student &rarr; EPFL PhD.<br /><span class="flint-small">NeurIPS 2022; NeurIPS 2023; ICLR 2024.</span></li>
+    <li><a href="https://zhuzhenyu1997.github.io/">Zhenyu Zhu</a> &mdash; EPFL M.Sc. &rarr; EPFL PhD.<br /><span class="flint-small">NeurIPS 2022; ICML 2023; ICLR 2025.</span></li>
+    <li>Zhan Li &mdash; EPFL M.Sc. &rarr; Ant Group.</li>
+    <li>Edmund Hofflin &mdash; EPFL M.Sc. &rarr; Oxford PhD.</li>
+  </ul>
+</section>
+<aside class="flint-callout"><p>Interested in working with us? Please see <a href="positions.html">Open Positions</a> for current opportunities and application information.</p></aside>
+</div>
+~~~
