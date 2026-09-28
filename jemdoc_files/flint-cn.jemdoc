@@ -1,91 +1,60 @@
 # jemdoc: menu{MENU}{flint-cn.html}, nofooter
-# 中文研究组主页。与 flint.jemdoc 对应；个人中文简介仍在 index-cn.jemdoc。
-# 研究内容与链接沿用上一版和用户上传的个人页面，不新增招生承诺或成果归属。
-# 成员只维护 students.jemdoc；招生只维护 positions.jemdoc。
+# 使用普通 jemdoc 标题、段落和列表；与已确认的英文页保持相同排版。
+# Logo 最大宽度为 760px；窄屏自动缩至正文栏宽度，高度保持原比例。
+# 保留页面锚点；成员只维护 students.jemdoc，招生只维护 positions.jemdoc。
 
-~~~
-{}{raw}
-<div class="flint-page flint-overview" lang="zh-CN">
-<header class="flint-banner-hero">
-  <nav class="flint-language" aria-label="语言切换">
-    <a href="flint.html" lang="en" hreflang="en">English</a><span class="flint-language-divider" aria-hidden="true">/</span><span lang="zh-CN" aria-current="page">中文</span>
-  </nav>
-  <h1 class="flint-sr-only">FLINT 研究组 · 上海交通大学</h1>
-  <figure class="flint-banner">
-    <img src="images/flint-logo-full.png" width="2048" height="682" alt="FLINT Lab @ SJTU — Foundations of Learning in Nonlinear Transformations — Theory that sparks practice" decoding="async" fetchpriority="high" />
-  </figure>
-  <p class="flint-mobile-expansion" lang="en">Foundations of Learning in<br />Nonlinear Transformations</p>
-  <div class="flint-motto-block">
-    <p class="flint-motto" lang="en">Theory that <strong>sparks</strong> practice</p>
-    <p class="flint-motto-cn">以理论点亮实践</p>
-  </div>
-</header>
-<nav class="flint-subnav" aria-label="FLINT 研究组">
-  <a href="flint-cn.html" aria-current="page">研究组介绍</a>
-  <a href="students.html">成员与指导经历</a>
-  <a href="positions.html#recruitment-cn">招生信息</a>
-</nav>
-<section class="flint-intro" aria-label="关于 FLINT">
-  <p>我们研究非线性模型中学习的数学基础，将逼近、优化与泛化的理论认识，连接到现代学习系统的设计与理解。</p>
-  <p>FLINT 由上海交通大学<a href="index-cn.html">刘方辉</a>组建，围绕机器学习数学理论与大语言模型的机理分析开展研究。刘方辉在<a href="https://ins.sjtu.edu.cn/topics/overview">自然科学研究院</a>与<a href="https://math.sjtu.edu.cn/">数学科学学院</a>联合任职。</p>
-  <p class="flint-principle">我们的核心视角是<strong>学习效率</strong>：在理论层面刻画与处理非线性，并以这些认识指导精确、高效的学习方法。</p>
-</section>
-<section aria-labelledby="research-themes">
-  <h2 id="research-themes">研究方向</h2>
-  <div class="flint-theme-grid">
-    <article class="flint-theme">
-      <p class="flint-kicker">数学基础</p>
-      <h3>学习理论与非线性逼近</h3>
-      <p>非线性模型能够表示什么、学到什么？其统计与计算代价是什么？</p>
-      <ul>
-        <li>高维逼近、泛化与函数空间理论。</li>
-        <li>计算与统计效率鸿沟，以及学习效率。</li>
-        <li>尺度泛化与模型的有效容量。</li>
-      </ul>
-    </article>
-    <article class="flint-theme">
-      <p class="flint-kicker">现代学习系统的机理</p>
-      <h3>大语言模型的机理分析</h3>
-      <p>训练、微调与推理如何发挥作用？对其机制的理解如何指导方法设计？</p>
-      <ul>
-        <li>预训练尺度律、训练动力学与稳定性。</li>
-        <li>微调：何时、何处，以及多大程度的适配有效。</li>
-        <li>推理、Lean 形式化与面向机器学习理论的 AI。</li>
-      </ul>
-    </article>
-  </div>
-</section>
-<section aria-labelledby="selected-research">
-  <h2 id="selected-research">代表工作与项目</h2>
-  <p class="flint-section-note">以下工作由刘方辉与合作者开展，构成研究组的研究基础。完整论文列表仍在<a href="publications.html">个人研究主页</a>维护。</p>
-  <div class="flint-work-list">
-    <article class="flint-work">
-      <h3>学习理论与非线性逼近</h3>
-      <p>从函数空间的视角理解逼近与学习。</p>
-      <p class="flint-work-links"><a href="https://arxiv.org/abs/2404.18769">JMLR 2024</a><a href="https://arxiv.org/abs/2502.01585">NeurIPS 2025</a></p>
-    </article>
-    <article class="flint-work">
-      <h3>从理论认识到高效微调</h3>
-      <p>将数学理解与大语言模型的高效适配相联系。</p>
-      <p class="flint-work-links"><a href="https://arxiv.org/abs/2502.01235">ICML 2025 &middot; Oral</a></p>
-    </article>
-    <article class="flint-work">
-      <h3>推理与形式化</h3>
-      <p>研究级推理，以及概率、统计与机器学习在 Lean 中的形式化基础。</p>
-      <p class="flint-work-links"><a href="https://arxiv.org/abs/2510.19842">ICLR 2026</a><a href="https://arxiv.org/abs/2602.02285">ICML 2026</a><a href="https://statsmllib.github.io/">StatsMLlib</a></p>
-    </article>
-  </div>
-</section>
-<section class="flint-join" aria-labelledby="connect-with-flint">
-  <div>
-    <h2 id="connect-with-flint">成员与加入机会</h2>
-    <p>了解我们的成员，以及围绕现代学习的理论与实践开展研究的机会。</p>
-    <p class="flint-small">当前招生状态、申请条件与中文申请说明，统一在招生页面更新。</p>
-  </div>
-  <div class="flint-actions">
-    <a class="flint-button" href="students.html">成员与指导经历</a>
-    <a class="flint-button flint-button-primary" href="positions.html#recruitment-cn">招生信息与申请方式</a>
-  </div>
-</section>
-</div>
-~~~
+== FLINT 研究组 · 上海交通大学 \[[flint.html English]\]
+
+{{<img src="images/flint-logo-full.png" alt="FLINT Lab @ SJTU — Foundations of Learning in Nonlinear Transformations — Theory that sparks practice" width="760" style="display:block; max-width:100%; height:auto; margin:8px auto 18px; border-radius:0;" />}}
+
+*{{<font color="DarkMagenta">Theory that sparks practice</font>}}* \n
+*以理论点亮实践* \n
+/Foundations of Learning in Nonlinear Transformations/
+
+FLINT 由上海交通大学[index-cn.html 刘方辉]组建，围绕机器学习数学理论与大语言模型的机理分析开展研究。刘方辉在[https://ins.sjtu.edu.cn/topics/overview 自然科学研究院]与[https://math.sjtu.edu.cn/ 数学科学学院]联合任职。
+
+我们研究*非线性模型中学习的数学基础*，将逼近、优化与泛化的理论认识，连接到现代学习系统的设计与理解。
+我们的核心视角是*学习效率*：在理论层面刻画与处理非线性，并以这些认识指导精确、高效的学习方法。
+
+\[[students.html 成员与指导经历]\] · \[[positions.html#recruitment-cn 招生信息]\] · \[[publications.html 论文列表]\]
+
+== 研究方向 {{<a id="research-themes"></a>}}
+
+我们的研究围绕学习理论与大语言模型的机理分析，主要包括以下两个紧密联系的方向：
+
+=== 学习理论与非线性逼近
+
+/非线性模型能够表示什么、学到什么？其统计与计算代价是什么？/
+
+- 高维逼近、泛化与函数空间理论。
+- 计算与统计效率鸿沟，以及学习效率。
+- 尺度泛化与模型的有效容量。
+
+=== 大语言模型的机理分析
+
+/训练、微调与推理如何发挥作用？对其机制的理解如何指导方法设计？/
+
+- 预训练尺度律、训练动力学与稳定性。
+- 微调：何时、何处，以及多大程度的适配有效。
+- 推理、Lean 形式化与面向机器学习理论的 AI。
+
+== 代表工作与项目 {{<a id="selected-research"></a>}}
+
+以下工作由刘方辉与合作者开展，构成研究组的研究基础。完整论文列表仍在[publications.html 个人研究主页]维护。
+
+- /学习理论与非线性逼近/。 \n
+\[[https://arxiv.org/abs/2404.18769 JMLR'24]\]，\[[https://arxiv.org/abs/2502.01585 NeurIPS'25]\]。 \n
+{{<font color="DarkMagenta">从函数空间的视角理解逼近与学习。</font>}}
+
+- /从理论认识到高效微调/。 \n
+\[[https://arxiv.org/abs/2502.01235 ICML'25 Oral]\]。 \n
+{{<font color="DarkMagenta">将数学理解与大语言模型的高效适配相联系。</font>}}
+
+- /推理与形式化/。 \n
+\[[https://arxiv.org/abs/2510.19842 ICLR'26]\]，\[[https://arxiv.org/abs/2602.02285 ICML'26]\]，\[[https://statsmllib.github.io/ StatsMLlib]\]。 \n
+{{<font color="DarkMagenta">研究级推理，以及概率、统计与机器学习在 Lean 中的形式化基础。</font>}}
+
+== 成员与加入机会 {{<a id="connect-with-flint"></a>}}
+
+了解我们的[students.html 成员与指导经历]，以及围绕现代学习的理论与实践开展研究的机会。
+当前招生状态、申请条件与中文申请说明，统一在[positions.html Open Positions]页面更新。
