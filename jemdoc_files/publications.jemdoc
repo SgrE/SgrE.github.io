@@ -8,6 +8,13 @@ I normally add "TLDR" for the selected publications.
 
 == Preprints
 
+- /Muon Sublates the Edge of Stability in LLM Pretraining/.
+\[[http://arxiv.org/abs/2609.34915 arXiv]\], \[[https://github.com/cyzebra/Muon-Sublates-the-Edge-of-Stability-in-LLM-Pretraining code]\]. \n
+Yanzhe Chen, Qifang Zhao, Xiaoxiao Xu, *Fanghui Liu*. \n
+\[{{<font color="DarkMagenta">TLDR: We show whether EoS exists in LLM pre-training, how such concept requires to be sublated, and how the results could inspire new learning rate and batch size schedules.</font>}}\]
+
+
+
 - /LeanMarathon: Toward Reliable AI Co-Mathematicians through Long-Horizon Lean Autoformalization/.
 \[[https://arxiv.org/abs/2606.05400 arXiv]\], \[[https://github.com/YuanheZ/LeanMarathon code]\], \[[files/lean.gif GIF illustration]\]. \n
 Yuanhe Zhang, Yuekai Sun, Taiji Suzuki, Jason D. Lee, *Fanghui Liu*. \n
