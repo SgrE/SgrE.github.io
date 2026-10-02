@@ -8,18 +8,22 @@ I normally add "TLDR" for the selected publications.
 
 == Preprints
 
-- /Muon Sublates the Edge of Stability in LLM Pretraining/.
+- /
+From Spectra to Joint Schedules in LLM Pre-training: 3+3(+2) Scaling-Law Regimes/.
+\[[https://arxiv.org/abs/2609.40148 arXiv]\], \[[https://github.com/yichenblue/spectra-to-schedules-in-pretraining code]\]. \n
+Yichen Wang, *Fanghui Liu*, Yudong Chen. \n
+\[{{<font color="DarkMagenta">TLDR: We show a sufficient and necessary condition of scaling laws (partially), point out that the scaling laws can be controlled by the intrinsic time and the ratio between the batch size and learning rate, and validate a successful prediction on 300M nano-GPT training.</font>}}\]
+
+
+- /Muon Sublates the Edge of Stability in LLM Pre-training/.
 \[[http://arxiv.org/abs/2609.34915 arXiv]\], \[[https://github.com/cyzebra/Muon-Sublates-the-Edge-of-Stability-in-LLM-Pretraining code]\]. \n
 Yanzhe Chen, Qifang Zhao, Xiaoxiao Xu, *Fanghui Liu*. \n
 \[{{<font color="DarkMagenta">TLDR: We show whether EoS exists in LLM pre-training, how such concept requires to be sublated, and how the results could inspire new learning rate and batch size schedules.</font>}}\]
-
-
 
 - /LeanMarathon: Toward Reliable AI Co-Mathematicians through Long-Horizon Lean Autoformalization/.
 \[[https://arxiv.org/abs/2606.05400 arXiv]\], \[[https://github.com/YuanheZ/LeanMarathon code]\], \[[files/lean.gif GIF illustration]\]. \n
 Yuanhe Zhang, Yuekai Sun, Taiji Suzuki, Jason D. Lee, *Fanghui Liu*. \n
 \[{{<font color="DarkMagenta">TLDR: Autoformalization of math research-level papers by Lean 4 is possible under our harness engineering, exemplified by Erdős problems.</font>}}\]
-
 
 - /Shallow ReLU Networks in L^p-Type and Sobolev Spaces: Approximation and Path-Norm Controlled Generalization/.
 \[[https://arxiv.org/abs/2605.18468 arXiv]\]. \n
