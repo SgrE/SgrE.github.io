@@ -1,7 +1,9 @@
 # jemdoc: menu{MENU}{talk.html}, nofooter
 == Talks
 
-- [files/CSIAM_Position_talk.pdf 深度学习（理论）的技术科学道路] 
+- [files/CSIAM_Position_talk.pdf 深度学习（理论）的技术科学道路]
+
+- [files/talk_3_3_scaling_laws.pdf 3+3 Scaling laws for LLM Pre-training]
 
 - [files/talk_ML-STAT-2026.pdf STAT4AI-AI4SLT] 
 
