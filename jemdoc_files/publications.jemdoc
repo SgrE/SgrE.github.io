@@ -10,7 +10,7 @@ I normally add "TLDR" for the selected publications.
 
 - /
 From Spectra to Joint Schedules in LLM Pre-training: 3+3(+2) Scaling-Law Regimes/.
-\[[https://arxiv.org/abs/2609.40148 arXiv]\], \[[https://github.com/yichenblue/spectra-to-schedules-in-pretraining code]\]. (submitted) \n
+\[[https://arxiv.org/abs/2609.40148 arXiv]\], \[[https://github.com/yichenblue/spectra-to-schedules-in-pretraining code]\], \[[files/3+3+2.gif GIF illustration]\]. (submitted) \n
 Yichen Wang, *Fanghui Liu*, Yudong Chen. \n
 \[{{<font color="DarkMagenta">TLDR: We show a sufficient and necessary condition of scaling laws (partially), point out that the scaling laws can be controlled by the intrinsic time and the ratio between the batch size and learning rate, and validate a successful prediction on 300M nano-GPT training. It can be a good example of how a simple model sparks LLM pre-training configurations.</font>}}\]
 
