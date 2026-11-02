@@ -20,6 +20,10 @@ Yichen Wang, *Fanghui Liu*, Yudong Chen. \n
 Yanzhe Chen, Qifang Zhao, Xiaoxiao Xu, *Fanghui Liu*. \n
 \[{{<font color="DarkMagenta">TLDR: We show whether EoS exists in LLM pre-training (up to the scale of 1B model), how such concept requires to be sublated, and how the results could inspire new learning rate and batch size schedules.</font>}}\]
 
+- /Are Parameter-Efficient Fine-tuning Methods Really Different?/.
+\[[https://arxiv.org/abs/2610.09122 arXiv]\], \[[https://github.com/Kuaaannn/PEFT_methods code]\], \[[https://kuaaannn.github.io/peft-methods/?lang=en blog]. (submitted) \n
+Yikuan Li, Pinyan Lu, *Fanghui Liu*. \n
+
 - /LeanMarathon: Toward Reliable AI Co-Mathematicians through Long-Horizon Lean Autoformalization/.
 \[[https://arxiv.org/abs/2606.05400 arXiv]\], \[[https://github.com/YuanheZ/LeanMarathon code]\], \[[files/lean.gif GIF illustration]\]. \n
 Yuanhe Zhang, Yuekai Sun, Taiji Suzuki, Jason D. Lee, *Fanghui Liu*. \n
